@@ -1,0 +1,15 @@
+E:\LPU\Day_2\Condition_Questions\bin\Debug\net10.0\Condition_Questions.exe
+E:\LPU\Day_2\Condition_Questions\bin\Debug\net10.0\Condition_Questions.deps.json
+E:\LPU\Day_2\Condition_Questions\bin\Debug\net10.0\Condition_Questions.runtimeconfig.json
+E:\LPU\Day_2\Condition_Questions\bin\Debug\net10.0\Condition_Questions.dll
+E:\LPU\Day_2\Condition_Questions\bin\Debug\net10.0\Condition_Questions.pdb
+E:\LPU\Day_2\Condition_Questions\obj\Debug\net10.0\Condition_Questions.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Day_2\Condition_Questions\obj\Debug\net10.0\Condition_Questions.AssemblyInfoInputs.cache
+E:\LPU\Day_2\Condition_Questions\obj\Debug\net10.0\Condition_Questions.AssemblyInfo.cs
+E:\LPU\Day_2\Condition_Questions\obj\Debug\net10.0\Condition_Questions.csproj.CoreCompileInputs.cache
+E:\LPU\Day_2\Condition_Questions\obj\Debug\net10.0\Condition_Questions.sourcelink.json
+E:\LPU\Day_2\Condition_Questions\obj\Debug\net10.0\Condition_Questions.dll
+E:\LPU\Day_2\Condition_Questions\obj\Debug\net10.0\refint\Condition_Questions.dll
+E:\LPU\Day_2\Condition_Questions\obj\Debug\net10.0\Condition_Questions.pdb
+E:\LPU\Day_2\Condition_Questions\obj\Debug\net10.0\Condition_Questions.genruntimeconfig.cache
+E:\LPU\Day_2\Condition_Questions\obj\Debug\net10.0\ref\Condition_Questions.dll

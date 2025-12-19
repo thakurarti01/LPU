@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\LPU\\Day_2\\Loop_Questions\\Loop_Questions.csproj": {}
+    "E:\\LPU\\Day_1\\Basic_Questions\\Basic_Questions.csproj": {}
   },
   "projects": {
-    "E:\\LPU\\Day_2\\Loop_Questions\\Loop_Questions.csproj": {
+    "E:\\LPU\\Day_1\\Basic_Questions\\Basic_Questions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\LPU\\Day_2\\Loop_Questions\\Loop_Questions.csproj",
-        "projectName": "Loop_Questions",
-        "projectPath": "E:\\LPU\\Day_2\\Loop_Questions\\Loop_Questions.csproj",
+        "projectUniqueName": "E:\\LPU\\Day_1\\Basic_Questions\\Basic_Questions.csproj",
+        "projectName": "Basic_Questions",
+        "projectPath": "E:\\LPU\\Day_1\\Basic_Questions\\Basic_Questions.csproj",
         "packagesPath": "C:\\Users\\artit\\.nuget\\packages\\",
-        "outputPath": "E:\\LPU\\Day_2\\Loop_Questions\\obj\\",
+        "outputPath": "E:\\LPU\\Day_1\\Basic_Questions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\artit\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\LPU\\Day_1\\Condition_Questions\\Condition_Questions.csproj",
+      "projectUniqueName": "E:\\LPU\\Day_2\\Condition_Questions\\Condition_Questions.csproj",
       "projectName": "Condition_Questions",
-      "projectPath": "E:\\LPU\\Day_1\\Condition_Questions\\Condition_Questions.csproj",
+      "projectPath": "E:\\LPU\\Day_2\\Condition_Questions\\Condition_Questions.csproj",
       "packagesPath": "C:\\Users\\artit\\.nuget\\packages\\",
-      "outputPath": "E:\\LPU\\Day_1\\Condition_Questions\\obj\\",
+      "outputPath": "E:\\LPU\\Day_2\\Condition_Questions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\artit\\AppData\\Roaming\\NuGet\\NuGet.Config"

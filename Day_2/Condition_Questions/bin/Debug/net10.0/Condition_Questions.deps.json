@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Condition_Questions/1.0.0": {
+        "runtime": {
+          "Condition_Questions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Condition_Questions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
