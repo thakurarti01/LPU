@@ -7,6 +7,7 @@ class Program
 {
     static void Main()
     {
-        Height_Category.HeightMain();
+        //Height_Category.HeightMain();
+        Largest_Of_Three.LargestMain();
     }
 }
