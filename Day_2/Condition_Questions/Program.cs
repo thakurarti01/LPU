@@ -11,6 +11,7 @@ class Program
         // Largest_Of_Three.LargestMain();
         // Leap_Year.LeapMain();
         // Admission_Eligibility.AdmissionMain();
-        Vowel_Consonant.VowelMain();
+        // Vowel_Consonant.VowelMain();
+        Triangle.TriangleMain();
     }
 }
