@@ -9,6 +9,8 @@ class Program
     {
         // Height_Category.HeightMain();
         // Largest_Of_Three.LargestMain();
-        Leap_Year.LeapMain();
+        // Leap_Year.LeapMain();
+        // Admission_Eligibility.AdmissionMain();
+        Vowel_Consonant.VowelMain();
     }
 }
