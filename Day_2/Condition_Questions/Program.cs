@@ -10,9 +10,16 @@ class Program
         // Height_Category.HeightMain();
         // Largest_Of_Three.LargestMain();
         // Leap_Year.LeapMain();
+
         // Admission_Eligibility.AdmissionMain();
+
         // Vowel_Consonant.VowelMain();
         // Triangle.TriangleMain();
-        Grade_Des.GradeMain();
+        // Grade_Des.GradeMain();
+
+
+
+
+        Calculator.CalMain();
     }
 }
