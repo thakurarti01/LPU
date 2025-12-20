@@ -12,6 +12,7 @@ class Program
         // Leap_Year.LeapMain();
         // Admission_Eligibility.AdmissionMain();
         // Vowel_Consonant.VowelMain();
-        Triangle.TriangleMain();
+        // Triangle.TriangleMain();
+        Grade_Des.GradeMain();
     }
 }
