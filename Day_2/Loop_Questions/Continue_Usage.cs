@@ -6,11 +6,11 @@ class Continue_Usage
     {
         for(int i = 1; i<=50; i++)
         {
-            Console.WriteLine(i);
             if(i%3 == 0)
             {
                 continue;
             }
+            Console.WriteLine(i);
         }
     }
 }

@@ -7,6 +7,8 @@ class Program
 {
     static void Main()
     {
-        Continue_Usage.ContMain();
+        // Fibonacci_Series.FibMain();
+            Diamond.DiamMain();
+        // Continue_Usage.ContMain();
     }
 }
