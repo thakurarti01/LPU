@@ -1,0 +1,15 @@
+E:\LPU\Day_2\Loop_Questions\obj\Debug\net10.0\Loop_Questions.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Day_2\Loop_Questions\obj\Debug\net10.0\Loop_Questions.AssemblyInfoInputs.cache
+E:\LPU\Day_2\Loop_Questions\obj\Debug\net10.0\Loop_Questions.AssemblyInfo.cs
+E:\LPU\Day_2\Loop_Questions\obj\Debug\net10.0\Loop_Questions.csproj.CoreCompileInputs.cache
+E:\LPU\Day_2\Loop_Questions\obj\Debug\net10.0\Loop_Questions.sourcelink.json
+E:\LPU\Day_2\Loop_Questions\bin\Debug\net10.0\Loop_Questions.exe
+E:\LPU\Day_2\Loop_Questions\bin\Debug\net10.0\Loop_Questions.deps.json
+E:\LPU\Day_2\Loop_Questions\bin\Debug\net10.0\Loop_Questions.runtimeconfig.json
+E:\LPU\Day_2\Loop_Questions\bin\Debug\net10.0\Loop_Questions.dll
+E:\LPU\Day_2\Loop_Questions\bin\Debug\net10.0\Loop_Questions.pdb
+E:\LPU\Day_2\Loop_Questions\obj\Debug\net10.0\Loop_Questions.dll
+E:\LPU\Day_2\Loop_Questions\obj\Debug\net10.0\refint\Loop_Questions.dll
+E:\LPU\Day_2\Loop_Questions\obj\Debug\net10.0\Loop_Questions.pdb
+E:\LPU\Day_2\Loop_Questions\obj\Debug\net10.0\Loop_Questions.genruntimeconfig.cache
+E:\LPU\Day_2\Loop_Questions\obj\Debug\net10.0\ref\Loop_Questions.dll
