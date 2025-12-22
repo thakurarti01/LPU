@@ -1,0 +1,15 @@
+E:\LPU\Daily_Assignments\obj\Debug\net10.0\Daily_Assignments.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Daily_Assignments\obj\Debug\net10.0\Daily_Assignments.AssemblyInfoInputs.cache
+E:\LPU\Daily_Assignments\obj\Debug\net10.0\Daily_Assignments.AssemblyInfo.cs
+E:\LPU\Daily_Assignments\obj\Debug\net10.0\Daily_Assignments.csproj.CoreCompileInputs.cache
+E:\LPU\Daily_Assignments\obj\Debug\net10.0\Daily_Assignments.sourcelink.json
+E:\LPU\Daily_Assignments\bin\Debug\net10.0\Daily_Assignments.exe
+E:\LPU\Daily_Assignments\bin\Debug\net10.0\Daily_Assignments.deps.json
+E:\LPU\Daily_Assignments\bin\Debug\net10.0\Daily_Assignments.runtimeconfig.json
+E:\LPU\Daily_Assignments\bin\Debug\net10.0\Daily_Assignments.dll
+E:\LPU\Daily_Assignments\bin\Debug\net10.0\Daily_Assignments.pdb
+E:\LPU\Daily_Assignments\obj\Debug\net10.0\Daily_Assignments.dll
+E:\LPU\Daily_Assignments\obj\Debug\net10.0\refint\Daily_Assignments.dll
+E:\LPU\Daily_Assignments\obj\Debug\net10.0\Daily_Assignments.pdb
+E:\LPU\Daily_Assignments\obj\Debug\net10.0\Daily_Assignments.genruntimeconfig.cache
+E:\LPU\Daily_Assignments\obj\Debug\net10.0\ref\Daily_Assignments.dll
