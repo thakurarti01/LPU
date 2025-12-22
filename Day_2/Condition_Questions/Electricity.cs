@@ -1,6 +1,6 @@
 using System;
 
-class Electricity()
+class Electricity
 {
     public static void ElecMain()
     {
@@ -19,8 +19,8 @@ class Electricity()
         else if(unit > 400 && unit < 600)
         {
             double bill1 = (unit-199)*0;
-            double bill2 = 
-            Console.WriteLine("Your bill is " + )
+            //double bill2 = 
+            Console.WriteLine("Your bill is " + bill1);
         }
     }
 }

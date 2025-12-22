@@ -15,7 +15,7 @@ class Admission_Eligibility()
 
         int total = Convert.ToInt32(maths+phy+chem);
 
-        if((maths >= 65 && phy >= 55 && chem >=50) && ((total >= 180) || (maths + phy >= 140)))
+        if((maths >= 65 && phy >= 55 && chem >=55) && ((total >= 180) || (maths + phy >= 140)))
         {
             Console.WriteLine("Eligible");
         }
