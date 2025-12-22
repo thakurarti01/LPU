@@ -1,0 +1,15 @@
+E:\LPU\Assignments\obj\Debug\net10.0\Assignments.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Assignments\obj\Debug\net10.0\Assignments.AssemblyInfoInputs.cache
+E:\LPU\Assignments\obj\Debug\net10.0\Assignments.AssemblyInfo.cs
+E:\LPU\Assignments\obj\Debug\net10.0\Assignments.csproj.CoreCompileInputs.cache
+E:\LPU\Assignments\obj\Debug\net10.0\Assignments.sourcelink.json
+E:\LPU\Assignments\bin\Debug\net10.0\Assignments.exe
+E:\LPU\Assignments\bin\Debug\net10.0\Assignments.deps.json
+E:\LPU\Assignments\bin\Debug\net10.0\Assignments.runtimeconfig.json
+E:\LPU\Assignments\bin\Debug\net10.0\Assignments.dll
+E:\LPU\Assignments\bin\Debug\net10.0\Assignments.pdb
+E:\LPU\Assignments\obj\Debug\net10.0\Assignments.dll
+E:\LPU\Assignments\obj\Debug\net10.0\refint\Assignments.dll
+E:\LPU\Assignments\obj\Debug\net10.0\Assignments.pdb
+E:\LPU\Assignments\obj\Debug\net10.0\Assignments.genruntimeconfig.cache
+E:\LPU\Assignments\obj\Debug\net10.0\ref\Assignments.dll
