@@ -10,7 +10,7 @@ class Program
         Console.WriteLine("Employee Access & Salary Processing System");
 
         // Employee_Salary.ESMain();
-        Ticket_Fare.TFMain();
+        // Ticket_Fare.TFMain();
 
         // Desk.DesktopPriceCalculation();
     }
