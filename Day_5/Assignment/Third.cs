@@ -10,7 +10,7 @@ public class Candy
 
     public bool ValidateCandyFlavour()
     {
-        if(Flavour == "Strawberry" || Flavour == "Lemon" || Flavour == "Mint")
+        if(Flavour == "STRAWBERRY" || Flavour == "LEMON" || Flavour == "MINT")
         {
             return true;
         }
