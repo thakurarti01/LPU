@@ -21,7 +21,7 @@ class Ticket_Fare
         bool gov;
         double discount = 0;
         double final_fare = 0;
-        string booking_status;
+        string booking_status = "";
 
         // ------ AGE ELIGIBILITY -------
 
@@ -73,74 +73,74 @@ class Ticket_Fare
             if(travel_type == 1 && travel_class == "SLEEPER")
             {
                 afterclass_fare = (base_fare * 1.2);
-                Console.WriteLine("Your total after class fare is: " + afterclass_fare);
+                // Console.WriteLine("Your total after class fare is: " + afterclass_fare);
             }
 
             else if(travel_type == 1 && travel_class == "SEATER")
             {
                 afterclass_fare = (base_fare * 1.0);
-                Console.WriteLine("Your total after class fare is: " + afterclass_fare);
+                // Console.WriteLine("Your total after class fare is: " + afterclass_fare);
             }
 
             else if(travel_type == 2 && travel_class == "GENERAL")
             {
                 afterclass_fare = (base_fare * 1.0);
-                Console.WriteLine("Your total after class fare is: " + afterclass_fare);
+                // Console.WriteLine("Your total after class fare is: " + afterclass_fare);
             }
 
             else if(travel_type == 2 && travel_class == "SLEEPER")
             {
                 afterclass_fare = (base_fare * 1.3);
-                Console.WriteLine("Your total after class fare is: " + afterclass_fare);
+                // Console.WriteLine("Your total after class fare is: " + afterclass_fare);
             }
 
             else if(travel_type == 2 && travel_class == "AC")
             {
                 afterclass_fare = (base_fare * 1.6);
-                Console.WriteLine("Your total after class fare is: " + afterclass_fare);
+                // Console.WriteLine("Your total after class fare is: " + afterclass_fare);
             }
 
             else if(travel_type == 3 && travel_class == "ECONOMY")
             {
                 afterclass_fare = (base_fare * 2.5);
-                Console.WriteLine("Your total after class fare is: " + afterclass_fare);
+                // Console.WriteLine("Your total after class fare is: " + afterclass_fare);
             }
 
             else if(travel_type == 3 && travel_class == "BUSINESS")
             {
                 afterclass_fare = (base_fare * 3.5);
-                Console.WriteLine("Your total after class fare is: " + afterclass_fare);
+                // Console.WriteLine("Your total after class fare is: " + afterclass_fare);
             }
 
             else
             {
                 Console.WriteLine("Invalid!");
+                return;
             }
+
+            Console.WriteLine("Your total after class fare is: " + afterclass_fare);
 
             // ------- DISCOUNT CALCULATION -------
             if(age >= 60)
             {
                 discount = 0.3 * afterclass_fare;
-                final_fare = afterclass_fare - discount;
-                Console.WriteLine("Your FINAL FARE is: " + final_fare);
             }
             
-            else if(gov == true)
+            else if(gov)
             {
                 discount = 0.15 * afterclass_fare;
-                final_fare = afterclass_fare - discount;
-                Console.WriteLine("Your FINAL FARE is: " + final_fare);
             }
             else if(age >= 5 && age <= 12)
             {
                 discount = 0.5 * afterclass_fare;
-                final_fare = afterclass_fare - discount;
-                Console.WriteLine("Your FINAL FARE is: " + final_fare);
             }
             else
             {
-                Console.WriteLine("No Discount!");
+                discount = 0;
             }
+
+            final_fare = afterclass_fare-discount;
+            Console.WriteLine("Your FINAL FARE is: " + final_fare);
 
             // -------- BOOKING STATUS -------
             
@@ -169,8 +169,10 @@ class Ticket_Fare
         Console.WriteLine("Travel Type: " + travel_type);
         Console.WriteLine("Class: " + travel_class);
         Console.WriteLine("Base Fare: " + base_fare);
-        Console.WriteLine("Final Fare: " + final_fare);
+        Console.WriteLine("After Class Fare: " + afterclass_fare);
         Console.WriteLine("Discount: " + discount);
+        Console.WriteLine("Final Fare: " + final_fare);
+        // Console.WriteLine("Discount: " + discount);
         Console.WriteLine("Booking Status: " + booking_status);
     }
 }
