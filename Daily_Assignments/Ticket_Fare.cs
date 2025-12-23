@@ -15,8 +15,13 @@ class Ticket_Fare
         int age = Convert.ToInt32(Console.ReadLine() ?? "0"); // HANDLING NULLABLE VALUE, IF USER DOES NOT PROVIDE INFO, THIS WILL NOT CAUSE ANY ERROR, 0 WILL BE ASSIGNED TO THIS FIELD
 
         string travel_class = "";
+        int travel_type;
+        double base_fare = 0;
         double afterclass_fare = 0;
         bool gov;
+        double discount = 0;
+        double final_fare = 0;
+        string booking_status;
 
         // ------ AGE ELIGIBILITY -------
 
@@ -33,10 +38,10 @@ class Ticket_Fare
         else
         {
             Console.Write("Travel type(1-Bus/2-Train/3-Flight): ");
-            int travel_type = Convert.ToInt32(Console.ReadLine() ?? "0"); // HANDLING NULLABLE VALUE, IF USER DOES NOT PROVIDE INFO, THIS WILL NOT CAUSE ANY ERROR, 0 WILL BE ASSIGNED TO THIS FIELD   
+            travel_type = Convert.ToInt32(Console.ReadLine() ?? "0"); // HANDLING NULLABLE VALUE, IF USER DOES NOT PROVIDE INFO, THIS WILL NOT CAUSE ANY ERROR, 0 WILL BE ASSIGNED TO THIS FIELD   
 
             Console.Write("Base fare: ");
-            double base_fare = Convert.ToDouble(Console.ReadLine() ?? "0"); // HANDLING NULLABLE VALUE, IF USER DOES NOT PROVIDE INFO, THIS WILL NOT CAUSE ANY ERROR, 0 WILL BE ASSIGNED TO THIS FIELD
+            base_fare = Convert.ToDouble(Console.ReadLine() ?? "0"); // HANDLING NULLABLE VALUE, IF USER DOES NOT PROVIDE INFO, THIS WILL NOT CAUSE ANY ERROR, 0 WILL BE ASSIGNED TO THIS FIELD
 
             Console.Write("Is government employee(true/false): ");
             bool.TryParse(Console.ReadLine() ??"false", out gov); // FOR HANDLING NULLABLE VALUE
@@ -111,6 +116,61 @@ class Ticket_Fare
             {
                 Console.WriteLine("Invalid!");
             }
+
+            // ------- DISCOUNT CALCULATION -------
+            if(age >= 60)
+            {
+                discount = 0.3 * afterclass_fare;
+                final_fare = afterclass_fare - discount;
+                Console.WriteLine("Your FINAL FARE is: " + final_fare);
+            }
+            
+            else if(gov == true)
+            {
+                discount = 0.15 * afterclass_fare;
+                final_fare = afterclass_fare - discount;
+                Console.WriteLine("Your FINAL FARE is: " + final_fare);
+            }
+            else if(age >= 5 && age <= 12)
+            {
+                discount = 0.5 * afterclass_fare;
+                final_fare = afterclass_fare - discount;
+                Console.WriteLine("Your FINAL FARE is: " + final_fare);
+            }
+            else
+            {
+                Console.WriteLine("No Discount!");
+            }
+
+            // -------- BOOKING STATUS -------
+            
+            if(final_fare >= 10000)
+            {
+                if(travel_type == 3)
+                {
+                    booking_status = "Confirmed!";
+                }
+                else
+                {
+                    booking_status = "Waiting List";
+                }
+            }
+            else
+            {
+                booking_status = "Confirmed!";
+            }
         } 
+
+        // ------- DISPLAYING TICKET SUMMARY --------
+
+        Console.WriteLine("---------- YOUR TICKET SUMMARY --------");
+        Console.WriteLine("ID: " + id);
+        Console.WriteLine("Name: " + name);
+        Console.WriteLine("Travel Type: " + travel_type);
+        Console.WriteLine("Class: " + travel_class);
+        Console.WriteLine("Base Fare: " + base_fare);
+        Console.WriteLine("Final Fare: " + final_fare);
+        Console.WriteLine("Discount: " + discount);
+        Console.WriteLine("Booking Status: " + booking_status);
     }
 }
