@@ -1,0 +1,15 @@
+E:\LPU\Day_5\2nd_Assignment\obj\Debug\net10.0\2nd_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Day_5\2nd_Assignment\obj\Debug\net10.0\2nd_Assignment.AssemblyInfoInputs.cache
+E:\LPU\Day_5\2nd_Assignment\obj\Debug\net10.0\2nd_Assignment.AssemblyInfo.cs
+E:\LPU\Day_5\2nd_Assignment\obj\Debug\net10.0\2nd_Assignment.csproj.CoreCompileInputs.cache
+E:\LPU\Day_5\2nd_Assignment\obj\Debug\net10.0\2nd_Assignment.sourcelink.json
+E:\LPU\Day_5\2nd_Assignment\bin\Debug\net10.0\2nd_Assignment.exe
+E:\LPU\Day_5\2nd_Assignment\bin\Debug\net10.0\2nd_Assignment.deps.json
+E:\LPU\Day_5\2nd_Assignment\bin\Debug\net10.0\2nd_Assignment.runtimeconfig.json
+E:\LPU\Day_5\2nd_Assignment\bin\Debug\net10.0\2nd_Assignment.dll
+E:\LPU\Day_5\2nd_Assignment\bin\Debug\net10.0\2nd_Assignment.pdb
+E:\LPU\Day_5\2nd_Assignment\obj\Debug\net10.0\2nd_Assignment.dll
+E:\LPU\Day_5\2nd_Assignment\obj\Debug\net10.0\refint\2nd_Assignment.dll
+E:\LPU\Day_5\2nd_Assignment\obj\Debug\net10.0\2nd_Assignment.pdb
+E:\LPU\Day_5\2nd_Assignment\obj\Debug\net10.0\2nd_Assignment.genruntimeconfig.cache
+E:\LPU\Day_5\2nd_Assignment\obj\Debug\net10.0\ref\2nd_Assignment.dll
