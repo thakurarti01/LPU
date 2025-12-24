@@ -1,0 +1,15 @@
+E:\LPU\Day_6\Case_Based_Question_1\obj\Debug\net10.0\Case_Based_Question_.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Day_6\Case_Based_Question_1\obj\Debug\net10.0\Case_Based_Question_.AssemblyInfoInputs.cache
+E:\LPU\Day_6\Case_Based_Question_1\obj\Debug\net10.0\Case_Based_Question_.AssemblyInfo.cs
+E:\LPU\Day_6\Case_Based_Question_1\obj\Debug\net10.0\Case_Based_Question_.csproj.CoreCompileInputs.cache
+E:\LPU\Day_6\Case_Based_Question_1\obj\Debug\net10.0\Case_Based_Question_.sourcelink.json
+E:\LPU\Day_6\Case_Based_Question_1\bin\Debug\net10.0\Case_Based_Question_.exe
+E:\LPU\Day_6\Case_Based_Question_1\bin\Debug\net10.0\Case_Based_Question_.deps.json
+E:\LPU\Day_6\Case_Based_Question_1\bin\Debug\net10.0\Case_Based_Question_.runtimeconfig.json
+E:\LPU\Day_6\Case_Based_Question_1\bin\Debug\net10.0\Case_Based_Question_.dll
+E:\LPU\Day_6\Case_Based_Question_1\bin\Debug\net10.0\Case_Based_Question_.pdb
+E:\LPU\Day_6\Case_Based_Question_1\obj\Debug\net10.0\Case_Based_Question_.dll
+E:\LPU\Day_6\Case_Based_Question_1\obj\Debug\net10.0\refint\Case_Based_Question_.dll
+E:\LPU\Day_6\Case_Based_Question_1\obj\Debug\net10.0\Case_Based_Question_.pdb
+E:\LPU\Day_6\Case_Based_Question_1\obj\Debug\net10.0\Case_Based_Question_.genruntimeconfig.cache
+E:\LPU\Day_6\Case_Based_Question_1\obj\Debug\net10.0\ref\Case_Based_Question_.dll
