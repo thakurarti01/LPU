@@ -12,6 +12,7 @@ class Program
         // Height_Category.HCMain();
         // Largest_of_Three.LOTMain();
         // Sec_to_Min.STMain();
-        Array_Sum.ASMain();
+        // Array_Sum.ASMain();
+        Multiplication_Table.MTMain();
     }
 }
