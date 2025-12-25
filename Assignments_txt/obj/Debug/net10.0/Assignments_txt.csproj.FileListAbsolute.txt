@@ -1,0 +1,15 @@
+E:\LPU\Assignments_txt\bin\Debug\net10.0\Assignments_txt.exe
+E:\LPU\Assignments_txt\bin\Debug\net10.0\Assignments_txt.deps.json
+E:\LPU\Assignments_txt\bin\Debug\net10.0\Assignments_txt.runtimeconfig.json
+E:\LPU\Assignments_txt\bin\Debug\net10.0\Assignments_txt.dll
+E:\LPU\Assignments_txt\bin\Debug\net10.0\Assignments_txt.pdb
+E:\LPU\Assignments_txt\obj\Debug\net10.0\Assignments_txt.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Assignments_txt\obj\Debug\net10.0\Assignments_txt.AssemblyInfoInputs.cache
+E:\LPU\Assignments_txt\obj\Debug\net10.0\Assignments_txt.AssemblyInfo.cs
+E:\LPU\Assignments_txt\obj\Debug\net10.0\Assignments_txt.csproj.CoreCompileInputs.cache
+E:\LPU\Assignments_txt\obj\Debug\net10.0\Assignments_txt.sourcelink.json
+E:\LPU\Assignments_txt\obj\Debug\net10.0\Assignments_txt.dll
+E:\LPU\Assignments_txt\obj\Debug\net10.0\refint\Assignments_txt.dll
+E:\LPU\Assignments_txt\obj\Debug\net10.0\Assignments_txt.pdb
+E:\LPU\Assignments_txt\obj\Debug\net10.0\Assignments_txt.genruntimeconfig.cache
+E:\LPU\Assignments_txt\obj\Debug\net10.0\ref\Assignments_txt.dll
