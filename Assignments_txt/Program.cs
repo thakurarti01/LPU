@@ -11,6 +11,7 @@ class Program
         // Conversion.ConvertMain();
         // Height_Category.HCMain();
         // Largest_of_Three.LOTMain();
-        Sec_to_Min.STMain();
+        // Sec_to_Min.STMain();
+        Array_Sum.ASMain();
     }
 }
