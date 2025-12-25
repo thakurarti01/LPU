@@ -10,6 +10,7 @@ class Program
         // Circle.AreaMain();
         // Conversion.ConvertMain();
         // Height_Category.HCMain();
-        Largest_of_Three.LOTMain();
+        // Largest_of_Three.LOTMain();
+        Sec_to_Min.STMain();
     }
 }
