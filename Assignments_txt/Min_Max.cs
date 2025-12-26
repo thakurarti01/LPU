@@ -22,9 +22,8 @@ class Min_Max
             Console.Write(arr[i] + " ");
         }
 
-        int sum = 0;
+        double sum = 0;
         double avg = 0;
-        //double final = 0;
         int min = 0;
         int max = 0;
 

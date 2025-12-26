@@ -14,6 +14,6 @@ class Program
         // Sec_to_Min.STMain(); // --5
         // Array_Sum.ASMain(); // --6
         // Multiplication_Table.MTMain(); // --7
-        Min_Max.MMMain();
+        // Min_Max.MMMain(); //--12
     }
 }
