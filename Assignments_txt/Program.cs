@@ -7,12 +7,13 @@ class Program
 {
     static void Main()
     {
-        // Circle.AreaMain();
-        // Conversion.ConvertMain();
-        // Height_Category.HCMain();
-        // Largest_of_Three.LOTMain();
-        // Sec_to_Min.STMain();
-        // Array_Sum.ASMain();
-        Multiplication_Table.MTMain();
+        // Circle.AreaMain(); // --1
+        // Conversion.ConvertMain(); // --2
+        // Height_Category.HCMain(); // --3
+        // Largest_of_Three.LOTMain(); // --4
+        // Sec_to_Min.STMain(); // --5
+        // Array_Sum.ASMain(); // --6
+        // Multiplication_Table.MTMain(); // --7
+        Min_Max.MMMain();
     }
 }
