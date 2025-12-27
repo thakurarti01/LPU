@@ -1,0 +1,15 @@
+E:\LPU\Weekly_Assessment_27.12.25\Question_1\obj\Debug\net10.0\Question_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Weekly_Assessment_27.12.25\Question_1\obj\Debug\net10.0\Question_1.AssemblyInfoInputs.cache
+E:\LPU\Weekly_Assessment_27.12.25\Question_1\obj\Debug\net10.0\Question_1.AssemblyInfo.cs
+E:\LPU\Weekly_Assessment_27.12.25\Question_1\obj\Debug\net10.0\Question_1.csproj.CoreCompileInputs.cache
+E:\LPU\Weekly_Assessment_27.12.25\Question_1\obj\Debug\net10.0\Question_1.sourcelink.json
+E:\LPU\Weekly_Assessment_27.12.25\Question_1\bin\Debug\net10.0\Question_1.exe
+E:\LPU\Weekly_Assessment_27.12.25\Question_1\bin\Debug\net10.0\Question_1.deps.json
+E:\LPU\Weekly_Assessment_27.12.25\Question_1\bin\Debug\net10.0\Question_1.runtimeconfig.json
+E:\LPU\Weekly_Assessment_27.12.25\Question_1\bin\Debug\net10.0\Question_1.dll
+E:\LPU\Weekly_Assessment_27.12.25\Question_1\bin\Debug\net10.0\Question_1.pdb
+E:\LPU\Weekly_Assessment_27.12.25\Question_1\obj\Debug\net10.0\Question_1.dll
+E:\LPU\Weekly_Assessment_27.12.25\Question_1\obj\Debug\net10.0\refint\Question_1.dll
+E:\LPU\Weekly_Assessment_27.12.25\Question_1\obj\Debug\net10.0\Question_1.pdb
+E:\LPU\Weekly_Assessment_27.12.25\Question_1\obj\Debug\net10.0\Question_1.genruntimeconfig.cache
+E:\LPU\Weekly_Assessment_27.12.25\Question_1\obj\Debug\net10.0\ref\Question_1.dll
