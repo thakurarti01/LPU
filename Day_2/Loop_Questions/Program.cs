@@ -7,9 +7,10 @@ class Program
 {
     static void Main()
     {
-        // Fibonacci_Series.FibMain();
-        Armstrong_Number.ArmstrongMain();
-        // Diamond.DiamMain();
-        // Continue_Usage.ContMain();
+        // Fibonacci_Series.FibMain(); // --- 1
+        // Armstrong_Number.ArmstrongMain(); // --- 3
+        Palindrome.PalinMain(); 
+        // Diamond.DiamMain(); // --- 8
+        // Continue_Usage.ContMain(); // ---12
     }
 }
