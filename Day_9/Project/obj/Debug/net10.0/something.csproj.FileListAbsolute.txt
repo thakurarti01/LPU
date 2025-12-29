@@ -1,0 +1,15 @@
+E:\LPU\Day_9\Project\bin\Debug\net10.0\something.exe
+E:\LPU\Day_9\Project\bin\Debug\net10.0\something.deps.json
+E:\LPU\Day_9\Project\bin\Debug\net10.0\something.runtimeconfig.json
+E:\LPU\Day_9\Project\bin\Debug\net10.0\something.dll
+E:\LPU\Day_9\Project\bin\Debug\net10.0\something.pdb
+E:\LPU\Day_9\Project\obj\Debug\net10.0\something.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Day_9\Project\obj\Debug\net10.0\something.AssemblyInfoInputs.cache
+E:\LPU\Day_9\Project\obj\Debug\net10.0\something.AssemblyInfo.cs
+E:\LPU\Day_9\Project\obj\Debug\net10.0\something.csproj.CoreCompileInputs.cache
+E:\LPU\Day_9\Project\obj\Debug\net10.0\something.sourcelink.json
+E:\LPU\Day_9\Project\obj\Debug\net10.0\something.dll
+E:\LPU\Day_9\Project\obj\Debug\net10.0\refint\something.dll
+E:\LPU\Day_9\Project\obj\Debug\net10.0\something.pdb
+E:\LPU\Day_9\Project\obj\Debug\net10.0\something.genruntimeconfig.cache
+E:\LPU\Day_9\Project\obj\Debug\net10.0\ref\something.dll
