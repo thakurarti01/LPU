@@ -9,7 +9,8 @@ class Program
     {
         // Welcome.WelcomeMain(); // --> 1
         // Read_Number.ReadMain(); // --> 2
-        // Read_Float.ReadMain(); // -->3
-        Read_String.ReadMain();
+        // Read_Float.ReadMain(); // --> 3
+        // Read_String.ReadMain(); // --> 4
+        Arithmetic_Operations.OperationMain();
     }
 }
