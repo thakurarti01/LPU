@@ -9,8 +9,8 @@ class Program
     {
         // Fibonacci_Series.FibMain(); // --- 1
         // Armstrong_Number.ArmstrongMain(); // --- 3
-        Palindrome.PalinMain(); 
-        // Diamond.DiamMain(); // --- 8
+        // Palindrome.PalinMain(); 
+        // Diamond.DiamMain(); // --- 8?
         // Continue_Usage.ContMain(); // ---12
     }
 }

@@ -1,0 +1,15 @@
+E:\LPU\Day_1\Basic_Questions\bin\Debug\net10.0\Basic_Questions.exe
+E:\LPU\Day_1\Basic_Questions\bin\Debug\net10.0\Basic_Questions.deps.json
+E:\LPU\Day_1\Basic_Questions\bin\Debug\net10.0\Basic_Questions.runtimeconfig.json
+E:\LPU\Day_1\Basic_Questions\bin\Debug\net10.0\Basic_Questions.dll
+E:\LPU\Day_1\Basic_Questions\bin\Debug\net10.0\Basic_Questions.pdb
+E:\LPU\Day_1\Basic_Questions\obj\Debug\net10.0\Basic_Questions.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Day_1\Basic_Questions\obj\Debug\net10.0\Basic_Questions.AssemblyInfoInputs.cache
+E:\LPU\Day_1\Basic_Questions\obj\Debug\net10.0\Basic_Questions.AssemblyInfo.cs
+E:\LPU\Day_1\Basic_Questions\obj\Debug\net10.0\Basic_Questions.csproj.CoreCompileInputs.cache
+E:\LPU\Day_1\Basic_Questions\obj\Debug\net10.0\Basic_Questions.sourcelink.json
+E:\LPU\Day_1\Basic_Questions\obj\Debug\net10.0\Basic_Questions.dll
+E:\LPU\Day_1\Basic_Questions\obj\Debug\net10.0\refint\Basic_Questions.dll
+E:\LPU\Day_1\Basic_Questions\obj\Debug\net10.0\Basic_Questions.pdb
+E:\LPU\Day_1\Basic_Questions\obj\Debug\net10.0\Basic_Questions.genruntimeconfig.cache
+E:\LPU\Day_1\Basic_Questions\obj\Debug\net10.0\ref\Basic_Questions.dll
