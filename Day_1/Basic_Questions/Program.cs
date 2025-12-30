@@ -15,6 +15,7 @@ class Program
         // Area_of_Circle.AreaMain(); --> 6
         // Even_Odd.EOMain(); // --> 7
         // Greatest_of_Two.GOTMain(); // --> 8
-        Pos_Neg_Zero.PNZMain(); // --> 9
+        // Pos_Neg_Zero.PNZMain(); // --> 9
+        Greatest_of_Three.GOTMain();
     }
 }
