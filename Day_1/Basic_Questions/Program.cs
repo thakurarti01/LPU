@@ -16,6 +16,7 @@ class Program
         // Even_Odd.EOMain(); // --> 7
         // Greatest_of_Two.GOTMain(); // --> 8
         // Pos_Neg_Zero.PNZMain(); // --> 9
-        Greatest_of_Three.GOTMain();
+        // Greatest_of_Three.GOTMain(); // --> 10
+        Result.ResultMain();
     }
 }
