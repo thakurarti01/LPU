@@ -13,6 +13,7 @@ class Program
         // Read_String.ReadMain(); // --> 4
         // Arithmetic_Operations.OperationMain(); --> 5
         // Area_of_Circle.AreaMain(); --> 6
-        Even_Odd.EOMain();
+        // Even_Odd.EOMain(); // --> 7
+        Greatest_of_Two.GOTMain(); // --> 8
     }
 }
