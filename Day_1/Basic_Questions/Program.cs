@@ -17,6 +17,7 @@ class Program
         // Greatest_of_Two.GOTMain(); // --> 8
         // Pos_Neg_Zero.PNZMain(); // --> 9
         // Greatest_of_Three.GOTMain(); // --> 10
-        Result.ResultMain();
+        // Result.ResultMain(); --> 11
+        Printing_Numbers.PNMain();
     }
 }
