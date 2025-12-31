@@ -19,7 +19,9 @@ class Program
         // Greatest_of_Three.GOTMain(); // --> 10
         // Result.ResultMain(); // --> 11
         // Salary.SalaryMain(); // --> 12
-        // Printing_Numbers.PNMain(); // -->13
-        Even_Numbers.ENMain();
+        // Printing_Numbers.PNMain(); // --> 13
+        // Even_Numbers.ENMain(); // --> 14
+
+        Table.TableMain();
     }
 }
