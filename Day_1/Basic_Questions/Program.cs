@@ -21,7 +21,8 @@ class Program
         // Salary.SalaryMain(); // --> 12
         // Printing_Numbers.PNMain(); // --> 13
         // Even_Numbers.ENMain(); // --> 14
-        Sum_of_Numbers.SONMain();
+        // Sum_of_Numbers.SONMain(); // --> 15
         // Table.TableMain(); // --> 16
+        Power.PowerMain();
     }
 }
