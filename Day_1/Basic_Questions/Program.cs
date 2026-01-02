@@ -24,6 +24,7 @@ class Program
         // Sum_of_Numbers.SONMain(); // --> 15
         // Table.TableMain(); // --> 16
         // Power.PowerMain(); // --> 17
-        Fibonacci.FibMain();
+        // Fibonacci.FibMain(); // --> 18
+        Armstrong.ArmMain();
     }
 }
