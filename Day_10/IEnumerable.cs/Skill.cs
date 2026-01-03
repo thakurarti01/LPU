@@ -40,14 +40,14 @@ public class Player : IEnumerable<Skill>
     }
 
     //IEnumerable implementation
-    public IEnumerable<Skill> GetEnumerator()
+    public IEnumerator<Skill> GetEnumerator()
     {
         return Skills.GetEnumerator();
     }
 
     //non generic IEnumerator implementation
     IEnumerator IEnumerable.GetEnumerator()
-        {
-            return GetEnumerator();
-        }
+    {
+        return GetEnumerator();
+    }
 }

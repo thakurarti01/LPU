@@ -1,0 +1,15 @@
+E:\LPU\Day_10\IEnumerable.cs\obj\Debug\net10.0\IEnumerable.cs.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Day_10\IEnumerable.cs\obj\Debug\net10.0\IEnumerable.cs.AssemblyInfoInputs.cache
+E:\LPU\Day_10\IEnumerable.cs\obj\Debug\net10.0\IEnumerable.cs.AssemblyInfo.cs
+E:\LPU\Day_10\IEnumerable.cs\obj\Debug\net10.0\IEnumerable.cs.csproj.CoreCompileInputs.cache
+E:\LPU\Day_10\IEnumerable.cs\obj\Debug\net10.0\IEnumerable.cs.sourcelink.json
+E:\LPU\Day_10\IEnumerable.cs\bin\Debug\net10.0\IEnumerable.cs.exe
+E:\LPU\Day_10\IEnumerable.cs\bin\Debug\net10.0\IEnumerable.cs.deps.json
+E:\LPU\Day_10\IEnumerable.cs\bin\Debug\net10.0\IEnumerable.cs.runtimeconfig.json
+E:\LPU\Day_10\IEnumerable.cs\bin\Debug\net10.0\IEnumerable.cs.dll
+E:\LPU\Day_10\IEnumerable.cs\bin\Debug\net10.0\IEnumerable.cs.pdb
+E:\LPU\Day_10\IEnumerable.cs\obj\Debug\net10.0\IEnumerable.cs.dll
+E:\LPU\Day_10\IEnumerable.cs\obj\Debug\net10.0\refint\IEnumerable.cs.dll
+E:\LPU\Day_10\IEnumerable.cs\obj\Debug\net10.0\IEnumerable.cs.pdb
+E:\LPU\Day_10\IEnumerable.cs\obj\Debug\net10.0\IEnumerable.cs.genruntimeconfig.cache
+E:\LPU\Day_10\IEnumerable.cs\obj\Debug\net10.0\ref\IEnumerable.cs.dll

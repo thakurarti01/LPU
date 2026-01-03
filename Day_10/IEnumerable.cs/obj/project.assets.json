@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\LPU\\IEnumerable.cs\\IEnumerable.cs.csproj",
+      "projectUniqueName": "E:\\LPU\\Day_10\\IEnumerable.cs\\IEnumerable.cs.csproj",
       "projectName": "IEnumerable.cs",
-      "projectPath": "E:\\LPU\\IEnumerable.cs\\IEnumerable.cs.csproj",
+      "projectPath": "E:\\LPU\\Day_10\\IEnumerable.cs\\IEnumerable.cs.csproj",
       "packagesPath": "C:\\Users\\artit\\.nuget\\packages\\",
-      "outputPath": "E:\\LPU\\IEnumerable.cs\\obj\\",
+      "outputPath": "E:\\LPU\\Day_10\\IEnumerable.cs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
