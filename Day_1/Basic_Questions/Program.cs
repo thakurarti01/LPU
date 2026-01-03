@@ -25,6 +25,6 @@ class Program
         // Table.TableMain(); // --> 16
         // Power.PowerMain(); // --> 17
         // Fibonacci.FibMain(); // --> 18
-        Armstrong.ArmMain();
+        // Armstrong.ArmMain(); // --> 19
     }
 }

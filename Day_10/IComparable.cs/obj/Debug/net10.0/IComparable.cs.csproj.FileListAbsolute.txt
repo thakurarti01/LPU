@@ -1,0 +1,15 @@
+E:\LPU\Day_10\IComparable.cs\obj\Debug\net10.0\IComparable.cs.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Day_10\IComparable.cs\obj\Debug\net10.0\IComparable.cs.AssemblyInfoInputs.cache
+E:\LPU\Day_10\IComparable.cs\obj\Debug\net10.0\IComparable.cs.AssemblyInfo.cs
+E:\LPU\Day_10\IComparable.cs\obj\Debug\net10.0\IComparable.cs.csproj.CoreCompileInputs.cache
+E:\LPU\Day_10\IComparable.cs\obj\Debug\net10.0\IComparable.cs.sourcelink.json
+E:\LPU\Day_10\IComparable.cs\bin\Debug\net10.0\IComparable.cs.exe
+E:\LPU\Day_10\IComparable.cs\bin\Debug\net10.0\IComparable.cs.deps.json
+E:\LPU\Day_10\IComparable.cs\bin\Debug\net10.0\IComparable.cs.runtimeconfig.json
+E:\LPU\Day_10\IComparable.cs\bin\Debug\net10.0\IComparable.cs.dll
+E:\LPU\Day_10\IComparable.cs\bin\Debug\net10.0\IComparable.cs.pdb
+E:\LPU\Day_10\IComparable.cs\obj\Debug\net10.0\IComparable.cs.dll
+E:\LPU\Day_10\IComparable.cs\obj\Debug\net10.0\refint\IComparable.cs.dll
+E:\LPU\Day_10\IComparable.cs\obj\Debug\net10.0\IComparable.cs.pdb
+E:\LPU\Day_10\IComparable.cs\obj\Debug\net10.0\IComparable.cs.genruntimeconfig.cache
+E:\LPU\Day_10\IComparable.cs\obj\Debug\net10.0\ref\IComparable.cs.dll
