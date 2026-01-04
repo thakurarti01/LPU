@@ -1,0 +1,15 @@
+E:\LPU\Practice_Set\Movie_Library\bin\Debug\net10.0\Movie_Library.exe
+E:\LPU\Practice_Set\Movie_Library\bin\Debug\net10.0\Movie_Library.deps.json
+E:\LPU\Practice_Set\Movie_Library\bin\Debug\net10.0\Movie_Library.runtimeconfig.json
+E:\LPU\Practice_Set\Movie_Library\bin\Debug\net10.0\Movie_Library.dll
+E:\LPU\Practice_Set\Movie_Library\bin\Debug\net10.0\Movie_Library.pdb
+E:\LPU\Practice_Set\Movie_Library\obj\Debug\net10.0\Movie_Library.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Practice_Set\Movie_Library\obj\Debug\net10.0\Movie_Library.AssemblyInfoInputs.cache
+E:\LPU\Practice_Set\Movie_Library\obj\Debug\net10.0\Movie_Library.AssemblyInfo.cs
+E:\LPU\Practice_Set\Movie_Library\obj\Debug\net10.0\Movie_Library.csproj.CoreCompileInputs.cache
+E:\LPU\Practice_Set\Movie_Library\obj\Debug\net10.0\Movie_Library.sourcelink.json
+E:\LPU\Practice_Set\Movie_Library\obj\Debug\net10.0\Movie_Library.dll
+E:\LPU\Practice_Set\Movie_Library\obj\Debug\net10.0\refint\Movie_Library.dll
+E:\LPU\Practice_Set\Movie_Library\obj\Debug\net10.0\Movie_Library.pdb
+E:\LPU\Practice_Set\Movie_Library\obj\Debug\net10.0\Movie_Library.genruntimeconfig.cache
+E:\LPU\Practice_Set\Movie_Library\obj\Debug\net10.0\ref\Movie_Library.dll

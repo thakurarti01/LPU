@@ -20,38 +20,79 @@ public interface IFilmLibrary
     void RemoveFilm(string title);
     void GetFilm();
     void SearchFilms(string query);
-    void GetTotalFilmCount();
+    int GetTotalFilmCount();
 }
 public class FilmLibrary : IFilmLibrary
 {
     List <IFilm> _films = new List <IFilm> ()
     {
-        new IFilm() {Title = "The Godfather", Director = "Francis Ford Coppola", Year = 1972},
+        new Film() {Title = "The Godfather", Director = "Francis Ford Coppola", Year = 1972},
+        new Film() {Title = "Pulp Fiction", Director = "Quentin Tarantino", Year = 1994},
+        new Film() {Title = "Schindler's List", Director = "Steven Spielberg", Year = 1993},
     };
 
     public void AddFilm(Film film)
     {
-        // IFilm obj = new IFilm();
-
+        _films.Add(film);
     }
 
     public void RemoveFilm(string title)
     {
-        
+        IFilm filmToRemove = null;
+
+        foreach(IFilm film in _films)
+        {
+            if(film.Title == title)
+            {
+                filmToRemove = film;
+                break;
+            }
+        }
+
+        if(filmToRemove != null)
+        {
+            _films.Remove(filmToRemove);
+            Console.WriteLine("Film removed!");
+        }
+        else
+        {
+            Console.WriteLine("Film not found!");
+        }
     }
 
     public void GetFilm()
     {
-        
+        foreach(IFilm film in _films)
+        {
+            Console.WriteLine($"{film.Title}, {film.Director}, {film.Year}");
+        }
     }
 
     public void SearchFilms(string query)
     {
-        
+        bool found = false;
+        foreach (IFilm film in _films)
+        {
+            if(film.Title.Contains(query) || film.Director.Contains(query))
+            {
+                Console.WriteLine($"Film Found: {film.Title}, {film.Director}, {film.Year}");
+                found = true;
+            }
+        }
+        if (!found)
+        {
+            Console.WriteLine("Not Found!");
+        }
     }
 
-    public void GetTotalFilmCount()
+    public int GetTotalFilmCount()
     {
-        
+        int count = 0;
+
+        foreach(IFilm film in _films)
+        {
+            count++;
+        }
+        return count;
     }
 }
