@@ -1,0 +1,15 @@
+E:\LPU\Weekly_Assessment_07.01.26\Digital_Petty_Cash\bin\Debug\net10.0\Digital_Petty_Cash.exe
+E:\LPU\Weekly_Assessment_07.01.26\Digital_Petty_Cash\bin\Debug\net10.0\Digital_Petty_Cash.deps.json
+E:\LPU\Weekly_Assessment_07.01.26\Digital_Petty_Cash\bin\Debug\net10.0\Digital_Petty_Cash.runtimeconfig.json
+E:\LPU\Weekly_Assessment_07.01.26\Digital_Petty_Cash\bin\Debug\net10.0\Digital_Petty_Cash.dll
+E:\LPU\Weekly_Assessment_07.01.26\Digital_Petty_Cash\bin\Debug\net10.0\Digital_Petty_Cash.pdb
+E:\LPU\Weekly_Assessment_07.01.26\Digital_Petty_Cash\obj\Debug\net10.0\Digital_Petty_Cash.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Weekly_Assessment_07.01.26\Digital_Petty_Cash\obj\Debug\net10.0\Digital_Petty_Cash.AssemblyInfoInputs.cache
+E:\LPU\Weekly_Assessment_07.01.26\Digital_Petty_Cash\obj\Debug\net10.0\Digital_Petty_Cash.AssemblyInfo.cs
+E:\LPU\Weekly_Assessment_07.01.26\Digital_Petty_Cash\obj\Debug\net10.0\Digital_Petty_Cash.csproj.CoreCompileInputs.cache
+E:\LPU\Weekly_Assessment_07.01.26\Digital_Petty_Cash\obj\Debug\net10.0\Digital_Petty_Cash.sourcelink.json
+E:\LPU\Weekly_Assessment_07.01.26\Digital_Petty_Cash\obj\Debug\net10.0\Digital_Petty_Cash.dll
+E:\LPU\Weekly_Assessment_07.01.26\Digital_Petty_Cash\obj\Debug\net10.0\refint\Digital_Petty_Cash.dll
+E:\LPU\Weekly_Assessment_07.01.26\Digital_Petty_Cash\obj\Debug\net10.0\Digital_Petty_Cash.pdb
+E:\LPU\Weekly_Assessment_07.01.26\Digital_Petty_Cash\obj\Debug\net10.0\Digital_Petty_Cash.genruntimeconfig.cache
+E:\LPU\Weekly_Assessment_07.01.26\Digital_Petty_Cash\obj\Debug\net10.0\ref\Digital_Petty_Cash.dll

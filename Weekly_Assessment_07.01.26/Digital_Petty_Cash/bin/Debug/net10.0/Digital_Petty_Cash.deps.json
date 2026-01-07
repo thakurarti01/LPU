@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Digital_Petty_Cash/1.0.0": {
+        "runtime": {
+          "Digital_Petty_Cash.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Digital_Petty_Cash/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
