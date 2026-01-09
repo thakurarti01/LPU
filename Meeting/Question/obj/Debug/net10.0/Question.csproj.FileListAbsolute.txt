@@ -1,0 +1,15 @@
+E:\LPU\Meeting\Question\bin\Debug\net10.0\Question.exe
+E:\LPU\Meeting\Question\bin\Debug\net10.0\Question.deps.json
+E:\LPU\Meeting\Question\bin\Debug\net10.0\Question.runtimeconfig.json
+E:\LPU\Meeting\Question\bin\Debug\net10.0\Question.dll
+E:\LPU\Meeting\Question\bin\Debug\net10.0\Question.pdb
+E:\LPU\Meeting\Question\obj\Debug\net10.0\Question.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Meeting\Question\obj\Debug\net10.0\Question.AssemblyInfoInputs.cache
+E:\LPU\Meeting\Question\obj\Debug\net10.0\Question.AssemblyInfo.cs
+E:\LPU\Meeting\Question\obj\Debug\net10.0\Question.csproj.CoreCompileInputs.cache
+E:\LPU\Meeting\Question\obj\Debug\net10.0\Question.sourcelink.json
+E:\LPU\Meeting\Question\obj\Debug\net10.0\Question.dll
+E:\LPU\Meeting\Question\obj\Debug\net10.0\refint\Question.dll
+E:\LPU\Meeting\Question\obj\Debug\net10.0\Question.pdb
+E:\LPU\Meeting\Question\obj\Debug\net10.0\Question.genruntimeconfig.cache
+E:\LPU\Meeting\Question\obj\Debug\net10.0\ref\Question.dll
