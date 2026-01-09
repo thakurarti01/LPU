@@ -24,64 +24,66 @@ public class RealEstateApp
     List<IRealEstateListing> listings = new List<IRealEstateListing>()
     {
       new RealEstateListing(){ID = 101, Title = "3BHK", Description = "with all facilities", Price = 500000, Location = "Delhi"}, 
-      new RealEstateListing(){ID = 101, Title = "2BHK", Description = "with gym & swimming pool", Price = 400000, Location = "Pune"}, 
-      new RealEstateListing(){ID = 101, Title = "1BHK", Description = "with gym", Price = 300000, Location = "Noida"},  
+      new RealEstateListing(){ID = 131, Title = "2BHK", Description = "with gym & swimming pool", Price = 400000, Location = "Pune"}, 
+      new RealEstateListing(){ID = 139, Title = "1BHK", Description = "with gym", Price = 300000, Location = "Noida"},  
     };
     
 
-    public void AddListing(IRealEstateListing listings)
+    public void AddListing(IRealEstateListing listing)
     {
-        listings.Add(IRealEstateListing);
+        listings.Add(listing);
     }
 
     public void RemoveListing(int listingID)
     {
         IRealEstateListing listToRemove = null;
 
-        foreach(IRealEstateListing id in listings)
+        foreach(IRealEstateListing item in listings)
         {
-            if(id.ID == listingID)
+            if(item.ID == listingID)
             {
-                listToRemove = listingID;
+                listToRemove = item;
                 break;
             }
-
-            if(listToRemove != null)
-            {
-                listings.Remove(listToRemove);
-                Console.WriteLine("ID removed!");
-            }
-            else
-            {
-                Console.WriteLine("ID not found!");
-            }
         }
+
+        if(listToRemove != null)
+        {
+            listings.Remove(listToRemove);
+            Console.WriteLine("item removed!");
+        }
+        else
+        {
+            Console.WriteLine("ID not found!");
+        }
+        
     }
 
-    public void UpdateListing(IRealEstateListing listing)
+    public void UpdateListing(int listingID)
     {
-        IRealEstateListing idToUpdate = null;
+        IRealEstateListing listToUpdate = null;
         
-        foreach(IRealEstateListing id in listingID)
+        foreach(IRealEstateListing item in listings)
         {
-            if(id.ID == listingID)
+            if(item.ID == listingID)
             {
-                idToUpdate = id;
+                listToUpdate = item;
                 break;
             }
-
-            if(idToUpdate != null)
-            {
-                Title = "duplex";
-                Description = "with all facilities";
-                Price = 550000;
-                Location = "Pune";
-            }
-            else
-            {
-            Console.WriteLine("ID not found!");
-            }
         }
+
+        if(listToUpdate != null)
+        {
+            listToUpdate.Title = "duplex";
+            listToUpdate.Description = "with all facilities";
+            listToUpdate.Price = 550000;
+            listToUpdate.Location = "Pune";
+        }
+        else
+        {
+        Console.WriteLine("ID not found!");
+        }
+        
     }
 
     public void GetListings()
@@ -94,27 +96,32 @@ public class RealEstateApp
 
     public void GetListingsByLocation(string location)
     {
-        IRealEstateListing listToFind = null;
+        bool found = false;
 
         foreach(IRealEstateListing loc in listings)
         {
             if(loc.Location == location)
             {
-                listToFind = loc;
-                break;
-            }
-
-            if(listToFind != null)
-            {
-                foreach(IRealEstateListing name in listings)
-                {
-                    Console.WriteLine($"{name.ID}, {name.Title}, {name.Description}, {name.Price}, {name.Location}");
-                }
-            }
-            else
-            {
-                Console.WriteLine("Location not found!");
+                Console.WriteLine($"{loc.ID}, {loc.Title}, {loc.Description}, {loc.Price}, {loc.Location}");
+                found = true;
             }
         }
+        if (!found)
+        {
+            Console.WriteLine("Location not found!");
+        }  
+    }
+
+    public List<IRealEstateListing> GetListingsByPriceRange(int minPrice, int maxPrice)
+    {
+        List <IRealEstateListing> result = new List<IRealEstateListing>();
+        foreach(IRealEstateListing item in listings)
+        {
+            if(item.Price >= minPrice && item.Price <= maxPrice)
+            {
+                result.Add(item);
+            }
+        }
+        return result;
     }
 }
