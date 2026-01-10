@@ -30,34 +30,120 @@ public interface ILibrarySystem
 }
 public class LibrarySystem : ILibrarySystem
 {
-    private Dictionary <IBook, int> _books;
+    private Dictionary <IBook, int> _books; //IBook contains all the property(id/title/author/category/price) and int(for quantity)
     public void AddBook(IBook book, int quantity)
     {
-        
+        if (_books.ContainsKey(book))
+        {
+            _books[book] += quantity;
+        }
+        else
+        {
+            _books.Add(book, quantity);
+        }
     }
 
     public void RemoveBook(IBook book, int quantity)
     {
-        
+        if (_books.ContainsKey(book))
+        {
+            _books[book] -= quantity;
+
+            if(_books[book] <= 0)
+            {
+                _books.Remove(book);
+            }
+        }
     }
 
     public int CalculateTotal()
     {
-        
+        int total = 0;
+        foreach(var entry in _books)
+        {
+           IBook book = entry.Key;
+           int quantity = entry.Value;
+           total += book.Price * quantity; 
+        }
+        return total;
     }
 
-    public List<(string title, int price)> CategoryTotalPrice()
+    public List<(string category, int price)> CategoryTotalPrice()
     {
-        
+        Dictionary <(string category, int price)> tempDict = new Dicionary <(string category, int price)>();
+
+        foreach(var entry in _books)
+        {
+            IBook book = entry.Key;
+            int quantity = entry.Value;
+
+            string category = book.Category;
+            int price = book.Price * quantity;
+
+            if (tempDict.ContainsKey(book))
+            {
+                tempDict[category] += price;
+            }
+            else
+            {
+                tempDict.Add(category, price);
+            }
+        }
+        List <(string category, int price)> convertedList = new List <(string category, int price)>();
+
+        foreach(var item in tempDict)
+        {
+            convertedList.Add((item.Key, item.Value));
+        }
+        return convertedList;
     }
 
     public List<(string title, int quantity, int price)> BooksInfo()
     {
-        
+        List<(string title, int quantity, int price)> bookList1 = new List<(string title, int quantity, int price)>();
+        foreach (var entry in _books)
+        {
+            IBook book = entry.Key;
+            int quantity = entry.Value;
+
+            bookList1.Add((book.title, quantity, book.Price));
+        } 
+        return bookList1;
     }
 
     public List<(string category, string author, int quantity)> CategoryAndAuthorWithCount()
     {
+
+        //created dictionary for temporary
+        Dictionary<(string category, string author, int quantity)> countMap = new Dictionary<(string category, string author, int quantity)>();
+        foreach(var entry in _books)
+        {
+            IBook book = entry.Key;
+            int quantity = entry.Value;
+
+            string category = book.Category;
+            string author = book.Author;
+
+            var key = (category, author);
+
+            if (countMap.ContainsKey(key))
+            {
+                countMap[key] += quantity;
+            }
+            else
+            {
+                countMap.Add(key, quantity);
+            }
+        }
+
+        //converting dict to list
+        List<(string category, string author, int quantity)> result = new List<(string category, string author, int quantity)>();
+
+        foreach (var item in countMap)
+        {
+            result.Add((item.Key.category, item.Key.author, item.Value));
+        }
         
+        return result;
     }
 }
