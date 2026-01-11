@@ -31,6 +31,12 @@ public interface ILibrarySystem
 public class LibrarySystem : ILibrarySystem
 {
     private Dictionary <IBook, int> _books; //IBook contains all the property(id/title/author/category/price) and int(for quantity)
+
+    public LibrarySystem()
+    {
+        _books = new Dictionary<IBook, int>();
+    }
+
     public void AddBook(IBook book, int quantity)
     {
         if (_books.ContainsKey(book))
@@ -68,28 +74,28 @@ public class LibrarySystem : ILibrarySystem
         return total;
     }
 
-    public List<(string category, int price)> CategoryTotalPrice()
+    public List<(string title, int price)> CategoryTotalPrice()
     {
-        Dictionary <(string category, int price)> tempDict = new Dicionary <(string category, int price)>();
+        Dictionary <(string title, int price)> tempDict = new Dictionary <(string title, int price)>();
 
         foreach(var entry in _books)
         {
             IBook book = entry.Key;
             int quantity = entry.Value;
 
-            string category = book.Category;
+            string title = book.Title;
             int price = book.Price * quantity;
 
             if (tempDict.ContainsKey(book))
             {
-                tempDict[category] += price;
+                tempDict[title] += price;
             }
             else
             {
-                tempDict.Add(category, price);
+                tempDict.Add(title, price);
             }
         }
-        List <(string category, int price)> convertedList = new List <(string category, int price)>();
+        List <(string title, int price)> convertedList = new List <(string title, int price)>();
 
         foreach(var item in tempDict)
         {
