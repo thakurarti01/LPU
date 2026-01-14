@@ -1,0 +1,15 @@
+E:\LPU\Practice_Set\Bank_Chat_Bot\obj\Debug\net10.0\Bank_Chat_Bot.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Practice_Set\Bank_Chat_Bot\obj\Debug\net10.0\Bank_Chat_Bot.AssemblyInfoInputs.cache
+E:\LPU\Practice_Set\Bank_Chat_Bot\obj\Debug\net10.0\Bank_Chat_Bot.AssemblyInfo.cs
+E:\LPU\Practice_Set\Bank_Chat_Bot\obj\Debug\net10.0\Bank_Chat_Bot.csproj.CoreCompileInputs.cache
+E:\LPU\Practice_Set\Bank_Chat_Bot\obj\Debug\net10.0\Bank_Chat_Bot.sourcelink.json
+E:\LPU\Practice_Set\Bank_Chat_Bot\bin\Debug\net10.0\Bank_Chat_Bot.exe
+E:\LPU\Practice_Set\Bank_Chat_Bot\bin\Debug\net10.0\Bank_Chat_Bot.deps.json
+E:\LPU\Practice_Set\Bank_Chat_Bot\bin\Debug\net10.0\Bank_Chat_Bot.runtimeconfig.json
+E:\LPU\Practice_Set\Bank_Chat_Bot\bin\Debug\net10.0\Bank_Chat_Bot.dll
+E:\LPU\Practice_Set\Bank_Chat_Bot\bin\Debug\net10.0\Bank_Chat_Bot.pdb
+E:\LPU\Practice_Set\Bank_Chat_Bot\obj\Debug\net10.0\Bank_Chat_Bot.dll
+E:\LPU\Practice_Set\Bank_Chat_Bot\obj\Debug\net10.0\refint\Bank_Chat_Bot.dll
+E:\LPU\Practice_Set\Bank_Chat_Bot\obj\Debug\net10.0\Bank_Chat_Bot.pdb
+E:\LPU\Practice_Set\Bank_Chat_Bot\obj\Debug\net10.0\Bank_Chat_Bot.genruntimeconfig.cache
+E:\LPU\Practice_Set\Bank_Chat_Bot\obj\Debug\net10.0\ref\Bank_Chat_Bot.dll
