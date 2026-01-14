@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\LPU\\Day_18\\Attributes\\Attributes.csproj",
-      "projectName": "Attributes",
-      "projectPath": "E:\\LPU\\Day_18\\Attributes\\Attributes.csproj",
+      "projectUniqueName": "E:\\LPU\\Day_18\\AssemblyDemo\\ServiceLibrary\\ServiceLibrary.csproj",
+      "projectName": "ServiceLibrary",
+      "projectPath": "E:\\LPU\\Day_18\\AssemblyDemo\\ServiceLibrary\\ServiceLibrary.csproj",
       "packagesPath": "C:\\Users\\artit\\.nuget\\packages\\",
-      "outputPath": "E:\\LPU\\Day_18\\Attributes\\obj\\",
+      "outputPath": "E:\\LPU\\Day_18\\AssemblyDemo\\ServiceLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
