@@ -5,6 +5,7 @@ class Program
 {
     static void Main()
     {
+        // ThreadStart - is a delegate
         ThreadStart task1 = new ThreadStart(ProcessTask1);
         ThreadStart task2 = new ThreadStart(ProcessTask2);
 
