@@ -1,0 +1,15 @@
+E:\LPU\Day_20\Threading\bin\Debug\net10.0\Threading.exe
+E:\LPU\Day_20\Threading\bin\Debug\net10.0\Threading.deps.json
+E:\LPU\Day_20\Threading\bin\Debug\net10.0\Threading.runtimeconfig.json
+E:\LPU\Day_20\Threading\bin\Debug\net10.0\Threading.dll
+E:\LPU\Day_20\Threading\bin\Debug\net10.0\Threading.pdb
+E:\LPU\Day_20\Threading\obj\Debug\net10.0\Threading.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Day_20\Threading\obj\Debug\net10.0\Threading.AssemblyInfoInputs.cache
+E:\LPU\Day_20\Threading\obj\Debug\net10.0\Threading.AssemblyInfo.cs
+E:\LPU\Day_20\Threading\obj\Debug\net10.0\Threading.csproj.CoreCompileInputs.cache
+E:\LPU\Day_20\Threading\obj\Debug\net10.0\Threading.sourcelink.json
+E:\LPU\Day_20\Threading\obj\Debug\net10.0\Threading.dll
+E:\LPU\Day_20\Threading\obj\Debug\net10.0\refint\Threading.dll
+E:\LPU\Day_20\Threading\obj\Debug\net10.0\Threading.pdb
+E:\LPU\Day_20\Threading\obj\Debug\net10.0\Threading.genruntimeconfig.cache
+E:\LPU\Day_20\Threading\obj\Debug\net10.0\ref\Threading.dll
