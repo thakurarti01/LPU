@@ -1,40 +1,32 @@
-﻿// Q1️: Create a custom exception named NegativeNumberException.
-// Task:
-// -> It should inherit from Exception
-// -> It should accept a custom message
-// -> Write a method CheckNumber(int num)
-// -> If num < 0, throw NegativeNumberException
-// -> Call this method using try-catch and print the exception message
-
-//1. CREATING CUSTOM EXCEPTION
-class NegativeNumberException : Exception
-{
-public NegativeNumberException(string message) : base(message) 
-{}
-}
+﻿using System;
 
 class Program
 {
-    //2. THROWING CUSTOM EXCEPTION
-    static void CheckNumber(int num)
+     static void Main()
     {
-        if(num < 0)
-        {
-            throw new NegativeNumberException("Number is negative");
-        }
-        Console.WriteLine("Positive Number");
-    }
+        // NUMBER CHECKING EXCEPTION CATCHING
+        // try
+        // {
+        //     NumberChecking.CheckNumber(-90);
+        // }
+        // catch(NegativeNumberException ex)
+        // {
+        //     Console.WriteLine(ex.Message);
+        // }  
 
-    //3. CATCHING CUSTOM EXCEPTION
-    static void Main()
-    {
+        // LIMIT EXCEEDING EXCEPTION CATCHING
+        
         try
         {
-            CheckNumber(-90);
+            BankService.Withdraw(15000);
         }
-        catch(NegativeNumberException ex)
+        catch(DailyLimitExceededException ex)
         {
             Console.WriteLine(ex.Message);
-        }   
+        }
+        catch(Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        } 
     }
 }
