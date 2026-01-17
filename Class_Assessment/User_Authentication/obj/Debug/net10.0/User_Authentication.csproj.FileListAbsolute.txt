@@ -1,0 +1,15 @@
+E:\LPU\Class_Assessment\User_Authentication\obj\Debug\net10.0\User_Authentication.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Class_Assessment\User_Authentication\obj\Debug\net10.0\User_Authentication.AssemblyInfoInputs.cache
+E:\LPU\Class_Assessment\User_Authentication\obj\Debug\net10.0\User_Authentication.AssemblyInfo.cs
+E:\LPU\Class_Assessment\User_Authentication\obj\Debug\net10.0\User_Authentication.csproj.CoreCompileInputs.cache
+E:\LPU\Class_Assessment\User_Authentication\obj\Debug\net10.0\User_Authentication.sourcelink.json
+E:\LPU\Class_Assessment\User_Authentication\bin\Debug\net10.0\User_Authentication.exe
+E:\LPU\Class_Assessment\User_Authentication\bin\Debug\net10.0\User_Authentication.deps.json
+E:\LPU\Class_Assessment\User_Authentication\bin\Debug\net10.0\User_Authentication.runtimeconfig.json
+E:\LPU\Class_Assessment\User_Authentication\bin\Debug\net10.0\User_Authentication.dll
+E:\LPU\Class_Assessment\User_Authentication\bin\Debug\net10.0\User_Authentication.pdb
+E:\LPU\Class_Assessment\User_Authentication\obj\Debug\net10.0\User_Authentication.dll
+E:\LPU\Class_Assessment\User_Authentication\obj\Debug\net10.0\refint\User_Authentication.dll
+E:\LPU\Class_Assessment\User_Authentication\obj\Debug\net10.0\User_Authentication.pdb
+E:\LPU\Class_Assessment\User_Authentication\obj\Debug\net10.0\User_Authentication.genruntimeconfig.cache
+E:\LPU\Class_Assessment\User_Authentication\obj\Debug\net10.0\ref\User_Authentication.dll
