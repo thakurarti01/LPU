@@ -1,0 +1,15 @@
+E:\LPU\Class_Assessment\Construction_Estimate\obj\Debug\net10.0\Construction_Estimate.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Class_Assessment\Construction_Estimate\obj\Debug\net10.0\Construction_Estimate.AssemblyInfoInputs.cache
+E:\LPU\Class_Assessment\Construction_Estimate\obj\Debug\net10.0\Construction_Estimate.AssemblyInfo.cs
+E:\LPU\Class_Assessment\Construction_Estimate\obj\Debug\net10.0\Construction_Estimate.csproj.CoreCompileInputs.cache
+E:\LPU\Class_Assessment\Construction_Estimate\obj\Debug\net10.0\Construction_Estimate.sourcelink.json
+E:\LPU\Class_Assessment\Construction_Estimate\bin\Debug\net10.0\Construction_Estimate.exe
+E:\LPU\Class_Assessment\Construction_Estimate\bin\Debug\net10.0\Construction_Estimate.deps.json
+E:\LPU\Class_Assessment\Construction_Estimate\bin\Debug\net10.0\Construction_Estimate.runtimeconfig.json
+E:\LPU\Class_Assessment\Construction_Estimate\bin\Debug\net10.0\Construction_Estimate.dll
+E:\LPU\Class_Assessment\Construction_Estimate\bin\Debug\net10.0\Construction_Estimate.pdb
+E:\LPU\Class_Assessment\Construction_Estimate\obj\Debug\net10.0\Construction_Estimate.dll
+E:\LPU\Class_Assessment\Construction_Estimate\obj\Debug\net10.0\refint\Construction_Estimate.dll
+E:\LPU\Class_Assessment\Construction_Estimate\obj\Debug\net10.0\Construction_Estimate.pdb
+E:\LPU\Class_Assessment\Construction_Estimate\obj\Debug\net10.0\Construction_Estimate.genruntimeconfig.cache
+E:\LPU\Class_Assessment\Construction_Estimate\obj\Debug\net10.0\ref\Construction_Estimate.dll
