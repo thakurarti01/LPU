@@ -33,7 +33,10 @@ class Program
 
         try
         {
-            program.ValidateConstructionEstimate(ConstructionArea, siteArea);
+            EstimateDetails details = program.ValidateConstructionEstimate(ConstructionArea, siteArea);
+            Console.WriteLine("Construction Area: " + details.ConstructionArea);
+            Console.WriteLine("Site Area: " + details.SiteArea);
+            
         }
         catch(ConstructionEstimateException ex)
         {
