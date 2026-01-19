@@ -1,0 +1,15 @@
+E:\LPU\Class_Assessment\Yug_Meditation\obj\Debug\net10.0\Yug_Meditation.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Class_Assessment\Yug_Meditation\obj\Debug\net10.0\Yug_Meditation.AssemblyInfoInputs.cache
+E:\LPU\Class_Assessment\Yug_Meditation\obj\Debug\net10.0\Yug_Meditation.AssemblyInfo.cs
+E:\LPU\Class_Assessment\Yug_Meditation\obj\Debug\net10.0\Yug_Meditation.csproj.CoreCompileInputs.cache
+E:\LPU\Class_Assessment\Yug_Meditation\obj\Debug\net10.0\Yug_Meditation.sourcelink.json
+E:\LPU\Class_Assessment\Yug_Meditation\bin\Debug\net10.0\Yug_Meditation.exe
+E:\LPU\Class_Assessment\Yug_Meditation\bin\Debug\net10.0\Yug_Meditation.deps.json
+E:\LPU\Class_Assessment\Yug_Meditation\bin\Debug\net10.0\Yug_Meditation.runtimeconfig.json
+E:\LPU\Class_Assessment\Yug_Meditation\bin\Debug\net10.0\Yug_Meditation.dll
+E:\LPU\Class_Assessment\Yug_Meditation\bin\Debug\net10.0\Yug_Meditation.pdb
+E:\LPU\Class_Assessment\Yug_Meditation\obj\Debug\net10.0\Yug_Meditation.dll
+E:\LPU\Class_Assessment\Yug_Meditation\obj\Debug\net10.0\refint\Yug_Meditation.dll
+E:\LPU\Class_Assessment\Yug_Meditation\obj\Debug\net10.0\Yug_Meditation.pdb
+E:\LPU\Class_Assessment\Yug_Meditation\obj\Debug\net10.0\Yug_Meditation.genruntimeconfig.cache
+E:\LPU\Class_Assessment\Yug_Meditation\obj\Debug\net10.0\ref\Yug_Meditation.dll
