@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Display_Height")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2d2fad9acec6b96c3c7400c220903daf0979ca6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2920b205f1052eed81c3afe25a6bf14ae93363a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Display_Height")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Display_Height")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

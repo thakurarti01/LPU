@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Greatest_Common_Divisor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a4e055ffe98703f1f4ed2f2fd77e00d1f8117ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2920b205f1052eed81c3afe25a6bf14ae93363a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Greatest_Common_Divisor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Greatest_Common_Divisor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
