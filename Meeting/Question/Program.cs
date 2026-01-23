@@ -7,10 +7,13 @@ class Program
         // Employee Obj = new Employee();
         // Obj.DisplayDetails();
 
-        Girl g = new Girl();
-        g.ShowHuman();
-        g.ShowAdult();
-        g.ShowGirl();
+        // Girl g = new Girl();
+        // g.ShowHuman();
+        // g.ShowAdult();
+        // g.ShowGirl();
+
+        int x = 7;
+        Console.WriteLine(x.EvenOrOdd);
     }
 
 }
