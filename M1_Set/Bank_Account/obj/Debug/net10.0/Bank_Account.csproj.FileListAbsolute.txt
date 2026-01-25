@@ -1,0 +1,15 @@
+E:\LPU\M1_Set\Bank_Account\obj\Debug\net10.0\Bank_Account.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\M1_Set\Bank_Account\obj\Debug\net10.0\Bank_Account.AssemblyInfoInputs.cache
+E:\LPU\M1_Set\Bank_Account\obj\Debug\net10.0\Bank_Account.AssemblyInfo.cs
+E:\LPU\M1_Set\Bank_Account\obj\Debug\net10.0\Bank_Account.csproj.CoreCompileInputs.cache
+E:\LPU\M1_Set\Bank_Account\obj\Debug\net10.0\Bank_Account.sourcelink.json
+E:\LPU\M1_Set\Bank_Account\bin\Debug\net10.0\Bank_Account.exe
+E:\LPU\M1_Set\Bank_Account\bin\Debug\net10.0\Bank_Account.deps.json
+E:\LPU\M1_Set\Bank_Account\bin\Debug\net10.0\Bank_Account.runtimeconfig.json
+E:\LPU\M1_Set\Bank_Account\bin\Debug\net10.0\Bank_Account.dll
+E:\LPU\M1_Set\Bank_Account\bin\Debug\net10.0\Bank_Account.pdb
+E:\LPU\M1_Set\Bank_Account\obj\Debug\net10.0\Bank_Account.dll
+E:\LPU\M1_Set\Bank_Account\obj\Debug\net10.0\refint\Bank_Account.dll
+E:\LPU\M1_Set\Bank_Account\obj\Debug\net10.0\Bank_Account.pdb
+E:\LPU\M1_Set\Bank_Account\obj\Debug\net10.0\Bank_Account.genruntimeconfig.cache
+E:\LPU\M1_Set\Bank_Account\obj\Debug\net10.0\ref\Bank_Account.dll
