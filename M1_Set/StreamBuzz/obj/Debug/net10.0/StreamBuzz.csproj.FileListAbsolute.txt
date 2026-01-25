@@ -1,0 +1,15 @@
+E:\LPU\M1_Set\StreamBuzz\obj\Debug\net10.0\StreamBuzz.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\M1_Set\StreamBuzz\obj\Debug\net10.0\StreamBuzz.AssemblyInfoInputs.cache
+E:\LPU\M1_Set\StreamBuzz\obj\Debug\net10.0\StreamBuzz.AssemblyInfo.cs
+E:\LPU\M1_Set\StreamBuzz\obj\Debug\net10.0\StreamBuzz.csproj.CoreCompileInputs.cache
+E:\LPU\M1_Set\StreamBuzz\obj\Debug\net10.0\StreamBuzz.sourcelink.json
+E:\LPU\M1_Set\StreamBuzz\bin\Debug\net10.0\StreamBuzz.exe
+E:\LPU\M1_Set\StreamBuzz\bin\Debug\net10.0\StreamBuzz.deps.json
+E:\LPU\M1_Set\StreamBuzz\bin\Debug\net10.0\StreamBuzz.runtimeconfig.json
+E:\LPU\M1_Set\StreamBuzz\bin\Debug\net10.0\StreamBuzz.dll
+E:\LPU\M1_Set\StreamBuzz\bin\Debug\net10.0\StreamBuzz.pdb
+E:\LPU\M1_Set\StreamBuzz\obj\Debug\net10.0\StreamBuzz.dll
+E:\LPU\M1_Set\StreamBuzz\obj\Debug\net10.0\refint\StreamBuzz.dll
+E:\LPU\M1_Set\StreamBuzz\obj\Debug\net10.0\StreamBuzz.pdb
+E:\LPU\M1_Set\StreamBuzz\obj\Debug\net10.0\StreamBuzz.genruntimeconfig.cache
+E:\LPU\M1_Set\StreamBuzz\obj\Debug\net10.0\ref\StreamBuzz.dll
