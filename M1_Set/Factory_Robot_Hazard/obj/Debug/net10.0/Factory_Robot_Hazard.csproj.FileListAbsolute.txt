@@ -1,0 +1,15 @@
+E:\LPU\M1_Set\Factory_Robot_Hazard\obj\Debug\net10.0\Factory_Robot_Hazard.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\M1_Set\Factory_Robot_Hazard\obj\Debug\net10.0\Factory_Robot_Hazard.AssemblyInfoInputs.cache
+E:\LPU\M1_Set\Factory_Robot_Hazard\obj\Debug\net10.0\Factory_Robot_Hazard.AssemblyInfo.cs
+E:\LPU\M1_Set\Factory_Robot_Hazard\obj\Debug\net10.0\Factory_Robot_Hazard.csproj.CoreCompileInputs.cache
+E:\LPU\M1_Set\Factory_Robot_Hazard\obj\Debug\net10.0\Factory_Robot_Hazard.sourcelink.json
+E:\LPU\M1_Set\Factory_Robot_Hazard\bin\Debug\net10.0\Factory_Robot_Hazard.exe
+E:\LPU\M1_Set\Factory_Robot_Hazard\bin\Debug\net10.0\Factory_Robot_Hazard.deps.json
+E:\LPU\M1_Set\Factory_Robot_Hazard\bin\Debug\net10.0\Factory_Robot_Hazard.runtimeconfig.json
+E:\LPU\M1_Set\Factory_Robot_Hazard\bin\Debug\net10.0\Factory_Robot_Hazard.dll
+E:\LPU\M1_Set\Factory_Robot_Hazard\bin\Debug\net10.0\Factory_Robot_Hazard.pdb
+E:\LPU\M1_Set\Factory_Robot_Hazard\obj\Debug\net10.0\Factory_Robot_Hazard.dll
+E:\LPU\M1_Set\Factory_Robot_Hazard\obj\Debug\net10.0\refint\Factory_Robot_Hazard.dll
+E:\LPU\M1_Set\Factory_Robot_Hazard\obj\Debug\net10.0\Factory_Robot_Hazard.pdb
+E:\LPU\M1_Set\Factory_Robot_Hazard\obj\Debug\net10.0\Factory_Robot_Hazard.genruntimeconfig.cache
+E:\LPU\M1_Set\Factory_Robot_Hazard\obj\Debug\net10.0\ref\Factory_Robot_Hazard.dll
