@@ -1,0 +1,15 @@
+E:\LPU\M1_Set\Flip_Key\obj\Debug\net10.0\Flip_Key.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\M1_Set\Flip_Key\obj\Debug\net10.0\Flip_Key.AssemblyInfoInputs.cache
+E:\LPU\M1_Set\Flip_Key\obj\Debug\net10.0\Flip_Key.AssemblyInfo.cs
+E:\LPU\M1_Set\Flip_Key\obj\Debug\net10.0\Flip_Key.csproj.CoreCompileInputs.cache
+E:\LPU\M1_Set\Flip_Key\obj\Debug\net10.0\Flip_Key.sourcelink.json
+E:\LPU\M1_Set\Flip_Key\bin\Debug\net10.0\Flip_Key.exe
+E:\LPU\M1_Set\Flip_Key\bin\Debug\net10.0\Flip_Key.deps.json
+E:\LPU\M1_Set\Flip_Key\bin\Debug\net10.0\Flip_Key.runtimeconfig.json
+E:\LPU\M1_Set\Flip_Key\bin\Debug\net10.0\Flip_Key.dll
+E:\LPU\M1_Set\Flip_Key\bin\Debug\net10.0\Flip_Key.pdb
+E:\LPU\M1_Set\Flip_Key\obj\Debug\net10.0\Flip_Key.dll
+E:\LPU\M1_Set\Flip_Key\obj\Debug\net10.0\refint\Flip_Key.dll
+E:\LPU\M1_Set\Flip_Key\obj\Debug\net10.0\Flip_Key.pdb
+E:\LPU\M1_Set\Flip_Key\obj\Debug\net10.0\Flip_Key.genruntimeconfig.cache
+E:\LPU\M1_Set\Flip_Key\obj\Debug\net10.0\ref\Flip_Key.dll
