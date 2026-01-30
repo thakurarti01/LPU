@@ -1,0 +1,15 @@
+E:\LPU\M1_Interface\Hotel_Billing_System\obj\Debug\net10.0\Hotel_Billing_System.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\M1_Interface\Hotel_Billing_System\obj\Debug\net10.0\Hotel_Billing_System.AssemblyInfoInputs.cache
+E:\LPU\M1_Interface\Hotel_Billing_System\obj\Debug\net10.0\Hotel_Billing_System.AssemblyInfo.cs
+E:\LPU\M1_Interface\Hotel_Billing_System\obj\Debug\net10.0\Hotel_Billing_System.csproj.CoreCompileInputs.cache
+E:\LPU\M1_Interface\Hotel_Billing_System\obj\Debug\net10.0\Hotel_Billing_System.sourcelink.json
+E:\LPU\M1_Interface\Hotel_Billing_System\bin\Debug\net10.0\Hotel_Billing_System.exe
+E:\LPU\M1_Interface\Hotel_Billing_System\bin\Debug\net10.0\Hotel_Billing_System.deps.json
+E:\LPU\M1_Interface\Hotel_Billing_System\bin\Debug\net10.0\Hotel_Billing_System.runtimeconfig.json
+E:\LPU\M1_Interface\Hotel_Billing_System\bin\Debug\net10.0\Hotel_Billing_System.dll
+E:\LPU\M1_Interface\Hotel_Billing_System\bin\Debug\net10.0\Hotel_Billing_System.pdb
+E:\LPU\M1_Interface\Hotel_Billing_System\obj\Debug\net10.0\Hotel_Billing_System.dll
+E:\LPU\M1_Interface\Hotel_Billing_System\obj\Debug\net10.0\refint\Hotel_Billing_System.dll
+E:\LPU\M1_Interface\Hotel_Billing_System\obj\Debug\net10.0\Hotel_Billing_System.pdb
+E:\LPU\M1_Interface\Hotel_Billing_System\obj\Debug\net10.0\Hotel_Billing_System.genruntimeconfig.cache
+E:\LPU\M1_Interface\Hotel_Billing_System\obj\Debug\net10.0\ref\Hotel_Billing_System.dll

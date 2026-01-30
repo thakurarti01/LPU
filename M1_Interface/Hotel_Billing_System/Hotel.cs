@@ -2,8 +2,12 @@ using System;
 
 public interface Room
 {
-    double calculateTotalBill(int nightsStayed, int joiningYear){}
-    int calculateMembershipYears(int joiningYears){}
+    double calculateTotalBill(int nightsStayed, int joiningYear);
+    int calculateMembershipYears(int joiningYear)
+    {
+        int currentYear = DateTime.Now.Year;
+        return (currentYear - joiningYear) - 1;
+    }
 }
 
 public class HotelRoom : Room
@@ -20,16 +24,18 @@ public class HotelRoom : Room
     }
     public double calculateTotalBill(int nightsStayed, int joiningYear)
     {
-        int TotalBill = nightsStayed * ratePerNight;
-        int MembershipYear = calculateMembershipYears(joiningYears);
+        double TotalBill = nightsStayed * ratePerNight;
+        Room r = this;
+
+        int MembershipYear = r.calculateMembershipYears(joiningYear);
 
         if(MembershipYear > 3)
         {
             double discount = 0.1 * TotalBill;
             double FinalBill = TotalBill - discount;
-            return FinalBill;
+            return (double)(int)FinalBill;
         }
-        return TotalBill;
+        return (double)(int)TotalBill;
     }
 }
 
