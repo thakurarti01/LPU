@@ -1,0 +1,15 @@
+E:\LPU\M1_Interface\XamXpert\obj\Debug\net10.0\XamXpert.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\M1_Interface\XamXpert\obj\Debug\net10.0\XamXpert.AssemblyInfoInputs.cache
+E:\LPU\M1_Interface\XamXpert\obj\Debug\net10.0\XamXpert.AssemblyInfo.cs
+E:\LPU\M1_Interface\XamXpert\obj\Debug\net10.0\XamXpert.csproj.CoreCompileInputs.cache
+E:\LPU\M1_Interface\XamXpert\obj\Debug\net10.0\XamXpert.sourcelink.json
+E:\LPU\M1_Interface\XamXpert\bin\Debug\net10.0\XamXpert.exe
+E:\LPU\M1_Interface\XamXpert\bin\Debug\net10.0\XamXpert.deps.json
+E:\LPU\M1_Interface\XamXpert\bin\Debug\net10.0\XamXpert.runtimeconfig.json
+E:\LPU\M1_Interface\XamXpert\bin\Debug\net10.0\XamXpert.dll
+E:\LPU\M1_Interface\XamXpert\bin\Debug\net10.0\XamXpert.pdb
+E:\LPU\M1_Interface\XamXpert\obj\Debug\net10.0\XamXpert.dll
+E:\LPU\M1_Interface\XamXpert\obj\Debug\net10.0\refint\XamXpert.dll
+E:\LPU\M1_Interface\XamXpert\obj\Debug\net10.0\XamXpert.pdb
+E:\LPU\M1_Interface\XamXpert\obj\Debug\net10.0\XamXpert.genruntimeconfig.cache
+E:\LPU\M1_Interface\XamXpert\obj\Debug\net10.0\ref\XamXpert.dll
