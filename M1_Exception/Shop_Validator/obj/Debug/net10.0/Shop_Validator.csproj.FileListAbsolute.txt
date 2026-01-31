@@ -1,0 +1,15 @@
+E:\LPU\M1_Exception\Shop_Validator\bin\Debug\net10.0\Shop_Validator.exe
+E:\LPU\M1_Exception\Shop_Validator\bin\Debug\net10.0\Shop_Validator.deps.json
+E:\LPU\M1_Exception\Shop_Validator\bin\Debug\net10.0\Shop_Validator.runtimeconfig.json
+E:\LPU\M1_Exception\Shop_Validator\bin\Debug\net10.0\Shop_Validator.dll
+E:\LPU\M1_Exception\Shop_Validator\bin\Debug\net10.0\Shop_Validator.pdb
+E:\LPU\M1_Exception\Shop_Validator\obj\Debug\net10.0\Shop_Validator.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\M1_Exception\Shop_Validator\obj\Debug\net10.0\Shop_Validator.AssemblyInfoInputs.cache
+E:\LPU\M1_Exception\Shop_Validator\obj\Debug\net10.0\Shop_Validator.AssemblyInfo.cs
+E:\LPU\M1_Exception\Shop_Validator\obj\Debug\net10.0\Shop_Validator.csproj.CoreCompileInputs.cache
+E:\LPU\M1_Exception\Shop_Validator\obj\Debug\net10.0\Shop_Validator.sourcelink.json
+E:\LPU\M1_Exception\Shop_Validator\obj\Debug\net10.0\Shop_Validator.dll
+E:\LPU\M1_Exception\Shop_Validator\obj\Debug\net10.0\refint\Shop_Validator.dll
+E:\LPU\M1_Exception\Shop_Validator\obj\Debug\net10.0\Shop_Validator.pdb
+E:\LPU\M1_Exception\Shop_Validator\obj\Debug\net10.0\Shop_Validator.genruntimeconfig.cache
+E:\LPU\M1_Exception\Shop_Validator\obj\Debug\net10.0\ref\Shop_Validator.dll
