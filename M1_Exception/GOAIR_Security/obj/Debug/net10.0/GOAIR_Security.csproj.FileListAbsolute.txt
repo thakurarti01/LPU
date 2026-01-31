@@ -1,0 +1,15 @@
+E:\LPU\M1_Exception\GOAIR_Security\obj\Debug\net10.0\GOAIR_Security.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\M1_Exception\GOAIR_Security\obj\Debug\net10.0\GOAIR_Security.AssemblyInfoInputs.cache
+E:\LPU\M1_Exception\GOAIR_Security\obj\Debug\net10.0\GOAIR_Security.AssemblyInfo.cs
+E:\LPU\M1_Exception\GOAIR_Security\obj\Debug\net10.0\GOAIR_Security.csproj.CoreCompileInputs.cache
+E:\LPU\M1_Exception\GOAIR_Security\obj\Debug\net10.0\GOAIR_Security.sourcelink.json
+E:\LPU\M1_Exception\GOAIR_Security\bin\Debug\net10.0\GOAIR_Security.exe
+E:\LPU\M1_Exception\GOAIR_Security\bin\Debug\net10.0\GOAIR_Security.deps.json
+E:\LPU\M1_Exception\GOAIR_Security\bin\Debug\net10.0\GOAIR_Security.runtimeconfig.json
+E:\LPU\M1_Exception\GOAIR_Security\bin\Debug\net10.0\GOAIR_Security.dll
+E:\LPU\M1_Exception\GOAIR_Security\bin\Debug\net10.0\GOAIR_Security.pdb
+E:\LPU\M1_Exception\GOAIR_Security\obj\Debug\net10.0\GOAIR_Security.dll
+E:\LPU\M1_Exception\GOAIR_Security\obj\Debug\net10.0\refint\GOAIR_Security.dll
+E:\LPU\M1_Exception\GOAIR_Security\obj\Debug\net10.0\GOAIR_Security.pdb
+E:\LPU\M1_Exception\GOAIR_Security\obj\Debug\net10.0\GOAIR_Security.genruntimeconfig.cache
+E:\LPU\M1_Exception\GOAIR_Security\obj\Debug\net10.0\ref\GOAIR_Security.dll
