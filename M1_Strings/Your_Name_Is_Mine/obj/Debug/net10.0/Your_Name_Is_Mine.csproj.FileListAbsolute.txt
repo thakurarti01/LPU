@@ -1,0 +1,15 @@
+E:\LPU\M1_Strings\Your_Name_Is_Mine\bin\Debug\net10.0\Your_Name_Is_Mine.exe
+E:\LPU\M1_Strings\Your_Name_Is_Mine\bin\Debug\net10.0\Your_Name_Is_Mine.deps.json
+E:\LPU\M1_Strings\Your_Name_Is_Mine\bin\Debug\net10.0\Your_Name_Is_Mine.runtimeconfig.json
+E:\LPU\M1_Strings\Your_Name_Is_Mine\bin\Debug\net10.0\Your_Name_Is_Mine.dll
+E:\LPU\M1_Strings\Your_Name_Is_Mine\bin\Debug\net10.0\Your_Name_Is_Mine.pdb
+E:\LPU\M1_Strings\Your_Name_Is_Mine\obj\Debug\net10.0\Your_Name_Is_Mine.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\M1_Strings\Your_Name_Is_Mine\obj\Debug\net10.0\Your_Name_Is_Mine.AssemblyInfoInputs.cache
+E:\LPU\M1_Strings\Your_Name_Is_Mine\obj\Debug\net10.0\Your_Name_Is_Mine.AssemblyInfo.cs
+E:\LPU\M1_Strings\Your_Name_Is_Mine\obj\Debug\net10.0\Your_Name_Is_Mine.csproj.CoreCompileInputs.cache
+E:\LPU\M1_Strings\Your_Name_Is_Mine\obj\Debug\net10.0\Your_Name_Is_Mine.sourcelink.json
+E:\LPU\M1_Strings\Your_Name_Is_Mine\obj\Debug\net10.0\Your_Name_Is_Mine.dll
+E:\LPU\M1_Strings\Your_Name_Is_Mine\obj\Debug\net10.0\refint\Your_Name_Is_Mine.dll
+E:\LPU\M1_Strings\Your_Name_Is_Mine\obj\Debug\net10.0\Your_Name_Is_Mine.pdb
+E:\LPU\M1_Strings\Your_Name_Is_Mine\obj\Debug\net10.0\Your_Name_Is_Mine.genruntimeconfig.cache
+E:\LPU\M1_Strings\Your_Name_Is_Mine\obj\Debug\net10.0\ref\Your_Name_Is_Mine.dll
