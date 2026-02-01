@@ -1,0 +1,15 @@
+E:\LPU\M1_Strings\Word_Wand\obj\Debug\net10.0\Word_Wand.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\M1_Strings\Word_Wand\obj\Debug\net10.0\Word_Wand.AssemblyInfoInputs.cache
+E:\LPU\M1_Strings\Word_Wand\obj\Debug\net10.0\Word_Wand.AssemblyInfo.cs
+E:\LPU\M1_Strings\Word_Wand\obj\Debug\net10.0\Word_Wand.csproj.CoreCompileInputs.cache
+E:\LPU\M1_Strings\Word_Wand\obj\Debug\net10.0\Word_Wand.sourcelink.json
+E:\LPU\M1_Strings\Word_Wand\bin\Debug\net10.0\Word_Wand.exe
+E:\LPU\M1_Strings\Word_Wand\bin\Debug\net10.0\Word_Wand.deps.json
+E:\LPU\M1_Strings\Word_Wand\bin\Debug\net10.0\Word_Wand.runtimeconfig.json
+E:\LPU\M1_Strings\Word_Wand\bin\Debug\net10.0\Word_Wand.dll
+E:\LPU\M1_Strings\Word_Wand\bin\Debug\net10.0\Word_Wand.pdb
+E:\LPU\M1_Strings\Word_Wand\obj\Debug\net10.0\Word_Wand.dll
+E:\LPU\M1_Strings\Word_Wand\obj\Debug\net10.0\refint\Word_Wand.dll
+E:\LPU\M1_Strings\Word_Wand\obj\Debug\net10.0\Word_Wand.pdb
+E:\LPU\M1_Strings\Word_Wand\obj\Debug\net10.0\Word_Wand.genruntimeconfig.cache
+E:\LPU\M1_Strings\Word_Wand\obj\Debug\net10.0\ref\Word_Wand.dll
