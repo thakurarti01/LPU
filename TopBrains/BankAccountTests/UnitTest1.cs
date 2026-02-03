@@ -1,10 +1,10 @@
-using NUnit.Framework;
+﻿using NUnit.Framework;
 
 [TestFixture]
-class UnitTest
+public class UnitTest
 {
     [Test]
-    void Test_Deposit_ValidAmount()
+    public void Test_Deposit_ValidAmount()
     {
         Program account = new Program(100m);
         account.Deposit(50m);
@@ -13,7 +13,7 @@ class UnitTest
     }
 
     [Test]
-    void Test_Deposit_NegativeAmount()
+    public void Test_Deposit_NegativeAmount()
     {
         Program account = new Program(100m);
 
@@ -24,7 +24,7 @@ class UnitTest
     }
 
     [Test]
-    void Test_Withdraw_ValidAmount()
+    public void Test_Withdraw_ValidAmount()
     {
         Program account = new Program(200m);
         account.Withdraw(80m);
@@ -33,7 +33,7 @@ class UnitTest
     }
 
     [Test]
-    void Test_Withdraw_InsufficientFunds()
+    public void Test_Withdraw_InsufficientFunds()
     {
         Program account = new Program(50m);
 
