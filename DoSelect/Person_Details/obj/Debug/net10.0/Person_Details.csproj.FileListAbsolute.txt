@@ -1,0 +1,15 @@
+E:\LPU\DoSelect\Person_Details\obj\Debug\net10.0\Person_Details.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\DoSelect\Person_Details\obj\Debug\net10.0\Person_Details.AssemblyInfoInputs.cache
+E:\LPU\DoSelect\Person_Details\obj\Debug\net10.0\Person_Details.AssemblyInfo.cs
+E:\LPU\DoSelect\Person_Details\obj\Debug\net10.0\Person_Details.csproj.CoreCompileInputs.cache
+E:\LPU\DoSelect\Person_Details\obj\Debug\net10.0\Person_Details.sourcelink.json
+E:\LPU\DoSelect\Person_Details\bin\Debug\net10.0\Person_Details.exe
+E:\LPU\DoSelect\Person_Details\bin\Debug\net10.0\Person_Details.deps.json
+E:\LPU\DoSelect\Person_Details\bin\Debug\net10.0\Person_Details.runtimeconfig.json
+E:\LPU\DoSelect\Person_Details\bin\Debug\net10.0\Person_Details.dll
+E:\LPU\DoSelect\Person_Details\bin\Debug\net10.0\Person_Details.pdb
+E:\LPU\DoSelect\Person_Details\obj\Debug\net10.0\Person_Details.dll
+E:\LPU\DoSelect\Person_Details\obj\Debug\net10.0\refint\Person_Details.dll
+E:\LPU\DoSelect\Person_Details\obj\Debug\net10.0\Person_Details.pdb
+E:\LPU\DoSelect\Person_Details\obj\Debug\net10.0\Person_Details.genruntimeconfig.cache
+E:\LPU\DoSelect\Person_Details\obj\Debug\net10.0\ref\Person_Details.dll
