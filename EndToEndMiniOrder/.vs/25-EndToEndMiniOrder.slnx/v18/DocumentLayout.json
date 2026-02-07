@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CapGemini Training LPU\\Assessment4-7-02-2026\\25-EndToEndMiniOrder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD855500-2D02-459D-AB23-DF6863FA1CB1}|25-EndToEndMiniOrder\\25-EndToEndMiniOrder.csproj|d:\\capgemini training lpu\\assessment4-7-02-2026\\25-endtoendminiorder\\25-endtoendminiorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD855500-2D02-459D-AB23-DF6863FA1CB1}|25-EndToEndMiniOrder\\25-EndToEndMiniOrder.csproj|solutionrelative:25-endtoendminiorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD855500-2D02-459D-AB23-DF6863FA1CB1}|25-EndToEndMiniOrder\\25-EndToEndMiniOrder.csproj|d:\\capgemini training lpu\\assessment4-7-02-2026\\25-endtoendminiorder\\25-endtoendminiorder\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD855500-2D02-459D-AB23-DF6863FA1CB1}|25-EndToEndMiniOrder\\25-EndToEndMiniOrder.csproj|solutionrelative:25-endtoendminiorder\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD855500-2D02-459D-AB23-DF6863FA1CB1}|25-EndToEndMiniOrder\\25-EndToEndMiniOrder.csproj|d:\\capgemini training lpu\\assessment4-7-02-2026\\25-endtoendminiorder\\25-endtoendminiorder\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD855500-2D02-459D-AB23-DF6863FA1CB1}|25-EndToEndMiniOrder\\25-EndToEndMiniOrder.csproj|solutionrelative:25-endtoendminiorder\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD855500-2D02-459D-AB23-DF6863FA1CB1}|25-EndToEndMiniOrder\\25-EndToEndMiniOrder.csproj|d:\\capgemini training lpu\\assessment4-7-02-2026\\25-endtoendminiorder\\25-endtoendminiorder\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD855500-2D02-459D-AB23-DF6863FA1CB1}|25-EndToEndMiniOrder\\25-EndToEndMiniOrder.csproj|solutionrelative:25-endtoendminiorder\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD855500-2D02-459D-AB23-DF6863FA1CB1}|25-EndToEndMiniOrder\\25-EndToEndMiniOrder.csproj|d:\\capgemini training lpu\\assessment4-7-02-2026\\25-endtoendminiorder\\25-endtoendminiorder\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD855500-2D02-459D-AB23-DF6863FA1CB1}|25-EndToEndMiniOrder\\25-EndToEndMiniOrder.csproj|solutionrelative:25-endtoendminiorder\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD855500-2D02-459D-AB23-DF6863FA1CB1}|25-EndToEndMiniOrder\\25-EndToEndMiniOrder.csproj|d:\\capgemini training lpu\\assessment4-7-02-2026\\25-endtoendminiorder\\25-endtoendminiorder\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD855500-2D02-459D-AB23-DF6863FA1CB1}|25-EndToEndMiniOrder\\25-EndToEndMiniOrder.csproj|solutionrelative:25-endtoendminiorder\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 239,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\CapGemini Training LPU\\Assessment4-7-02-2026\\25-EndToEndMiniOrder\\25-EndToEndMiniOrder\\OrderItem.cs",
+              "RelativeDocumentMoniker": "25-EndToEndMiniOrder\\OrderItem.cs",
+              "ToolTip": "D:\\CapGemini Training LPU\\Assessment4-7-02-2026\\25-EndToEndMiniOrder\\25-EndToEndMiniOrder\\OrderItem.cs",
+              "RelativeToolTip": "25-EndToEndMiniOrder\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T09:45:03.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\CapGemini Training LPU\\Assessment4-7-02-2026\\25-EndToEndMiniOrder\\25-EndToEndMiniOrder\\Payment.cs",
+              "RelativeDocumentMoniker": "25-EndToEndMiniOrder\\Payment.cs",
+              "ToolTip": "D:\\CapGemini Training LPU\\Assessment4-7-02-2026\\25-EndToEndMiniOrder\\25-EndToEndMiniOrder\\Payment.cs",
+              "RelativeToolTip": "25-EndToEndMiniOrder\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T09:05:37.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\CapGemini Training LPU\\Assessment4-7-02-2026\\25-EndToEndMiniOrder\\25-EndToEndMiniOrder\\Order.cs",
+              "RelativeDocumentMoniker": "25-EndToEndMiniOrder\\Order.cs",
+              "ToolTip": "D:\\CapGemini Training LPU\\Assessment4-7-02-2026\\25-EndToEndMiniOrder\\25-EndToEndMiniOrder\\Order.cs",
+              "RelativeToolTip": "25-EndToEndMiniOrder\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T09:04:57.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\CapGemini Training LPU\\Assessment4-7-02-2026\\25-EndToEndMiniOrder\\25-EndToEndMiniOrder\\Product.cs",
+              "RelativeDocumentMoniker": "25-EndToEndMiniOrder\\Product.cs",
+              "ToolTip": "D:\\CapGemini Training LPU\\Assessment4-7-02-2026\\25-EndToEndMiniOrder\\25-EndToEndMiniOrder\\Product.cs",
+              "RelativeToolTip": "25-EndToEndMiniOrder\\Product.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAjwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T09:04:38.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\CapGemini Training LPU\\Assessment4-7-02-2026\\25-EndToEndMiniOrder\\25-EndToEndMiniOrder\\Customer.cs",
+              "RelativeDocumentMoniker": "25-EndToEndMiniOrder\\Customer.cs",
+              "ToolTip": "D:\\CapGemini Training LPU\\Assessment4-7-02-2026\\25-EndToEndMiniOrder\\25-EndToEndMiniOrder\\Customer.cs",
+              "RelativeToolTip": "25-EndToEndMiniOrder\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T09:02:52.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CapGemini Training LPU\\Assessment4-7-02-2026\\25-EndToEndMiniOrder\\25-EndToEndMiniOrder\\Program.cs",
+              "RelativeDocumentMoniker": "25-EndToEndMiniOrder\\Program.cs",
+              "ToolTip": "D:\\CapGemini Training LPU\\Assessment4-7-02-2026\\25-EndToEndMiniOrder\\25-EndToEndMiniOrder\\Program.cs",
+              "RelativeToolTip": "25-EndToEndMiniOrder\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T08:59:12.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

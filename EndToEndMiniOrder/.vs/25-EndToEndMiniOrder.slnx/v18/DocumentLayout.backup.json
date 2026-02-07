@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CapGemini Training LPU\\Assessment4-7-02-2026\\25-EndToEndMiniOrder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD855500-2D02-459D-AB23-DF6863FA1CB1}|25-EndToEndMiniOrder\\25-EndToEndMiniOrder.csproj|d:\\capgemini training lpu\\assessment4-7-02-2026\\25-endtoendminiorder\\25-endtoendminiorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD855500-2D02-459D-AB23-DF6863FA1CB1}|25-EndToEndMiniOrder\\25-EndToEndMiniOrder.csproj|solutionrelative:25-endtoendminiorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CapGemini Training LPU\\Assessment4-7-02-2026\\25-EndToEndMiniOrder\\25-EndToEndMiniOrder\\Program.cs",
+              "RelativeDocumentMoniker": "25-EndToEndMiniOrder\\Program.cs",
+              "ToolTip": "D:\\CapGemini Training LPU\\Assessment4-7-02-2026\\25-EndToEndMiniOrder\\25-EndToEndMiniOrder\\Program.cs",
+              "RelativeToolTip": "25-EndToEndMiniOrder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T08:59:12.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
