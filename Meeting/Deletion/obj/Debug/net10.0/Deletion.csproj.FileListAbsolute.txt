@@ -1,0 +1,15 @@
+E:\LPU\Meeting\Deletion\bin\Debug\net10.0\Deletion.exe
+E:\LPU\Meeting\Deletion\bin\Debug\net10.0\Deletion.deps.json
+E:\LPU\Meeting\Deletion\bin\Debug\net10.0\Deletion.runtimeconfig.json
+E:\LPU\Meeting\Deletion\bin\Debug\net10.0\Deletion.dll
+E:\LPU\Meeting\Deletion\bin\Debug\net10.0\Deletion.pdb
+E:\LPU\Meeting\Deletion\obj\Debug\net10.0\Deletion.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Meeting\Deletion\obj\Debug\net10.0\Deletion.AssemblyInfoInputs.cache
+E:\LPU\Meeting\Deletion\obj\Debug\net10.0\Deletion.AssemblyInfo.cs
+E:\LPU\Meeting\Deletion\obj\Debug\net10.0\Deletion.csproj.CoreCompileInputs.cache
+E:\LPU\Meeting\Deletion\obj\Debug\net10.0\Deletion.sourcelink.json
+E:\LPU\Meeting\Deletion\obj\Debug\net10.0\Deletion.dll
+E:\LPU\Meeting\Deletion\obj\Debug\net10.0\refint\Deletion.dll
+E:\LPU\Meeting\Deletion\obj\Debug\net10.0\Deletion.pdb
+E:\LPU\Meeting\Deletion\obj\Debug\net10.0\Deletion.genruntimeconfig.cache
+E:\LPU\Meeting\Deletion\obj\Debug\net10.0\ref\Deletion.dll

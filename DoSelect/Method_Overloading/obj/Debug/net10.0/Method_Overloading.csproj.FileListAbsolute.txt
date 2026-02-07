@@ -1,0 +1,15 @@
+E:\LPU\DoSelect\Method_Overloading\obj\Debug\net10.0\Method_Overloading.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\DoSelect\Method_Overloading\obj\Debug\net10.0\Method_Overloading.AssemblyInfoInputs.cache
+E:\LPU\DoSelect\Method_Overloading\obj\Debug\net10.0\Method_Overloading.AssemblyInfo.cs
+E:\LPU\DoSelect\Method_Overloading\obj\Debug\net10.0\Method_Overloading.csproj.CoreCompileInputs.cache
+E:\LPU\DoSelect\Method_Overloading\obj\Debug\net10.0\Method_Overloading.sourcelink.json
+E:\LPU\DoSelect\Method_Overloading\bin\Debug\net10.0\Method_Overloading.exe
+E:\LPU\DoSelect\Method_Overloading\bin\Debug\net10.0\Method_Overloading.deps.json
+E:\LPU\DoSelect\Method_Overloading\bin\Debug\net10.0\Method_Overloading.runtimeconfig.json
+E:\LPU\DoSelect\Method_Overloading\bin\Debug\net10.0\Method_Overloading.dll
+E:\LPU\DoSelect\Method_Overloading\bin\Debug\net10.0\Method_Overloading.pdb
+E:\LPU\DoSelect\Method_Overloading\obj\Debug\net10.0\Method_Overloading.dll
+E:\LPU\DoSelect\Method_Overloading\obj\Debug\net10.0\refint\Method_Overloading.dll
+E:\LPU\DoSelect\Method_Overloading\obj\Debug\net10.0\Method_Overloading.pdb
+E:\LPU\DoSelect\Method_Overloading\obj\Debug\net10.0\Method_Overloading.genruntimeconfig.cache
+E:\LPU\DoSelect\Method_Overloading\obj\Debug\net10.0\ref\Method_Overloading.dll
