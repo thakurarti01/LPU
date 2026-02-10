@@ -26,7 +26,7 @@ namespace University_Course_Registration_System
             // 1. Throw ArgumentException if course code exists
             if (AvailableCourses.ContainsKey(code))
             {
-                throw new ArgumentException();
+                throw new ArgumentException("course already exits");
             }
             Course obj = new Course(code, name, credits, maxCapacity, prerequisites);
             AvailableCourses.Add(code, obj);
@@ -41,7 +41,7 @@ namespace University_Course_Registration_System
             // 1. Throw ArgumentException if student ID exists
             if (Students.ContainsKey(id))
             {
-                throw new ArgumentException();
+                throw new ArgumentException("student already exits");
             }
             Student studObj = new Student(id, name, major, maxCredits, completedCourses);
             Students.Add(id, studObj);
@@ -54,12 +54,15 @@ namespace University_Course_Registration_System
         {
             // TODO:
             // 1. Validate student and course existence
-            if(!Students.ContainsKey(ID) || !AvailableCourses.ContainsKey(code))
+            if(!Students.ContainsKey(studentId) || !AvailableCourses.ContainsKey(courseCode))
             {
                 return false;
             }
-            studObj.AddCourse();
-            Console.WriteLine("Course added successfully");
+            Student studObj = Students[studentId];
+            Course obj = AvailableCourses[courseCode];
+
+            return studObj.AddCourse(obj);
+            
             // 2. Call student.AddCourse(course)
             // 3. Display meaningful messages
             // throw new NotImplementedException();
@@ -69,11 +72,12 @@ namespace University_Course_Registration_System
         {
             // TODO:
             // 1. Validate student existence
-            if (Students.ContainsKey(studentId))
+            if (!Students.ContainsKey(studentId))
             {
-                Console.WriteLine("student existed");
+                return false;
             }
-            studObj.DropCourse(courseCode);
+            Students[studentId].DropCourse(courseCode);
+            return true;
             // 2. Call student.DropCourse(courseCode)
             // throw new NotImplementedException();
         }
@@ -82,7 +86,10 @@ namespace University_Course_Registration_System
         {
             // TODO:
             // Display course code, name, credits, enrollment info
-            Console.WriteLine($"{code}, {name}, {credits}, {enrollment}");
+            foreach(var course in AvailableCourses.Values)
+            {
+                Console.WriteLine($"{course.CourseCode}, {course.CourseName}, {course.Credits}, {course.GetEnrollmentInfo()}");
+            }
             // throw new NotImplementedException();
         }
 
@@ -90,10 +97,11 @@ namespace University_Course_Registration_System
         {
             // TODO:
             // Validate student existence
-            if (Students.ContainsKey(studentId))
+            if (!Students.ContainsKey(studentId))
             {
-                studObj.DisplayStudentSchedule();
+                return;
             }
+            Students[studentId].DisplaySchedule();
             // Call student.DisplaySchedule()
             // throw new NotImplementedException();
         }
@@ -102,7 +110,12 @@ namespace University_Course_Registration_System
         {
             // TODO:
             // Display total students, total courses, average enrollment
-            Console.WriteLine($"{student.Count}, {course.Count}"); //couldn't figure how to find average enrollment
+            int totalStudents = Students.Count;
+            int totalCourses = AvailableCourses.Count;
+
+            double avgEnrollment = totalCourses == 0 ? 0 : AvailableCourses.Values.Average(c => int.Parse(c.GetEnrollmentInfo().Split('/')[0]));
+
+            Console.WriteLine($"Students: {totalStudents}, Courses: {totalCourses}, Avg Enrollment: {avgEnrollment}");
             // throw new NotImplementedException();
         }
     }

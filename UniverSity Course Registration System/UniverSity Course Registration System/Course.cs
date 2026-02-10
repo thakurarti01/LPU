@@ -36,20 +36,22 @@ namespace University_Course_Registration_System
             {
                 return true;
             }
+            return false;
             // throw new NotImplementedException();
         }
 
         public bool HasPrerequisites(List<string> completedCourses)
         {
             // TODO: Check if ALL prerequisites exist in completedCourses
-            throw new NotImplementedException();
+            return Prerequisites.All(p => completedCourses.Contains(p));
+            // throw new NotImplementedException();
         }
 
         public void EnrollStudent()
         {
             // TODO:
             // 1. Throw InvalidOperationException if course is full
-            int course;
+            
             if(IsFull())
             {
                 throw new InvalidOperationException("Course is full");
