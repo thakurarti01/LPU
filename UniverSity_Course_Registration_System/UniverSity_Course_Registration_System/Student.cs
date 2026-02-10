@@ -35,8 +35,10 @@ namespace University_Course_Registration_System
             int sum = 0;
             foreach(var item in RegisteredCourses)
             {
-                sum += credits;
+                sum += item.Credits;
             }
+            return sum;
+
             // throw new NotImplementedException();
         }
 
@@ -44,37 +46,87 @@ namespace University_Course_Registration_System
         {
             // TODO:
             // 1. Course should not already be registered
-            if(course)
+            if(RegisteredCourses.Any(c => c.CourseCode == course.CourseCode))
+            {
+                return false;
+            }
+
+            if(GetTotalCredits() + course.Credits > MaxCredits)
+            {
+                return false;
+            }
+
+            if (!course.HasPrerequisites(CompletedCourses))
+            {
+                return false;
+            }
+
+            return true;
             // 2. Total credits + course credits <= MaxCredits
             // 3. Course prerequisites must be satisfied
-            throw new NotImplementedException();
+            // throw new NotImplementedException();
         }
 
         public bool AddCourse(Course course)
         {
             // TODO:
             // 1. Call CanAddCourse
+            if (!CanAddCourse(course))
+            {
+                return false;
+            }
+
+            if (course.IsFull())
+            {
+                return false;
+            }
+
+            RegisteredCourses.Add(course);
+            course.EnrollStudent();
+
+            return true;
             // 2. Check course capacity
             // 3. Add course to RegisteredCourses
             // 4. Call course.EnrollStudent()
-            throw new NotImplementedException();
+            // throw new NotImplementedException();
         }
 
         public bool DropCourse(string courseCode)
         {
             // TODO:
             // 1. Find course by code
+            Course course = RegisteredCourses.FirstOrDefault(c => c.CourseCode == courseCode);
+
+            if(course == null)
+            {
+                return false;
+            }
+
+            RegisteredCourses.Remove(course);
+            course.DropStudent();
+
+            return true;
             // 2. Remove from RegisteredCourses
             // 3. Call course.DropStudent()
-            throw new NotImplementedException();
+            // throw new NotImplementedException();
         }
 
         public void DisplaySchedule()
         {
             // TODO:
             // Display course code, name, and credits
+            if(RegisteredCourses.Count == 0)
+            {
+                Console.WriteLine("no courses registered");
+                return;
+            }
+
+            foreach(var course in RegisteredCourses)
+            {
+                Console.WriteLine($"{course.CourseCode}, {course.CourseName}, {course.Credits}");
+            }
             // If no courses registered, display appropriate message
-            throw new NotImplementedException();
+            // throw new NotImplementedException();
         }
     }
 }
