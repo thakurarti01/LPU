@@ -15,7 +15,7 @@ class Black : IBroadbandPlan
     {
         _isSubscriptionValid = isSubscriptionValid;
         _discountPercentage = discountPercentage;
-        if(_discountPercentage < 0 || _discountPercentage > 50)
+        if(discountPercentage < 0 || discountPercentage > 50)
         {
             throw new ArgumentOutOfRangeException();
         }
@@ -42,7 +42,7 @@ class Gold : IBroadbandPlan
     {
         _isSubscriptionValid = isSubscriptionValid;
         _discountPercentage = discountPercentage;
-        if(_discountPercentage < 0 || _discountPercentage > 30)
+        if(discountPercentage < 0 || discountPercentage > 30)
         {
             throw new ArgumentOutOfRangeException();
         }
@@ -66,10 +66,20 @@ class SubscribePlan
     public SubscribePlan(IList<IBroadbandPlan> broadbandPlans)
     {
         _broadbandPlans = broadbandPlans;
+        if(broadbandPlans == null)
+        {
+            throw new ArgumentNullException();
+        }
     }
 
     public IList<Tuple<string, int>> GetSubscriptionPlan()
     {
-        
+        List<Tuple<string, int>> PlanDetails = new List<Tuple<string, int>>();
+
+        foreach(var plan in _broadbandPlans)
+        {
+            PlanDetails.Add(new Tuple<string, int>(plan.GetType().Name, plan.GetBroadbandPlanAmount()));
+        }
+        return PlanDetails;
     }
 }

@@ -1,0 +1,15 @@
+E:\LPU\DoSelect\Broadband_Plans\obj\Debug\net10.0\Broadband_Plans.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\DoSelect\Broadband_Plans\obj\Debug\net10.0\Broadband_Plans.AssemblyInfoInputs.cache
+E:\LPU\DoSelect\Broadband_Plans\obj\Debug\net10.0\Broadband_Plans.AssemblyInfo.cs
+E:\LPU\DoSelect\Broadband_Plans\obj\Debug\net10.0\Broadband_Plans.csproj.CoreCompileInputs.cache
+E:\LPU\DoSelect\Broadband_Plans\obj\Debug\net10.0\Broadband_Plans.sourcelink.json
+E:\LPU\DoSelect\Broadband_Plans\bin\Debug\net10.0\Broadband_Plans.exe
+E:\LPU\DoSelect\Broadband_Plans\bin\Debug\net10.0\Broadband_Plans.deps.json
+E:\LPU\DoSelect\Broadband_Plans\bin\Debug\net10.0\Broadband_Plans.runtimeconfig.json
+E:\LPU\DoSelect\Broadband_Plans\bin\Debug\net10.0\Broadband_Plans.dll
+E:\LPU\DoSelect\Broadband_Plans\bin\Debug\net10.0\Broadband_Plans.pdb
+E:\LPU\DoSelect\Broadband_Plans\obj\Debug\net10.0\Broadband_Plans.dll
+E:\LPU\DoSelect\Broadband_Plans\obj\Debug\net10.0\refint\Broadband_Plans.dll
+E:\LPU\DoSelect\Broadband_Plans\obj\Debug\net10.0\Broadband_Plans.pdb
+E:\LPU\DoSelect\Broadband_Plans\obj\Debug\net10.0\Broadband_Plans.genruntimeconfig.cache
+E:\LPU\DoSelect\Broadband_Plans\obj\Debug\net10.0\ref\Broadband_Plans.dll
