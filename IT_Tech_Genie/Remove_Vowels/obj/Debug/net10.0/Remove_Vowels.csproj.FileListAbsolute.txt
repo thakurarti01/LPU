@@ -1,0 +1,15 @@
+E:\LPU\IT_Tech_Genie\Remove_Vowels\obj\Debug\net10.0\Remove_Vowels.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\IT_Tech_Genie\Remove_Vowels\obj\Debug\net10.0\Remove_Vowels.AssemblyInfoInputs.cache
+E:\LPU\IT_Tech_Genie\Remove_Vowels\obj\Debug\net10.0\Remove_Vowels.AssemblyInfo.cs
+E:\LPU\IT_Tech_Genie\Remove_Vowels\obj\Debug\net10.0\Remove_Vowels.csproj.CoreCompileInputs.cache
+E:\LPU\IT_Tech_Genie\Remove_Vowels\obj\Debug\net10.0\Remove_Vowels.sourcelink.json
+E:\LPU\IT_Tech_Genie\Remove_Vowels\bin\Debug\net10.0\Remove_Vowels.exe
+E:\LPU\IT_Tech_Genie\Remove_Vowels\bin\Debug\net10.0\Remove_Vowels.deps.json
+E:\LPU\IT_Tech_Genie\Remove_Vowels\bin\Debug\net10.0\Remove_Vowels.runtimeconfig.json
+E:\LPU\IT_Tech_Genie\Remove_Vowels\bin\Debug\net10.0\Remove_Vowels.dll
+E:\LPU\IT_Tech_Genie\Remove_Vowels\bin\Debug\net10.0\Remove_Vowels.pdb
+E:\LPU\IT_Tech_Genie\Remove_Vowels\obj\Debug\net10.0\Remove_Vowels.dll
+E:\LPU\IT_Tech_Genie\Remove_Vowels\obj\Debug\net10.0\refint\Remove_Vowels.dll
+E:\LPU\IT_Tech_Genie\Remove_Vowels\obj\Debug\net10.0\Remove_Vowels.pdb
+E:\LPU\IT_Tech_Genie\Remove_Vowels\obj\Debug\net10.0\Remove_Vowels.genruntimeconfig.cache
+E:\LPU\IT_Tech_Genie\Remove_Vowels\obj\Debug\net10.0\ref\Remove_Vowels.dll
