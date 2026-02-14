@@ -1,20 +1,37 @@
 using System;
 
-class BookUtility
+public class BookUtility
 {
-    Book book = new Book();
-    public void GetBookDetails()
+    private Book book;
+
+    public BookUtility()
     {
-        Console.WriteLine($"Details: {book.Id} {book.Title} {book.Price} {book.Stock}");
+        string data = "BK01 JavaBook 750 20";
+        string[] arr = data.Split(' ');
+
+        book = new Book
+        {
+            Id = arr[0],
+            Author = arr[1],
+            Price = Convert.ToInt32(arr[2]),
+            Stock = Convert.ToInt32(arr[3])
+        };
     }
-    public void UpdateBookPrice(int newPrice)
+
+    public Book GetBook()
+    {
+        return book;
+    }
+
+    public void UpdatePrice(int newPrice)
     {
         book.Price = newPrice;
-        Console.WriteLine($"Updated Price: {book.Price}");
+        Console.WriteLine("Price Updated Successfully");
     }
-    public void UpdateBookStock(int newStock)
+
+    public void UpdateStock(int newStock)
     {
         book.Stock = newStock;
-        Console.WriteLine($"Updated Stock: {book.Stock}");
+        Console.WriteLine("Stock Updated Successfully");
     }
 }
