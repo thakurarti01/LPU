@@ -1,0 +1,15 @@
+E:\LPU\IT_Tech_Genie\Inserting_Between_Characters\bin\Debug\net10.0\Inserting_Between_Characters.exe
+E:\LPU\IT_Tech_Genie\Inserting_Between_Characters\bin\Debug\net10.0\Inserting_Between_Characters.deps.json
+E:\LPU\IT_Tech_Genie\Inserting_Between_Characters\bin\Debug\net10.0\Inserting_Between_Characters.runtimeconfig.json
+E:\LPU\IT_Tech_Genie\Inserting_Between_Characters\bin\Debug\net10.0\Inserting_Between_Characters.dll
+E:\LPU\IT_Tech_Genie\Inserting_Between_Characters\bin\Debug\net10.0\Inserting_Between_Characters.pdb
+E:\LPU\IT_Tech_Genie\Inserting_Between_Characters\obj\Debug\net10.0\Inserting_Between_Characters.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\IT_Tech_Genie\Inserting_Between_Characters\obj\Debug\net10.0\Inserting_Between_Characters.AssemblyInfoInputs.cache
+E:\LPU\IT_Tech_Genie\Inserting_Between_Characters\obj\Debug\net10.0\Inserting_Between_Characters.AssemblyInfo.cs
+E:\LPU\IT_Tech_Genie\Inserting_Between_Characters\obj\Debug\net10.0\Inserting_Between_Characters.csproj.CoreCompileInputs.cache
+E:\LPU\IT_Tech_Genie\Inserting_Between_Characters\obj\Debug\net10.0\Inserting_Between_Characters.sourcelink.json
+E:\LPU\IT_Tech_Genie\Inserting_Between_Characters\obj\Debug\net10.0\Inserting_Between_Characters.dll
+E:\LPU\IT_Tech_Genie\Inserting_Between_Characters\obj\Debug\net10.0\refint\Inserting_Between_Characters.dll
+E:\LPU\IT_Tech_Genie\Inserting_Between_Characters\obj\Debug\net10.0\Inserting_Between_Characters.pdb
+E:\LPU\IT_Tech_Genie\Inserting_Between_Characters\obj\Debug\net10.0\Inserting_Between_Characters.genruntimeconfig.cache
+E:\LPU\IT_Tech_Genie\Inserting_Between_Characters\obj\Debug\net10.0\ref\Inserting_Between_Characters.dll
