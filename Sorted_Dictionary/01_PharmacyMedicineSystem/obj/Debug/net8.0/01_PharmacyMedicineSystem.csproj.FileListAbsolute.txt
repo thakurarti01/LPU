@@ -1,0 +1,5 @@
+E:\LPU\Sorted_Dictionary\01_PharmacyMedicineSystem\obj\Debug\net8.0\01_PharmacyMedicineSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Sorted_Dictionary\01_PharmacyMedicineSystem\obj\Debug\net8.0\01_PharmacyMedicineSystem.AssemblyInfoInputs.cache
+E:\LPU\Sorted_Dictionary\01_PharmacyMedicineSystem\obj\Debug\net8.0\01_PharmacyMedicineSystem.AssemblyInfo.cs
+E:\LPU\Sorted_Dictionary\01_PharmacyMedicineSystem\obj\Debug\net8.0\01_PharmacyMedicineSystem.csproj.CoreCompileInputs.cache
+E:\LPU\Sorted_Dictionary\01_PharmacyMedicineSystem\obj\Debug\net8.0\01_PharmacyMedicineSystem.sourcelink.json

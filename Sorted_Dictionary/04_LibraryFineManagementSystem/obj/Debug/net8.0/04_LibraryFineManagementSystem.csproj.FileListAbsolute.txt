@@ -1,0 +1,15 @@
+E:\LPU\Sorted_Dictionary\04_LibraryFineManagementSystem\obj\Debug\net8.0\04_LibraryFineManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Sorted_Dictionary\04_LibraryFineManagementSystem\obj\Debug\net8.0\04_LibraryFineManagementSystem.AssemblyInfoInputs.cache
+E:\LPU\Sorted_Dictionary\04_LibraryFineManagementSystem\obj\Debug\net8.0\04_LibraryFineManagementSystem.AssemblyInfo.cs
+E:\LPU\Sorted_Dictionary\04_LibraryFineManagementSystem\obj\Debug\net8.0\04_LibraryFineManagementSystem.csproj.CoreCompileInputs.cache
+E:\LPU\Sorted_Dictionary\04_LibraryFineManagementSystem\obj\Debug\net8.0\04_LibraryFineManagementSystem.sourcelink.json
+E:\LPU\Sorted_Dictionary\04_LibraryFineManagementSystem\bin\Debug\net8.0\04_LibraryFineManagementSystem.exe
+E:\LPU\Sorted_Dictionary\04_LibraryFineManagementSystem\bin\Debug\net8.0\04_LibraryFineManagementSystem.deps.json
+E:\LPU\Sorted_Dictionary\04_LibraryFineManagementSystem\bin\Debug\net8.0\04_LibraryFineManagementSystem.runtimeconfig.json
+E:\LPU\Sorted_Dictionary\04_LibraryFineManagementSystem\bin\Debug\net8.0\04_LibraryFineManagementSystem.dll
+E:\LPU\Sorted_Dictionary\04_LibraryFineManagementSystem\bin\Debug\net8.0\04_LibraryFineManagementSystem.pdb
+E:\LPU\Sorted_Dictionary\04_LibraryFineManagementSystem\obj\Debug\net8.0\04_LibraryFineManagementSystem.dll
+E:\LPU\Sorted_Dictionary\04_LibraryFineManagementSystem\obj\Debug\net8.0\refint\04_LibraryFineManagementSystem.dll
+E:\LPU\Sorted_Dictionary\04_LibraryFineManagementSystem\obj\Debug\net8.0\04_LibraryFineManagementSystem.pdb
+E:\LPU\Sorted_Dictionary\04_LibraryFineManagementSystem\obj\Debug\net8.0\04_LibraryFineManagementSystem.genruntimeconfig.cache
+E:\LPU\Sorted_Dictionary\04_LibraryFineManagementSystem\obj\Debug\net8.0\ref\04_LibraryFineManagementSystem.dll

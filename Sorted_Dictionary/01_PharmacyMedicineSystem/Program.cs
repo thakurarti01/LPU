@@ -17,31 +17,37 @@ namespace ConsoleApp
                 Console.WriteLine("4. Remove");
                 Console.WriteLine("5. Exit");
 
-                // TODO: Read user choice
-
-                int choice = 0; // TODO
+                Console.Write("Enter choice: ");
+                int choice = Convert.ToInt32(Console.ReadLine());
 
                 switch (choice)
                 {
                     case 1:
-                        // TODO: Display data
+                        service.Display();
                         break;
+
                     case 2:
-                        // TODO: Add entity
+                        service.Add();
                         break;
+
                     case 3:
-                        // TODO: Update entity
+                        service.Update();
                         break;
+
                     case 4:
-                        // TODO: Remove entity
+                        service.Remove();
                         break;
+
                     case 5:
                         Console.WriteLine("Thank You");
                         return;
+
                     default:
-                        // TODO: Handle invalid choice
+                        Console.WriteLine("Invalid choice");
                         break;
                 }
+
+                Console.WriteLine();
             }
         }
     }
