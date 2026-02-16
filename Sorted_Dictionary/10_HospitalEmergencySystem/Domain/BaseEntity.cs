@@ -2,8 +2,8 @@ namespace Domain
 {
     public abstract class BaseEntity
     {
-        public string Id { get; set; }
+        public string Id { get; set; } = string.Empty;
 
-        public abstract void Validate(); // TODO: Implement validation
+        public abstract void Validate();
     }
 }

@@ -1,0 +1,15 @@
+E:\LPU\Sorted_Dictionary\10_HospitalEmergencySystem\bin\Debug\net10.0\10_HospitalEmergencySystem.exe
+E:\LPU\Sorted_Dictionary\10_HospitalEmergencySystem\bin\Debug\net10.0\10_HospitalEmergencySystem.deps.json
+E:\LPU\Sorted_Dictionary\10_HospitalEmergencySystem\bin\Debug\net10.0\10_HospitalEmergencySystem.runtimeconfig.json
+E:\LPU\Sorted_Dictionary\10_HospitalEmergencySystem\bin\Debug\net10.0\10_HospitalEmergencySystem.dll
+E:\LPU\Sorted_Dictionary\10_HospitalEmergencySystem\bin\Debug\net10.0\10_HospitalEmergencySystem.pdb
+E:\LPU\Sorted_Dictionary\10_HospitalEmergencySystem\obj\Debug\net10.0\10_HospitalEmergencySystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Sorted_Dictionary\10_HospitalEmergencySystem\obj\Debug\net10.0\10_HospitalEmergencySystem.AssemblyInfoInputs.cache
+E:\LPU\Sorted_Dictionary\10_HospitalEmergencySystem\obj\Debug\net10.0\10_HospitalEmergencySystem.AssemblyInfo.cs
+E:\LPU\Sorted_Dictionary\10_HospitalEmergencySystem\obj\Debug\net10.0\10_HospitalEmergencySystem.csproj.CoreCompileInputs.cache
+E:\LPU\Sorted_Dictionary\10_HospitalEmergencySystem\obj\Debug\net10.0\10_HospitalEmergencySystem.sourcelink.json
+E:\LPU\Sorted_Dictionary\10_HospitalEmergencySystem\obj\Debug\net10.0\10_HospitalEmergencySystem.dll
+E:\LPU\Sorted_Dictionary\10_HospitalEmergencySystem\obj\Debug\net10.0\refint\10_HospitalEmergencySystem.dll
+E:\LPU\Sorted_Dictionary\10_HospitalEmergencySystem\obj\Debug\net10.0\10_HospitalEmergencySystem.pdb
+E:\LPU\Sorted_Dictionary\10_HospitalEmergencySystem\obj\Debug\net10.0\10_HospitalEmergencySystem.genruntimeconfig.cache
+E:\LPU\Sorted_Dictionary\10_HospitalEmergencySystem\obj\Debug\net10.0\ref\10_HospitalEmergencySystem.dll
