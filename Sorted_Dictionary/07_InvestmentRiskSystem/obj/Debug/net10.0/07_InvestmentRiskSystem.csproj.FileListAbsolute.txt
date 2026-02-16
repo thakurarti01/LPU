@@ -1,0 +1,15 @@
+E:\LPU\Sorted_Dictionary\07_InvestmentRiskSystem\bin\Debug\net10.0\07_InvestmentRiskSystem.exe
+E:\LPU\Sorted_Dictionary\07_InvestmentRiskSystem\bin\Debug\net10.0\07_InvestmentRiskSystem.deps.json
+E:\LPU\Sorted_Dictionary\07_InvestmentRiskSystem\bin\Debug\net10.0\07_InvestmentRiskSystem.runtimeconfig.json
+E:\LPU\Sorted_Dictionary\07_InvestmentRiskSystem\bin\Debug\net10.0\07_InvestmentRiskSystem.dll
+E:\LPU\Sorted_Dictionary\07_InvestmentRiskSystem\bin\Debug\net10.0\07_InvestmentRiskSystem.pdb
+E:\LPU\Sorted_Dictionary\07_InvestmentRiskSystem\obj\Debug\net10.0\07_InvestmentRiskSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Sorted_Dictionary\07_InvestmentRiskSystem\obj\Debug\net10.0\07_InvestmentRiskSystem.AssemblyInfoInputs.cache
+E:\LPU\Sorted_Dictionary\07_InvestmentRiskSystem\obj\Debug\net10.0\07_InvestmentRiskSystem.AssemblyInfo.cs
+E:\LPU\Sorted_Dictionary\07_InvestmentRiskSystem\obj\Debug\net10.0\07_InvestmentRiskSystem.csproj.CoreCompileInputs.cache
+E:\LPU\Sorted_Dictionary\07_InvestmentRiskSystem\obj\Debug\net10.0\07_InvestmentRiskSystem.sourcelink.json
+E:\LPU\Sorted_Dictionary\07_InvestmentRiskSystem\obj\Debug\net10.0\07_InvestmentRiskSystem.dll
+E:\LPU\Sorted_Dictionary\07_InvestmentRiskSystem\obj\Debug\net10.0\refint\07_InvestmentRiskSystem.dll
+E:\LPU\Sorted_Dictionary\07_InvestmentRiskSystem\obj\Debug\net10.0\07_InvestmentRiskSystem.pdb
+E:\LPU\Sorted_Dictionary\07_InvestmentRiskSystem\obj\Debug\net10.0\07_InvestmentRiskSystem.genruntimeconfig.cache
+E:\LPU\Sorted_Dictionary\07_InvestmentRiskSystem\obj\Debug\net10.0\ref\07_InvestmentRiskSystem.dll

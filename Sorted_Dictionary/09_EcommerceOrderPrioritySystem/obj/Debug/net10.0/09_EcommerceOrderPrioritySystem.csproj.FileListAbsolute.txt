@@ -1,0 +1,15 @@
+E:\LPU\Sorted_Dictionary\09_EcommerceOrderPrioritySystem\obj\Debug\net10.0\09_EcommerceOrderPrioritySystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Sorted_Dictionary\09_EcommerceOrderPrioritySystem\obj\Debug\net10.0\09_EcommerceOrderPrioritySystem.AssemblyInfoInputs.cache
+E:\LPU\Sorted_Dictionary\09_EcommerceOrderPrioritySystem\obj\Debug\net10.0\09_EcommerceOrderPrioritySystem.AssemblyInfo.cs
+E:\LPU\Sorted_Dictionary\09_EcommerceOrderPrioritySystem\obj\Debug\net10.0\09_EcommerceOrderPrioritySystem.csproj.CoreCompileInputs.cache
+E:\LPU\Sorted_Dictionary\09_EcommerceOrderPrioritySystem\obj\Debug\net10.0\09_EcommerceOrderPrioritySystem.sourcelink.json
+E:\LPU\Sorted_Dictionary\09_EcommerceOrderPrioritySystem\bin\Debug\net10.0\09_EcommerceOrderPrioritySystem.exe
+E:\LPU\Sorted_Dictionary\09_EcommerceOrderPrioritySystem\bin\Debug\net10.0\09_EcommerceOrderPrioritySystem.deps.json
+E:\LPU\Sorted_Dictionary\09_EcommerceOrderPrioritySystem\bin\Debug\net10.0\09_EcommerceOrderPrioritySystem.runtimeconfig.json
+E:\LPU\Sorted_Dictionary\09_EcommerceOrderPrioritySystem\bin\Debug\net10.0\09_EcommerceOrderPrioritySystem.dll
+E:\LPU\Sorted_Dictionary\09_EcommerceOrderPrioritySystem\bin\Debug\net10.0\09_EcommerceOrderPrioritySystem.pdb
+E:\LPU\Sorted_Dictionary\09_EcommerceOrderPrioritySystem\obj\Debug\net10.0\09_EcommerceOrderPrioritySystem.dll
+E:\LPU\Sorted_Dictionary\09_EcommerceOrderPrioritySystem\obj\Debug\net10.0\refint\09_EcommerceOrderPrioritySystem.dll
+E:\LPU\Sorted_Dictionary\09_EcommerceOrderPrioritySystem\obj\Debug\net10.0\09_EcommerceOrderPrioritySystem.pdb
+E:\LPU\Sorted_Dictionary\09_EcommerceOrderPrioritySystem\obj\Debug\net10.0\09_EcommerceOrderPrioritySystem.genruntimeconfig.cache
+E:\LPU\Sorted_Dictionary\09_EcommerceOrderPrioritySystem\obj\Debug\net10.0\ref\09_EcommerceOrderPrioritySystem.dll

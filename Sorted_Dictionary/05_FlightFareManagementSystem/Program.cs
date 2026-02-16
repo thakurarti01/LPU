@@ -1,48 +1,52 @@
-using System;
-using Services;
+namespace AirlineBookingFare;
 
-namespace ConsoleApp
+class Program
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
+        Console.WriteLine("╔═══════════════════════════════════════════════════════╗");
+        Console.WriteLine("║    Airline Booking Fare Classification System        ║");
+        Console.WriteLine("╚═══════════════════════════════════════════════════════╝\n");
+
+        var bookingSystem = new BookingManager();
+
+        try
         {
-            ManagementService service = new ManagementService();
+            bookingSystem.AddTicket(new Economy("TKT001", "NYC", "LAX", 250m, "12A", 1));
+            bookingSystem.AddTicket(new Business("TKT002", "NYC", "LAX", 1200m, "3B", true, 2));
+            bookingSystem.AddTicket(new FirstClass("TKT003", "NYC", "LAX", 3500m, "1A", true, true));
+            bookingSystem.AddTicket(new Economy("TKT004", "NYC", "LAX", 280m, "15C", 2));
+            bookingSystem.AddTicket(new Business("TKT005", "NYC", "LAX", 1150m, "4A", false, 1));
 
-            while (true)
+            bookingSystem.DisplayTickets();
+
+            // Test duplicate seat
+            Console.WriteLine("\n========== TESTING DUPLICATE SEAT ==========");
+            try
             {
-                Console.WriteLine("1. Display");
-                Console.WriteLine("2. Add");
-                Console.WriteLine("3. Update");
-                Console.WriteLine("4. Remove");
-                Console.WriteLine("5. Exit");
-
-                // TODO: Read user choice
-
-                int choice = 0; // TODO
-
-                switch (choice)
-                {
-                    case 1:
-                        // TODO: Display data
-                        break;
-                    case 2:
-                        // TODO: Add entity
-                        break;
-                    case 3:
-                        // TODO: Update entity
-                        break;
-                    case 4:
-                        // TODO: Remove entity
-                        break;
-                    case 5:
-                        Console.WriteLine("Thank You");
-                        return;
-                    default:
-                        // TODO: Handle invalid choice
-                        break;
-                }
+                bookingSystem.AddTicket(new Economy("TKT006", "NYC", "LAX", 260m, "12A", 1));
             }
+            catch (SeatAlreadyBookedException ex)
+            {
+                Console.WriteLine($"✗ Exception: {ex.Message}");
+            }
+
+            // Test invalid fare
+            Console.WriteLine("\n========== TESTING INVALID FARE ==========");
+            try
+            {
+                bookingSystem.AddTicket(new Economy("TKT007", "NYC", "LAX", -100m, "20A", 1));
+            }
+            catch (InvalidFareException ex)
+            {
+                Console.WriteLine($"✗ Exception: {ex.Message}");
+            }
+
+            Console.WriteLine($"\nTotal Tickets Booked: {bookingSystem.GetTotalTickets()}");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error: {ex.Message}");
         }
     }
 }

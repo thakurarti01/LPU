@@ -11,25 +11,58 @@ namespace Services
 
         public void AddEntity(int key, BaseEntity entity)
         {
-            // TODO: Validate entity
-            // TODO: Handle duplicate entries
-            // TODO: Add entity to SortedDictionary
+            if (entity == null)
+                throw new ScenarioException("Entity cannot be null.");
+
+            // Validate entity
+            entity.Validate();
+
+            // If key doesn't exist, create new list
+            if (!_data.ContainsKey(key))
+            {
+                _data[key] = new List<BaseEntity>();
+            }
+
+            // Check duplicate Id under same key
+            foreach (var item in _data[key])
+            {
+                if (item.Id == entity.Id)
+                    throw new ScenarioException("Duplicate Order Id under same priority.");
+            }
+
+            _data[key].Add(entity);
         }
 
         public void UpdateEntity(int key)
         {
-            // TODO: Update entity logic
+            if (!_data.ContainsKey(key) || _data[key].Count == 0)
+                throw new ScenarioException("No entity found for this key.");
+
+            // Simple update example: change Id of first entity
+            _data[key][0].Id += "_Updated";
         }
 
         public void RemoveEntity(int key)
         {
-            // TODO: Remove entity logic
+            if (!_data.ContainsKey(key))
+                throw new ScenarioException("Key not found.");
+
+            _data.Remove(key);
         }
 
         public IEnumerable<BaseEntity> GetAll()
         {
-            // TODO: Return sorted entities
-            return new List<BaseEntity>();
+            List<BaseEntity> result = new List<BaseEntity>();
+
+            foreach (var pair in _data)
+            {
+                foreach (var entity in pair.Value)
+                {
+                    result.Add(entity);
+                }
+            }
+
+            return result;
         }
     }
 }

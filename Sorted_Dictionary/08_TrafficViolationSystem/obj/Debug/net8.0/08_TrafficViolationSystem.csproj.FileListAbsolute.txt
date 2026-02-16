@@ -1,0 +1,15 @@
+E:\LPU\Sorted_Dictionary\08_TrafficViolationSystem\bin\Debug\net8.0\08_TrafficViolationSystem.exe
+E:\LPU\Sorted_Dictionary\08_TrafficViolationSystem\bin\Debug\net8.0\08_TrafficViolationSystem.deps.json
+E:\LPU\Sorted_Dictionary\08_TrafficViolationSystem\bin\Debug\net8.0\08_TrafficViolationSystem.runtimeconfig.json
+E:\LPU\Sorted_Dictionary\08_TrafficViolationSystem\bin\Debug\net8.0\08_TrafficViolationSystem.dll
+E:\LPU\Sorted_Dictionary\08_TrafficViolationSystem\bin\Debug\net8.0\08_TrafficViolationSystem.pdb
+E:\LPU\Sorted_Dictionary\08_TrafficViolationSystem\obj\Debug\net8.0\08_TrafficViolationSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Sorted_Dictionary\08_TrafficViolationSystem\obj\Debug\net8.0\08_TrafficViolationSystem.AssemblyInfoInputs.cache
+E:\LPU\Sorted_Dictionary\08_TrafficViolationSystem\obj\Debug\net8.0\08_TrafficViolationSystem.AssemblyInfo.cs
+E:\LPU\Sorted_Dictionary\08_TrafficViolationSystem\obj\Debug\net8.0\08_TrafficViolationSystem.csproj.CoreCompileInputs.cache
+E:\LPU\Sorted_Dictionary\08_TrafficViolationSystem\obj\Debug\net8.0\08_TrafficViolationSystem.sourcelink.json
+E:\LPU\Sorted_Dictionary\08_TrafficViolationSystem\obj\Debug\net8.0\08_TrafficViolationSystem.dll
+E:\LPU\Sorted_Dictionary\08_TrafficViolationSystem\obj\Debug\net8.0\refint\08_TrafficViolationSystem.dll
+E:\LPU\Sorted_Dictionary\08_TrafficViolationSystem\obj\Debug\net8.0\08_TrafficViolationSystem.pdb
+E:\LPU\Sorted_Dictionary\08_TrafficViolationSystem\obj\Debug\net8.0\08_TrafficViolationSystem.genruntimeconfig.cache
+E:\LPU\Sorted_Dictionary\08_TrafficViolationSystem\obj\Debug\net8.0\ref\08_TrafficViolationSystem.dll

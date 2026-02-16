@@ -1,0 +1,5 @@
+E:\LPU\Sorted_Dictionary\05_FlightFareManagementSystem\obj\Debug\net10.0\05_FlightFareManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Sorted_Dictionary\05_FlightFareManagementSystem\obj\Debug\net10.0\05_FlightFareManagementSystem.AssemblyInfoInputs.cache
+E:\LPU\Sorted_Dictionary\05_FlightFareManagementSystem\obj\Debug\net10.0\05_FlightFareManagementSystem.AssemblyInfo.cs
+E:\LPU\Sorted_Dictionary\05_FlightFareManagementSystem\obj\Debug\net10.0\05_FlightFareManagementSystem.csproj.CoreCompileInputs.cache
+E:\LPU\Sorted_Dictionary\05_FlightFareManagementSystem\obj\Debug\net10.0\05_FlightFareManagementSystem.sourcelink.json

@@ -1,5 +1,6 @@
 using System;
 using Services;
+using Domain;
 
 namespace ConsoleApp
 {
@@ -11,35 +12,62 @@ namespace ConsoleApp
 
             while (true)
             {
-                Console.WriteLine("1. Display");
+                Console.WriteLine("\n1. Display");
                 Console.WriteLine("2. Add");
                 Console.WriteLine("3. Update");
                 Console.WriteLine("4. Remove");
                 Console.WriteLine("5. Exit");
+                Console.Write("Enter choice: ");
 
-                // TODO: Read user choice
-
-                int choice = 0; // TODO
+                if (!int.TryParse(Console.ReadLine(), out int choice))
+                {
+                    Console.WriteLine("Invalid input.");
+                    continue;
+                }
 
                 switch (choice)
                 {
                     case 1:
-                        // TODO: Display data
+                        var items = service.GetAll();
+                        foreach (var item in items)
+                        {
+                            Console.WriteLine($"Order Id: {item.Id}");
+                        }
                         break;
+
                     case 2:
-                        // TODO: Add entity
+                        Console.Write("Enter Priority Key: ");
+                        int key = int.Parse(Console.ReadLine());
+
+                        Console.Write("Enter Order Id: ");
+                        string id = Console.ReadLine();
+
+                        Order order = new Order { Id = id };
+                        service.AddEntity(key, order);
+
+                        Console.WriteLine("Order added.");
                         break;
+
                     case 3:
-                        // TODO: Update entity
+                        Console.Write("Enter Key to Update: ");
+                        int updateKey = int.Parse(Console.ReadLine());
+                        service.UpdateEntity(updateKey);
+                        Console.WriteLine("Updated.");
                         break;
+
                     case 4:
-                        // TODO: Remove entity
+                        Console.Write("Enter Key to Remove: ");
+                        int removeKey = int.Parse(Console.ReadLine());
+                        service.RemoveEntity(removeKey);
+                        Console.WriteLine("Removed.");
                         break;
+
                     case 5:
                         Console.WriteLine("Thank You");
                         return;
+
                     default:
-                        // TODO: Handle invalid choice
+                        Console.WriteLine("Invalid choice.");
                         break;
                 }
             }

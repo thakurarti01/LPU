@@ -1,0 +1,15 @@
+E:\LPU\Sorted_Dictionary\06_ITSupportTicketSystem\bin\Debug\net10.0\06_ITSupportTicketSystem.exe
+E:\LPU\Sorted_Dictionary\06_ITSupportTicketSystem\bin\Debug\net10.0\06_ITSupportTicketSystem.deps.json
+E:\LPU\Sorted_Dictionary\06_ITSupportTicketSystem\bin\Debug\net10.0\06_ITSupportTicketSystem.runtimeconfig.json
+E:\LPU\Sorted_Dictionary\06_ITSupportTicketSystem\bin\Debug\net10.0\06_ITSupportTicketSystem.dll
+E:\LPU\Sorted_Dictionary\06_ITSupportTicketSystem\bin\Debug\net10.0\06_ITSupportTicketSystem.pdb
+E:\LPU\Sorted_Dictionary\06_ITSupportTicketSystem\obj\Debug\net10.0\06_ITSupportTicketSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Sorted_Dictionary\06_ITSupportTicketSystem\obj\Debug\net10.0\06_ITSupportTicketSystem.AssemblyInfoInputs.cache
+E:\LPU\Sorted_Dictionary\06_ITSupportTicketSystem\obj\Debug\net10.0\06_ITSupportTicketSystem.AssemblyInfo.cs
+E:\LPU\Sorted_Dictionary\06_ITSupportTicketSystem\obj\Debug\net10.0\06_ITSupportTicketSystem.csproj.CoreCompileInputs.cache
+E:\LPU\Sorted_Dictionary\06_ITSupportTicketSystem\obj\Debug\net10.0\06_ITSupportTicketSystem.sourcelink.json
+E:\LPU\Sorted_Dictionary\06_ITSupportTicketSystem\obj\Debug\net10.0\06_ITSupportTicketSystem.dll
+E:\LPU\Sorted_Dictionary\06_ITSupportTicketSystem\obj\Debug\net10.0\refint\06_ITSupportTicketSystem.dll
+E:\LPU\Sorted_Dictionary\06_ITSupportTicketSystem\obj\Debug\net10.0\06_ITSupportTicketSystem.pdb
+E:\LPU\Sorted_Dictionary\06_ITSupportTicketSystem\obj\Debug\net10.0\06_ITSupportTicketSystem.genruntimeconfig.cache
+E:\LPU\Sorted_Dictionary\06_ITSupportTicketSystem\obj\Debug\net10.0\ref\06_ITSupportTicketSystem.dll
