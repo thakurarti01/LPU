@@ -1,0 +1,15 @@
+E:\LPU\Collection_and_Generic\Ecommerce_Shopping_Cart\bin\Debug\net10.0\Ecommerce_Shopping_Cart.exe
+E:\LPU\Collection_and_Generic\Ecommerce_Shopping_Cart\bin\Debug\net10.0\Ecommerce_Shopping_Cart.deps.json
+E:\LPU\Collection_and_Generic\Ecommerce_Shopping_Cart\bin\Debug\net10.0\Ecommerce_Shopping_Cart.runtimeconfig.json
+E:\LPU\Collection_and_Generic\Ecommerce_Shopping_Cart\bin\Debug\net10.0\Ecommerce_Shopping_Cart.dll
+E:\LPU\Collection_and_Generic\Ecommerce_Shopping_Cart\bin\Debug\net10.0\Ecommerce_Shopping_Cart.pdb
+E:\LPU\Collection_and_Generic\Ecommerce_Shopping_Cart\obj\Debug\net10.0\Ecommerce_Shopping_Cart.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Collection_and_Generic\Ecommerce_Shopping_Cart\obj\Debug\net10.0\Ecommerce_Shopping_Cart.AssemblyInfoInputs.cache
+E:\LPU\Collection_and_Generic\Ecommerce_Shopping_Cart\obj\Debug\net10.0\Ecommerce_Shopping_Cart.AssemblyInfo.cs
+E:\LPU\Collection_and_Generic\Ecommerce_Shopping_Cart\obj\Debug\net10.0\Ecommerce_Shopping_Cart.csproj.CoreCompileInputs.cache
+E:\LPU\Collection_and_Generic\Ecommerce_Shopping_Cart\obj\Debug\net10.0\Ecommerce_Shopping_Cart.sourcelink.json
+E:\LPU\Collection_and_Generic\Ecommerce_Shopping_Cart\obj\Debug\net10.0\Ecommerce_Shopping_Cart.dll
+E:\LPU\Collection_and_Generic\Ecommerce_Shopping_Cart\obj\Debug\net10.0\refint\Ecommerce_Shopping_Cart.dll
+E:\LPU\Collection_and_Generic\Ecommerce_Shopping_Cart\obj\Debug\net10.0\Ecommerce_Shopping_Cart.pdb
+E:\LPU\Collection_and_Generic\Ecommerce_Shopping_Cart\obj\Debug\net10.0\Ecommerce_Shopping_Cart.genruntimeconfig.cache
+E:\LPU\Collection_and_Generic\Ecommerce_Shopping_Cart\obj\Debug\net10.0\ref\Ecommerce_Shopping_Cart.dll
