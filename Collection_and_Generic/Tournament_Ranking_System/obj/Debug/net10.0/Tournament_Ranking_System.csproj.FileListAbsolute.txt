@@ -1,0 +1,15 @@
+E:\LPU\Collection_and_Generic\Tournament_Ranking_System\obj\Debug\net10.0\Tournament_Ranking_System.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Collection_and_Generic\Tournament_Ranking_System\obj\Debug\net10.0\Tournament_Ranking_System.AssemblyInfoInputs.cache
+E:\LPU\Collection_and_Generic\Tournament_Ranking_System\obj\Debug\net10.0\Tournament_Ranking_System.AssemblyInfo.cs
+E:\LPU\Collection_and_Generic\Tournament_Ranking_System\obj\Debug\net10.0\Tournament_Ranking_System.csproj.CoreCompileInputs.cache
+E:\LPU\Collection_and_Generic\Tournament_Ranking_System\obj\Debug\net10.0\Tournament_Ranking_System.sourcelink.json
+E:\LPU\Collection_and_Generic\Tournament_Ranking_System\bin\Debug\net10.0\Tournament_Ranking_System.exe
+E:\LPU\Collection_and_Generic\Tournament_Ranking_System\bin\Debug\net10.0\Tournament_Ranking_System.deps.json
+E:\LPU\Collection_and_Generic\Tournament_Ranking_System\bin\Debug\net10.0\Tournament_Ranking_System.runtimeconfig.json
+E:\LPU\Collection_and_Generic\Tournament_Ranking_System\bin\Debug\net10.0\Tournament_Ranking_System.dll
+E:\LPU\Collection_and_Generic\Tournament_Ranking_System\bin\Debug\net10.0\Tournament_Ranking_System.pdb
+E:\LPU\Collection_and_Generic\Tournament_Ranking_System\obj\Debug\net10.0\Tournament_Ranking_System.dll
+E:\LPU\Collection_and_Generic\Tournament_Ranking_System\obj\Debug\net10.0\refint\Tournament_Ranking_System.dll
+E:\LPU\Collection_and_Generic\Tournament_Ranking_System\obj\Debug\net10.0\Tournament_Ranking_System.pdb
+E:\LPU\Collection_and_Generic\Tournament_Ranking_System\obj\Debug\net10.0\Tournament_Ranking_System.genruntimeconfig.cache
+E:\LPU\Collection_and_Generic\Tournament_Ranking_System\obj\Debug\net10.0\ref\Tournament_Ranking_System.dll
