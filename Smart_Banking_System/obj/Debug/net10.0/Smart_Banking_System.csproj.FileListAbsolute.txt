@@ -1,0 +1,15 @@
+E:\LPU\Smart_Banking_System\obj\Debug\net10.0\Smart_Banking_System.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Smart_Banking_System\obj\Debug\net10.0\Smart_Banking_System.AssemblyInfoInputs.cache
+E:\LPU\Smart_Banking_System\obj\Debug\net10.0\Smart_Banking_System.AssemblyInfo.cs
+E:\LPU\Smart_Banking_System\obj\Debug\net10.0\Smart_Banking_System.csproj.CoreCompileInputs.cache
+E:\LPU\Smart_Banking_System\obj\Debug\net10.0\Smart_Banking_System.sourcelink.json
+E:\LPU\Smart_Banking_System\bin\Debug\net10.0\Smart_Banking_System.exe
+E:\LPU\Smart_Banking_System\bin\Debug\net10.0\Smart_Banking_System.deps.json
+E:\LPU\Smart_Banking_System\bin\Debug\net10.0\Smart_Banking_System.runtimeconfig.json
+E:\LPU\Smart_Banking_System\bin\Debug\net10.0\Smart_Banking_System.dll
+E:\LPU\Smart_Banking_System\bin\Debug\net10.0\Smart_Banking_System.pdb
+E:\LPU\Smart_Banking_System\obj\Debug\net10.0\Smart_Banking_System.dll
+E:\LPU\Smart_Banking_System\obj\Debug\net10.0\refint\Smart_Banking_System.dll
+E:\LPU\Smart_Banking_System\obj\Debug\net10.0\Smart_Banking_System.pdb
+E:\LPU\Smart_Banking_System\obj\Debug\net10.0\Smart_Banking_System.genruntimeconfig.cache
+E:\LPU\Smart_Banking_System\obj\Debug\net10.0\ref\Smart_Banking_System.dll

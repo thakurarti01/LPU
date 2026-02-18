@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Smart_Banking_System/1.0.0": {
+        "runtime": {
+          "Smart_Banking_System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Smart_Banking_System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
