@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlightSearchEngine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+436c2f043f937c53ea1043e84c31c06c694b9970")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9a04612556ac3a9208c722c954a28dd4800ebcb")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlightSearchEngine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlightSearchEngine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

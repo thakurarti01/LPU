@@ -1,0 +1,53 @@
+﻿@model FlightSearchEngine.Models.SearchViewModel
+@using Microsoft.AspNetCore.Mvc.Rendering
+
+<h2>Search Flights</h2>
+
+<form asp-action="SearchFlights" method="post">
+    @Html.AntiForgeryToken()
+
+    <div>
+        <label>Source:</label>
+        <select asp-for="Source" asp-items="Model.SourceList">
+            <option value="">-- Select Source --</option>
+        </select>
+        @Html.ValidationMessageFor(m => m.Source)
+    </div>
+
+    <div>
+        <label>Destination:</label>
+        <select asp-for="Destination" asp-items="Model.DestinationList">
+            <option value="">-- Select Destination --</option>
+        </select>
+        @Html.ValidationMessageFor(m => m.Destination)
+    </div>
+
+    <div>
+        <label>Number of Persons:</label>
+        <input asp-for="NumberOfPersons" type="number" min="1" max="100" />
+        @Html.ValidationMessageFor(m => m.NumberOfPersons)
+    </div>
+
+    <div style="margin-top:10px;">
+        <button type="submit" formaction="/Flight/SearchFlights" style="background-color:green;color:white;">
+            Search Flights Only
+        </button>
+
+        <button type="submit" formaction="/Flight/SearchFlightsWithHotels" style="background-color:orange;color:white;">
+            Search Flights + Hotel
+        </button>
+    </div>
+</form>
+
+@section Scripts {
+    <script>
+        document.querySelector("form").addEventListener("submit", function (e) {
+            var source = document.querySelector("select[name='Source']").value;
+            var dest = document.querySelector("select[name='Destination']").value;
+            if (source === dest && source !== "") {
+                alert("Source and destination cannot be the same.");
+                e.preventDefault();
+            }
+        });
+    </script>
+}
