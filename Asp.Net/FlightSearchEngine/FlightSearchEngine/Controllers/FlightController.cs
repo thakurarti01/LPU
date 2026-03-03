@@ -31,15 +31,16 @@ namespace FlightSearchEngine.Controllers
 		[ValidateAntiForgeryToken]
 		public async Task<IActionResult> SearchFlights(SearchViewModel model)
 		{
-			if (!ModelState.IsValid)
-			{
-				model.SourceList = new SelectList(await _db.GetSourcesAsync());
-				model.DestinationList = new SelectList(await _db.GetDestinationsAsync());
-				return View("Index", model);
-			}
+			//if (!ModelState.IsValid)
+			//{
+			//	model.SourceList = new SelectList(await _db.GetSourcesAsync());
+			//	model.DestinationList = new SelectList(await _db.GetDestinationsAsync());
+			//	return View("Index", model);
+			//}
 
 			var results = await _db.SearchFlightsAsync(model.Source, model.Destination, model.NumberOfPersons);
 			return View("Results", results);
+			//return Content("Action Hit Successfully");
 		}
 
 		// POST: Flight + hotel search
@@ -47,15 +48,16 @@ namespace FlightSearchEngine.Controllers
 		[ValidateAntiForgeryToken]
 		public async Task<IActionResult> SearchFlightsWithHotels(SearchViewModel model)
 		{
-			if (!ModelState.IsValid)
-			{
-				model.SourceList = new SelectList(await _db.GetSourcesAsync());
-				model.DestinationList = new SelectList(await _db.GetDestinationsAsync());
-				return View("Index", model);
-			}
+			//if (!ModelState.IsValid)
+			//{
+			//	model.SourceList = new SelectList(await _db.GetSourcesAsync());
+			//	model.DestinationList = new SelectList(await _db.GetDestinationsAsync());
+			//	return View("Index", model);
+			//}
 
 			var results = await _db.SearchFlightsWithHotelsAsync(model.Source, model.Destination, model.NumberOfPersons);
 			return View("Results", results);
+			//return Content("Action Hit Successfully");
 		}
 	}
 }
