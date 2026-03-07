@@ -11,5 +11,6 @@ namespace StudentPortal.Services
         Task UpdateAsync(Student student);
         Task DeleteAsync(int id);
         Task<bool> StudentExistsAsync(int id);
-    }
+		
+	}
 }

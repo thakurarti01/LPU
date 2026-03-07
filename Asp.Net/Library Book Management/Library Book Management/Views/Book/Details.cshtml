@@ -1,0 +1,18 @@
+﻿@model Library_Book_Management.Models.Book
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Book Details</h2>
+
+<div>
+    <p><strong>Book Id:</strong> @Model.BookId</p>
+    <p><strong>Title:</strong> @Model.Title</p>
+    <p><strong>Author:</strong> @Model.Author</p>
+    <p><strong>Price:</strong> @Model.Price</p>
+</div>
+
+<p>
+    <a asp-action="Index">Back to List</a>
+</p>

@@ -19,15 +19,21 @@ namespace StudentPortal.Controllers
             _service = service;
         }
 
-        // GET: Students
-        public async Task<IActionResult> Index()
-        {
-            var students = await _service.GetAllAsync();
-            return View(students);
-        }
+		// GET: Students
+		public async Task<IActionResult> Index(string q)
+		{
+			var students = await _service.SearchAsync(q);
+			return View(students);
+		}
 
-        // GET: Students/Details/5
-        public async Task<IActionResult> Details(int? id)
+		public async Task<IActionResult> Search(string q)
+		{
+			var students = await _service.SearchAsync(q);
+			return PartialView("_StudentTable", students);
+		}
+
+		// GET: Students/Details/5
+		public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
             {
