@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVCCore_DbFirstApproach")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f39dd39ac97aa5a92f78b8d9ac03a0057dc728a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a7b7d6fdb242188761f09ff7bf0192f0aecd95f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVCCore_DbFirstApproach")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVCCore_DbFirstApproach")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
