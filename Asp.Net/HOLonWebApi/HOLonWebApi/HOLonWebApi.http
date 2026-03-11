@@ -1,0 +1,6 @@
+@HOLonWebApi_HostAddress = http://localhost:5240
+
+GET {{HOLonWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
