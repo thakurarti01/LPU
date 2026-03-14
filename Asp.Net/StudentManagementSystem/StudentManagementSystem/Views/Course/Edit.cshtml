@@ -1,0 +1,19 @@
+﻿@model StudentManagementSystem.Models.Course
+
+<h2>Edit Course</h2>
+
+<form asp-action="Edit">
+
+	<input type="hidden" asp-for="CourseId" />
+
+	<input asp-for="CourseName" class="form-control" /><br />
+
+	<input asp-for="Duration" class="form-control" /><br />
+
+	<input asp-for="Fees" class="form-control" /><br />
+
+	<select asp-for="DepartmentId" asp-items="ViewBag.Departments"></select><br />
+
+	<button type="submit">Update</button>
+
+</form>

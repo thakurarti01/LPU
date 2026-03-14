@@ -1,0 +1,38 @@
+﻿@model IEnumerable<StudentManagementSystem.Models.Student>
+
+<h2>Students</h2>
+
+<a asp-action="Create">Add Student</a>
+
+<form method="get">
+	<input type="text" name="search" placeholder="Search Student Name" class="form-control" style="width:250px; display:inline;">
+	<button type="submit" class="btn btn-primary">Search</button>
+</form>
+<br />
+
+<table class="table">
+
+	<tr>
+		<th>Name</th>
+		<th>Email</th>
+		<th>Department</th>
+		<th>Course</th>
+		<th>Actions</th>
+	</tr>
+
+	@foreach (var s in Model)
+	{
+		<tr>
+			<td>@s.StudentName</td>
+			<td>@s.Email</td>
+			<td>@s.Department.DepartmentName</td>
+			<td>@s.Course.CourseName</td>
+
+			<td>
+				<a asp-action="Edit" asp-route-id="@s.StudentId">Edit</a> |
+				<a asp-action="Delete" asp-route-id="@s.StudentId">Delete</a>
+			</td>
+		</tr>
+	}
+
+</table>
