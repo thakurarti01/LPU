@@ -1,0 +1,63 @@
+﻿@model ProjectManagementSystem.DTOs.PagedResult<ProjectManagementSystem.DTOs.ProductDto>
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+<h1>Products</h1>
+
+<div class="mb-3">
+    <form method="get" asp-action="Index">
+        <input type="text" name="searchTerm" value="@Model.SearchTerm" placeholder="Search by name..." class="form-control" style="width: 250px; display:inline-block;" />
+        <button type="submit" class="btn btn-primary">Search</button>
+        <a class="btn btn-success" asp-action="Create">Create New Product</a>
+    </form>
+</div>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Category</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Items != null && Model.Items.Any())
+        {
+            foreach (var product in Model.Items)
+            {
+                <tr>
+                    <td>@product.Name</td>
+                    <td>@product.Price.ToString("C")</td>
+                    <td>@product.CategoryName</td>
+                    <td>
+                        <a class="btn btn-sm btn-primary" asp-action="Edit" asp-route-id="@product.Id">Edit</a>
+                        <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@product.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="4" class="text-center">No products found.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@if (Model.TotalPages > 1)
+{
+    <nav aria-label="Page navigation">
+        <ul class="pagination">
+            @for (int i = 1; i <= Model.TotalPages; i++)
+            {
+                <li class="page-item @(i == Model.CurrentPage ? "active" : "")">
+                    <a class="page-link" asp-action="Index" asp-route-pageNumber="@i" asp-route-searchTerm="@Model.SearchTerm">@i</a>
+                </li>
+            }
+        </ul>
+    </nav>
+}

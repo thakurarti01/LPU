@@ -1,0 +1,26 @@
+﻿@model ProjectManagementSystem.DTOs.ProductDetailDto
+
+<h2>Edit Product</h2>
+
+<form asp-action="Edit">
+
+    <input type="hidden" asp-for="Id" />
+
+    <div>
+        <label>Name</label>
+        <input asp-for="Name" />
+    </div>
+
+    <div>
+        <label>Price</label>
+        <input asp-for="Price" />
+    </div>
+
+    <div>
+        <label>Discounted Price</label>
+        <input asp-for="DiscountedPrice" />
+    </div>
+
+    <button type="submit">Update</button>
+
+</form>

@@ -1,0 +1,39 @@
+﻿@model ProjectManagementSystem.DTOs.ProductDetailDto
+
+<h2>Product Details</h2>
+
+<div>
+    <strong>Name:</strong> @Model.Name
+</div>
+
+<div>
+    <strong>Description:</strong> @Model.Description
+</div>
+
+<div>
+    <strong>Price:</strong> @Model.Price
+</div>
+
+<div>
+    <strong>Discounted Price:</strong> @Model.DiscountedPrice
+</div>
+
+<div>
+    <strong>Average Rating:</strong> @Model.AverageRating
+</div>
+
+<div>
+    <strong>Review Count:</strong> @Model.ReviewCount
+</div>
+
+<div>
+    <strong>Is Active:</strong> @Model.IsActive
+</div>
+
+<div>
+    <strong>Is Featured:</strong> @Model.IsFeatured
+</div>
+
+<br />
+
+<a asp-action="Index">Back to List</a>
