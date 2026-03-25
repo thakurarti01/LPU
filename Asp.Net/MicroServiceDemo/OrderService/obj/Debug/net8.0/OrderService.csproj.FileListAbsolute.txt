@@ -1,0 +1,7 @@
+F:\Cg_LPU\MicroServiceDemo\OrderService\obj\Debug\net8.0\OrderService.csproj.AssemblyReference.cache
+F:\Cg_LPU\MicroServiceDemo\OrderService\obj\Debug\net8.0\OrderService.GeneratedMSBuildEditorConfig.editorconfig
+F:\Cg_LPU\MicroServiceDemo\OrderService\obj\Debug\net8.0\OrderService.AssemblyInfoInputs.cache
+F:\Cg_LPU\MicroServiceDemo\OrderService\obj\Debug\net8.0\OrderService.AssemblyInfo.cs
+F:\Cg_LPU\MicroServiceDemo\OrderService\obj\Debug\net8.0\OrderService.csproj.CoreCompileInputs.cache
+F:\Cg_LPU\MicroServiceDemo\OrderService\obj\Debug\net8.0\OrderService.MvcApplicationPartsAssemblyInfo.cs
+F:\Cg_LPU\MicroServiceDemo\OrderService\obj\Debug\net8.0\OrderService.MvcApplicationPartsAssemblyInfo.cache

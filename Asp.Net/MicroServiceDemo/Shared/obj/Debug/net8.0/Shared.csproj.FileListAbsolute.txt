@@ -1,0 +1,12 @@
+F:\Cg_LPU\MicroServiceDemo\Shared\bin\Debug\net8.0\Shared.deps.json
+F:\Cg_LPU\MicroServiceDemo\Shared\bin\Debug\net8.0\Shared.dll
+F:\Cg_LPU\MicroServiceDemo\Shared\bin\Debug\net8.0\Shared.pdb
+F:\Cg_LPU\MicroServiceDemo\Shared\obj\Debug\net8.0\Shared.csproj.AssemblyReference.cache
+F:\Cg_LPU\MicroServiceDemo\Shared\obj\Debug\net8.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\Cg_LPU\MicroServiceDemo\Shared\obj\Debug\net8.0\Shared.AssemblyInfoInputs.cache
+F:\Cg_LPU\MicroServiceDemo\Shared\obj\Debug\net8.0\Shared.AssemblyInfo.cs
+F:\Cg_LPU\MicroServiceDemo\Shared\obj\Debug\net8.0\Shared.csproj.CoreCompileInputs.cache
+F:\Cg_LPU\MicroServiceDemo\Shared\obj\Debug\net8.0\Shared.dll
+F:\Cg_LPU\MicroServiceDemo\Shared\obj\Debug\net8.0\refint\Shared.dll
+F:\Cg_LPU\MicroServiceDemo\Shared\obj\Debug\net8.0\Shared.pdb
+F:\Cg_LPU\MicroServiceDemo\Shared\obj\Debug\net8.0\ref\Shared.dll

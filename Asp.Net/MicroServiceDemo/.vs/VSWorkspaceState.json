@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ApiGateway",
+    "\\ApiGateway\\Aggregators",
+    "\\ApiGateway\\Controllers",
+    "\\ApiGateway\\logs",
+    "\\ApiGateway\\Middleware",
+    "\\PaymentService"
+  ],
+  "SelectedNode": "\\ApiGateway\\Middleware",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,21 @@
+{
+  "Aggregates": [
+    {
+      "RouteKeys": [
+        "OrderService",
+        "PaymentService",
+        "ShippingService"
+      ],
+      "UpstreamPathTemplate": "/api/aggregate/order-details/{orderId}",
+      "Aggregator": "OrderDetailsAggregator"
+    },
+    {
+      "RouteKeys": [
+        "PaymentService",
+        "OrderService"
+      ],
+      "UpstreamPathTemplate": "/api/aggregate/payment-order/{orderId}",
+      "Aggregator": "PaymentOrderAggregator"
+    }
+  ]
+}

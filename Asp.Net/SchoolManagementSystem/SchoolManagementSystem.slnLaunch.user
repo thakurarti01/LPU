@@ -9,6 +9,10 @@
       {
         "Path": "StudentAdmissionManagement\\StudentAdmissionManagement.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "StudentAttendanceManagement\\StudentAttendanceManagement.csproj",
+        "Action": "Start"
       }
     ]
   }

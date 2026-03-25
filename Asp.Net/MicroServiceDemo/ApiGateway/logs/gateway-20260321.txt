@@ -1,0 +1,284 @@
+2026-03-21 19:30:51.402 +00:00 [WRN] Using an in-memory repository. Keys will not be persisted to storage.
+2026-03-21 19:30:51.478 +00:00 [WRN] Neither user profile nor HKLM registry available. Using an ephemeral key repository. Protected data will be unavailable when application exits.
+2026-03-21 19:30:51.500 +00:00 [INF] Creating key {99c358a6-48b5-47fe-b511-d69ec3bd6c8f} with creation date 2026-03-21 19:30:51Z, activation date 2026-03-21 19:30:51Z, and expiration date 2026-06-19 19:30:51Z.
+2026-03-21 19:30:51.547 +00:00 [WRN] No XML encryptor configured. Key {99c358a6-48b5-47fe-b511-d69ec3bd6c8f} may be persisted to storage in unencrypted form.
+2026-03-21 19:30:52.279 +00:00 [INF] Now listening on: http://[::]:8080
+2026-03-21 19:30:52.280 +00:00 [INF] Now listening on: https://[::]:8081
+2026-03-21 19:30:52.283 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-03-21 19:30:52.284 +00:00 [INF] Hosting environment: Development
+2026-03-21 19:30:52.285 +00:00 [INF] Content root path: /app
+2026-03-21 19:31:38.536 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32773/ - null null
+2026-03-21 19:32:31.995 +00:00 [WRN] Using an in-memory repository. Keys will not be persisted to storage.
+2026-03-21 19:32:32.037 +00:00 [WRN] Neither user profile nor HKLM registry available. Using an ephemeral key repository. Protected data will be unavailable when application exits.
+2026-03-21 19:32:32.048 +00:00 [INF] Creating key {3f89f1ff-a8fb-45ce-9710-957e5d2974c2} with creation date 2026-03-21 19:32:32Z, activation date 2026-03-21 19:32:32Z, and expiration date 2026-06-19 19:32:32Z.
+2026-03-21 19:32:32.060 +00:00 [WRN] No XML encryptor configured. Key {3f89f1ff-a8fb-45ce-9710-957e5d2974c2} may be persisted to storage in unencrypted form.
+2026-03-21 19:32:32.358 +00:00 [INF] Now listening on: http://[::]:8080
+2026-03-21 19:32:32.358 +00:00 [INF] Now listening on: https://[::]:8081
+2026-03-21 19:32:32.360 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-03-21 19:32:32.361 +00:00 [INF] Hosting environment: Development
+2026-03-21 19:32:32.361 +00:00 [INF] Content root path: /app
+2026-03-21 19:32:33.475 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32773/ - null null
+2026-03-21 19:32:33.597 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Text.Encoding.GetBytes(String s)
+   at Program.<>c__DisplayClass0_0.<<Main>$>b__1(JwtBearerOptions options) in F:\Cg_LPU\MicroServiceDemo\ApiGateway\Program.cs:line 51
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd[TArg](String name, Func`3 createOptions, TArg factoryArgument)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.InitializeAsync(AuthenticationScheme scheme, HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandlerProvider.GetHandlerAsync(HttpContext context, String authenticationScheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.MiddlewareAnalysis.AnalysisMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.MiddlewareAnalysis.AnalysisMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-03-21 19:32:33.655 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32773/ - 500 null text/html; charset=utf-8 180.7702ms
+2026-03-21 19:32:34.389 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32773/ - null null
+2026-03-21 19:32:34.395 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Text.Encoding.GetBytes(String s)
+   at Program.<>c__DisplayClass0_0.<<Main>$>b__1(JwtBearerOptions options) in F:\Cg_LPU\MicroServiceDemo\ApiGateway\Program.cs:line 51
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+--- End of stack trace from previous location ---
+   at System.Lazy`1.CreateValue()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd[TArg](String name, Func`3 createOptions, TArg factoryArgument)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.InitializeAsync(AuthenticationScheme scheme, HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandlerProvider.GetHandlerAsync(HttpContext context, String authenticationScheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.MiddlewareAnalysis.AnalysisMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.MiddlewareAnalysis.AnalysisMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-03-21 19:32:34.408 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32773/ - 500 null text/html; charset=utf-8 18.7951ms
+2026-03-21 19:32:34.816 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32773/favicon.ico - null null
+2026-03-21 19:32:34.823 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Text.Encoding.GetBytes(String s)
+   at Program.<>c__DisplayClass0_0.<<Main>$>b__1(JwtBearerOptions options) in F:\Cg_LPU\MicroServiceDemo\ApiGateway\Program.cs:line 51
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+--- End of stack trace from previous location ---
+   at System.Lazy`1.CreateValue()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd[TArg](String name, Func`3 createOptions, TArg factoryArgument)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.InitializeAsync(AuthenticationScheme scheme, HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandlerProvider.GetHandlerAsync(HttpContext context, String authenticationScheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.MiddlewareAnalysis.AnalysisMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.MiddlewareAnalysis.AnalysisMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-03-21 19:32:34.827 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32773/favicon.ico - 500 null text/plain; charset=utf-8 11.5179ms
+2026-03-21 19:32:35.526 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32773/favicon.ico - null null
+2026-03-21 19:32:35.527 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Text.Encoding.GetBytes(String s)
+   at Program.<>c__DisplayClass0_0.<<Main>$>b__1(JwtBearerOptions options) in F:\Cg_LPU\MicroServiceDemo\ApiGateway\Program.cs:line 51
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+--- End of stack trace from previous location ---
+   at System.Lazy`1.CreateValue()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd[TArg](String name, Func`3 createOptions, TArg factoryArgument)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.InitializeAsync(AuthenticationScheme scheme, HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandlerProvider.GetHandlerAsync(HttpContext context, String authenticationScheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.MiddlewareAnalysis.AnalysisMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.MiddlewareAnalysis.AnalysisMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-03-21 19:32:35.530 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32773/favicon.ico - 500 null text/plain; charset=utf-8 3.8671ms
+2026-03-21 19:32:37.515 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32773/ - null null
+2026-03-21 19:32:37.516 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Text.Encoding.GetBytes(String s)
+   at Program.<>c__DisplayClass0_0.<<Main>$>b__1(JwtBearerOptions options) in F:\Cg_LPU\MicroServiceDemo\ApiGateway\Program.cs:line 51
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+--- End of stack trace from previous location ---
+   at System.Lazy`1.CreateValue()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd[TArg](String name, Func`3 createOptions, TArg factoryArgument)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.InitializeAsync(AuthenticationScheme scheme, HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandlerProvider.GetHandlerAsync(HttpContext context, String authenticationScheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.MiddlewareAnalysis.AnalysisMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.MiddlewareAnalysis.AnalysisMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-03-21 19:32:37.524 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32773/ - 500 null text/html; charset=utf-8 9.6096ms
+2026-03-21 19:32:38.487 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32773/favicon.ico - null null
+2026-03-21 19:32:38.489 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Text.Encoding.GetBytes(String s)
+   at Program.<>c__DisplayClass0_0.<<Main>$>b__1(JwtBearerOptions options) in F:\Cg_LPU\MicroServiceDemo\ApiGateway\Program.cs:line 51
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+--- End of stack trace from previous location ---
+   at System.Lazy`1.CreateValue()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd[TArg](String name, Func`3 createOptions, TArg factoryArgument)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.InitializeAsync(AuthenticationScheme scheme, HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandlerProvider.GetHandlerAsync(HttpContext context, String authenticationScheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.MiddlewareAnalysis.AnalysisMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.MiddlewareAnalysis.AnalysisMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-03-21 19:32:38.494 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32773/favicon.ico - 500 null text/plain; charset=utf-8 6.7953ms
+2026-03-21 19:33:36.845 +00:00 [WRN] Using an in-memory repository. Keys will not be persisted to storage.
+2026-03-21 19:33:36.886 +00:00 [WRN] Neither user profile nor HKLM registry available. Using an ephemeral key repository. Protected data will be unavailable when application exits.
+2026-03-21 19:33:36.896 +00:00 [INF] Creating key {f5f6d627-306a-4b35-80cf-472d4f95bc8b} with creation date 2026-03-21 19:33:36Z, activation date 2026-03-21 19:33:36Z, and expiration date 2026-06-19 19:33:36Z.
+2026-03-21 19:33:36.910 +00:00 [WRN] No XML encryptor configured. Key {f5f6d627-306a-4b35-80cf-472d4f95bc8b} may be persisted to storage in unencrypted form.
+2026-03-21 19:33:37.197 +00:00 [INF] Now listening on: http://[::]:8080
+2026-03-21 19:33:37.198 +00:00 [INF] Now listening on: https://[::]:8081
+2026-03-21 19:33:37.200 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-03-21 19:33:37.200 +00:00 [INF] Hosting environment: Development
+2026-03-21 19:33:37.201 +00:00 [INF] Content root path: /app
+2026-03-21 19:33:37.745 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32773/ - null null
+2026-03-21 19:33:37.887 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Text.Encoding.GetBytes(String s)
+   at Program.<>c__DisplayClass0_0.<<Main>$>b__1(JwtBearerOptions options) in F:\Cg_LPU\MicroServiceDemo\ApiGateway\Program.cs:line 51
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd[TArg](String name, Func`3 createOptions, TArg factoryArgument)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.InitializeAsync(AuthenticationScheme scheme, HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandlerProvider.GetHandlerAsync(HttpContext context, String authenticationScheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.MiddlewareAnalysis.AnalysisMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.MiddlewareAnalysis.AnalysisMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-03-21 19:33:37.949 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32773/ - 500 null text/html; charset=utf-8 205.9597ms
+2026-03-21 19:33:38.986 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32773/favicon.ico - null null
+2026-03-21 19:33:38.989 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Text.Encoding.GetBytes(String s)
+   at Program.<>c__DisplayClass0_0.<<Main>$>b__1(JwtBearerOptions options) in F:\Cg_LPU\MicroServiceDemo\ApiGateway\Program.cs:line 51
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+--- End of stack trace from previous location ---
+   at System.Lazy`1.CreateValue()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd[TArg](String name, Func`3 createOptions, TArg factoryArgument)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.InitializeAsync(AuthenticationScheme scheme, HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandlerProvider.GetHandlerAsync(HttpContext context, String authenticationScheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.MiddlewareAnalysis.AnalysisMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.MiddlewareAnalysis.AnalysisMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-03-21 19:33:38.994 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32773/favicon.ico - 500 null text/plain; charset=utf-8 8.392ms
+2026-03-21 19:39:02.547 +00:00 [WRN] Using an in-memory repository. Keys will not be persisted to storage.
+2026-03-21 19:39:02.597 +00:00 [WRN] Neither user profile nor HKLM registry available. Using an ephemeral key repository. Protected data will be unavailable when application exits.
+2026-03-21 19:39:02.611 +00:00 [INF] Creating key {76cdf81a-5df0-474d-a6fd-32d03524dcc7} with creation date 2026-03-21 19:39:02Z, activation date 2026-03-21 19:39:02Z, and expiration date 2026-06-19 19:39:02Z.
+2026-03-21 19:39:02.637 +00:00 [WRN] No XML encryptor configured. Key {76cdf81a-5df0-474d-a6fd-32d03524dcc7} may be persisted to storage in unencrypted form.
+2026-03-21 19:39:02.998 +00:00 [INF] Now listening on: http://[::]:8080
+2026-03-21 19:39:02.998 +00:00 [INF] Now listening on: https://[::]:8081
+2026-03-21 19:39:03.001 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-03-21 19:39:03.003 +00:00 [INF] Hosting environment: Development
+2026-03-21 19:39:03.003 +00:00 [INF] Content root path: /app
+2026-03-21 19:39:03.614 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32773/ - null null
+2026-03-21 19:39:04.054 +00:00 [INF] Request GET / started with CorrelationId: 7b4d8024-51fe-4e80-95ef-2673eeef1751
+2026-03-21 19:39:04.075 +00:00 [WRN] requestId: 0HNK7G60VPV2N:00000001, previousRequestId: No PreviousRequestId, message: 'DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET.'
+2026-03-21 19:39:04.076 +00:00 [WRN] requestId: 0HNK7G60VPV2N:00000001, previousRequestId: No PreviousRequestId, message: 'Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/, request method: GET'
+2026-03-21 19:39:04.080 +00:00 [INF] Request GET / completed with StatusCode: 404
+2026-03-21 19:39:04.087 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32773/ - 404 0 null 484.7964ms
+2026-03-21 19:39:19.492 +00:00 [WRN] Using an in-memory repository. Keys will not be persisted to storage.
+2026-03-21 19:39:19.535 +00:00 [WRN] Neither user profile nor HKLM registry available. Using an ephemeral key repository. Protected data will be unavailable when application exits.
+2026-03-21 19:39:19.546 +00:00 [INF] Creating key {a3670f9e-0dd5-4c6e-ba60-2159d5e646b5} with creation date 2026-03-21 19:39:19Z, activation date 2026-03-21 19:39:19Z, and expiration date 2026-06-19 19:39:19Z.
+2026-03-21 19:39:19.559 +00:00 [WRN] No XML encryptor configured. Key {a3670f9e-0dd5-4c6e-ba60-2159d5e646b5} may be persisted to storage in unencrypted form.
+2026-03-21 19:39:19.866 +00:00 [INF] Now listening on: http://[::]:8080
+2026-03-21 19:39:19.866 +00:00 [INF] Now listening on: https://[::]:8081
+2026-03-21 19:39:19.869 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-03-21 19:39:19.870 +00:00 [INF] Hosting environment: Development
+2026-03-21 19:39:19.871 +00:00 [INF] Content root path: /app
+2026-03-21 19:39:20.513 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32773/ - null null
+2026-03-21 19:39:20.667 +00:00 [INF] Request GET / started with CorrelationId: 8ee6d045-f935-43d4-9d06-41994c191959
+2026-03-21 19:39:20.685 +00:00 [WRN] requestId: 0HNK7G661KAOK:00000001, previousRequestId: No PreviousRequestId, message: 'DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET.'
+2026-03-21 19:39:20.687 +00:00 [WRN] requestId: 0HNK7G661KAOK:00000001, previousRequestId: No PreviousRequestId, message: 'Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/, request method: GET'
+2026-03-21 19:39:20.691 +00:00 [INF] Request GET / completed with StatusCode: 404
+2026-03-21 19:39:20.695 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32773/ - 404 0 null 185.2414ms
+2026-03-21 19:40:08.380 +00:00 [WRN] Using an in-memory repository. Keys will not be persisted to storage.
+2026-03-21 19:40:08.424 +00:00 [WRN] Neither user profile nor HKLM registry available. Using an ephemeral key repository. Protected data will be unavailable when application exits.
+2026-03-21 19:40:08.436 +00:00 [INF] Creating key {5b76cc7b-4b33-4da4-b8ec-e8c703e08f6e} with creation date 2026-03-21 19:40:08Z, activation date 2026-03-21 19:40:08Z, and expiration date 2026-06-19 19:40:08Z.
+2026-03-21 19:40:08.459 +00:00 [WRN] No XML encryptor configured. Key {5b76cc7b-4b33-4da4-b8ec-e8c703e08f6e} may be persisted to storage in unencrypted form.
+2026-03-21 19:40:08.844 +00:00 [INF] Now listening on: http://[::]:8080
+2026-03-21 19:40:08.844 +00:00 [INF] Now listening on: https://[::]:8081
+2026-03-21 19:40:08.847 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-03-21 19:40:08.848 +00:00 [INF] Hosting environment: Development
+2026-03-21 19:40:08.849 +00:00 [INF] Content root path: /app
+2026-03-21 19:40:09.400 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32773/ - null null
+2026-03-21 19:40:09.753 +00:00 [INF] Request GET / started with CorrelationId: 8895b70c-f41e-47d8-ad1b-3085cb0f6662
+2026-03-21 19:40:09.776 +00:00 [WRN] requestId: 0HNK7G6KJ6DJC:00000001, previousRequestId: No PreviousRequestId, message: 'DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET.'
+2026-03-21 19:40:09.778 +00:00 [WRN] requestId: 0HNK7G6KJ6DJC:00000001, previousRequestId: No PreviousRequestId, message: 'Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/, request method: GET'
+2026-03-21 19:40:09.783 +00:00 [INF] Request GET / completed with StatusCode: 404
+2026-03-21 19:40:09.790 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32773/ - 404 0 null 391.934ms
+2026-03-21 19:40:16.197 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32773/ - null null
+2026-03-21 19:40:16.201 +00:00 [INF] Request GET / started with CorrelationId: f8b36f0d-2a0d-42b1-8a55-4e3fad2781d5
+2026-03-21 19:40:16.223 +00:00 [WRN] requestId: 0HNK7G6KJ6DJC:00000003, previousRequestId: No PreviousRequestId, message: 'DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET.'
+2026-03-21 19:40:16.225 +00:00 [WRN] requestId: 0HNK7G6KJ6DJC:00000003, previousRequestId: No PreviousRequestId, message: 'Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/, request method: GET'
+2026-03-21 19:40:16.226 +00:00 [INF] Request GET / completed with StatusCode: 404
+2026-03-21 19:40:16.227 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32773/ - 404 0 null 30.095ms
+2026-03-21 19:41:57.322 +00:00 [WRN] Using an in-memory repository. Keys will not be persisted to storage.
+2026-03-21 19:41:57.370 +00:00 [WRN] Neither user profile nor HKLM registry available. Using an ephemeral key repository. Protected data will be unavailable when application exits.
+2026-03-21 19:41:57.382 +00:00 [INF] Creating key {073db56b-ed27-4043-b899-eec6c8018c78} with creation date 2026-03-21 19:41:57Z, activation date 2026-03-21 19:41:57Z, and expiration date 2026-06-19 19:41:57Z.
+2026-03-21 19:41:57.428 +00:00 [WRN] No XML encryptor configured. Key {073db56b-ed27-4043-b899-eec6c8018c78} may be persisted to storage in unencrypted form.
+2026-03-21 19:41:57.858 +00:00 [INF] Now listening on: http://[::]:8080
+2026-03-21 19:41:57.859 +00:00 [INF] Now listening on: https://[::]:8081
+2026-03-21 19:41:57.862 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-03-21 19:41:57.863 +00:00 [INF] Hosting environment: Development
+2026-03-21 19:41:57.864 +00:00 [INF] Content root path: /app
+2026-03-21 19:42:00.638 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32773/ - null null
+2026-03-21 19:42:00.805 +00:00 [INF] Request GET / started with CorrelationId: 7c69f8af-20c5-476d-822c-95933fca144e
+2026-03-21 19:42:00.825 +00:00 [WRN] requestId: 0HNK7G7LO5C6J:00000001, previousRequestId: No PreviousRequestId, message: 'DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET.'
+2026-03-21 19:42:00.826 +00:00 [WRN] requestId: 0HNK7G7LO5C6J:00000001, previousRequestId: No PreviousRequestId, message: 'Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/, request method: GET'
+2026-03-21 19:42:00.829 +00:00 [INF] Request GET / completed with StatusCode: 404
+2026-03-21 19:42:00.833 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32773/ - 404 0 null 197.9347ms
+2026-03-21 19:42:41.092 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32773/ - null null
+2026-03-21 19:42:41.099 +00:00 [INF] Request GET / started with CorrelationId: 772561d1-4b1b-45da-91cd-6f51de07e1f6
+2026-03-21 19:42:41.102 +00:00 [WRN] requestId: 0HNK7G7LO5C6J:00000003, previousRequestId: No PreviousRequestId, message: 'DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET.'
+2026-03-21 19:42:41.103 +00:00 [WRN] requestId: 0HNK7G7LO5C6J:00000003, previousRequestId: No PreviousRequestId, message: 'Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/, request method: GET'
+2026-03-21 19:42:41.104 +00:00 [INF] Request GET / completed with StatusCode: 404
+2026-03-21 19:42:41.106 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32773/ - 404 0 null 13.7351ms
+2026-03-21 19:43:04.218 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:32772/ - null null
+2026-03-21 19:43:04.230 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:32772/ - 307 0 null 12.2977ms
+2026-03-21 19:43:04.247 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32773/ - null null
+2026-03-21 19:43:04.253 +00:00 [INF] Request GET / started with CorrelationId: 979b71fa-f22e-4937-a51e-79200a8e7c75
+2026-03-21 19:43:04.255 +00:00 [WRN] requestId: 0HNK7G7LO5C6J:00000005, previousRequestId: No PreviousRequestId, message: 'DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET.'
+2026-03-21 19:43:04.256 +00:00 [WRN] requestId: 0HNK7G7LO5C6J:00000005, previousRequestId: No PreviousRequestId, message: 'Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/, request method: GET'
+2026-03-21 19:43:04.256 +00:00 [INF] Request GET / completed with StatusCode: 404
+2026-03-21 19:43:04.257 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32773/ - 404 0 null 10.0521ms

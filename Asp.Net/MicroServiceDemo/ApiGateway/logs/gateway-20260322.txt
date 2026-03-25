@@ -1,0 +1,32 @@
+2026-03-22 08:10:36.564 +00:00 [WRN] Using an in-memory repository. Keys will not be persisted to storage.
+2026-03-22 08:10:36.610 +00:00 [WRN] Neither user profile nor HKLM registry available. Using an ephemeral key repository. Protected data will be unavailable when application exits.
+2026-03-22 08:10:36.621 +00:00 [INF] Creating key {293c45d3-c584-4f25-a185-aa51692cef6d} with creation date 2026-03-22 08:10:36Z, activation date 2026-03-22 08:10:36Z, and expiration date 2026-06-20 08:10:36Z.
+2026-03-22 08:10:36.692 +00:00 [WRN] No XML encryptor configured. Key {293c45d3-c584-4f25-a185-aa51692cef6d} may be persisted to storage in unencrypted form.
+2026-03-22 08:10:37.167 +00:00 [INF] Now listening on: http://[::]:8080
+2026-03-22 08:10:37.168 +00:00 [INF] Now listening on: https://[::]:8081
+2026-03-22 08:10:37.170 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-03-22 08:10:37.171 +00:00 [INF] Hosting environment: Development
+2026-03-22 08:10:37.172 +00:00 [INF] Content root path: /app
+2026-03-22 08:10:38.023 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32771/ - null null
+2026-03-22 08:10:39.812 +00:00 [INF] Request GET / started with CorrelationId: 43ac357b-2ce8-4d31-a43d-f461378ea416
+2026-03-22 08:10:39.826 +00:00 [WRN] requestId: 0HNK7TA05LC7T:00000001, previousRequestId: No PreviousRequestId, message: 'DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET.'
+2026-03-22 08:10:39.828 +00:00 [WRN] requestId: 0HNK7TA05LC7T:00000001, previousRequestId: No PreviousRequestId, message: 'Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/, request method: GET'
+2026-03-22 08:10:39.832 +00:00 [INF] Request GET / completed with StatusCode: 404
+2026-03-22 08:10:39.836 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32771/ - 404 0 null 1818.1383ms
+2026-03-22 08:11:53.167 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:32770/ - null null
+2026-03-22 08:11:53.193 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:32770/ - 307 0 null 25.5787ms
+2026-03-22 08:11:53.222 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32771/ - null null
+2026-03-22 08:11:53.229 +00:00 [INF] Request GET / started with CorrelationId: c69bc103-1c4c-4d68-bf63-012abcc2815c
+2026-03-22 08:11:53.237 +00:00 [WRN] requestId: 0HNK7TA05LC7T:00000003, previousRequestId: No PreviousRequestId, message: 'DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET.'
+2026-03-22 08:11:53.239 +00:00 [WRN] requestId: 0HNK7TA05LC7T:00000003, previousRequestId: No PreviousRequestId, message: 'Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/, request method: GET'
+2026-03-22 08:11:53.240 +00:00 [INF] Request GET / completed with StatusCode: 404
+2026-03-22 08:11:53.242 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32771/ - 404 0 null 19.662ms
+2026-03-22 09:13:37.397 +00:00 [WRN] Using an in-memory repository. Keys will not be persisted to storage.
+2026-03-22 09:13:37.455 +00:00 [WRN] Neither user profile nor HKLM registry available. Using an ephemeral key repository. Protected data will be unavailable when application exits.
+2026-03-22 09:13:37.466 +00:00 [INF] Creating key {d2764b29-3fb5-4e7c-ae79-ef48b00f4431} with creation date 2026-03-22 09:13:37Z, activation date 2026-03-22 09:13:37Z, and expiration date 2026-06-20 09:13:37Z.
+2026-03-22 09:13:37.500 +00:00 [WRN] No XML encryptor configured. Key {d2764b29-3fb5-4e7c-ae79-ef48b00f4431} may be persisted to storage in unencrypted form.
+2026-03-22 09:13:37.976 +00:00 [INF] Now listening on: http://[::]:8080
+2026-03-22 09:13:37.976 +00:00 [INF] Now listening on: https://[::]:8081
+2026-03-22 09:13:37.978 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-03-22 09:13:37.979 +00:00 [INF] Hosting environment: Development
+2026-03-22 09:13:37.979 +00:00 [INF] Content root path: /app

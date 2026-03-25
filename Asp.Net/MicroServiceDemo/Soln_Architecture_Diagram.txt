@@ -1,0 +1,85 @@
+﻿MicroserviceDemo/
+├── MicroserviceDemo.sln
+├── docker-compose.yml
+├── .gitignore
+├── README.md
+│
+├── Shared/
+│   ├── Shared.csproj
+│   ├── Events/
+│   │   ├── IEvent.cs
+│   │   ├── OrderCreatedEvent.cs
+│   │   ├── PaymentProcessedEvent.cs
+│   │   ├── ShippingProcessedEvent.cs
+│   │   ├── PaymentFailedEvent.cs
+│   │   └── OrderCompensationEvent.cs
+│   └── Infrastructure/
+│       └── RabbitMQEventPublisher.cs
+│
+├── OrderService/
+│   ├── OrderService.csproj
+│   ├── Program.cs
+│   ├── appsettings.json
+│   ├── Dockerfile
+│   ├── Controllers/
+│   │   └── OrdersController.cs
+│   ├── Models/
+│   │   └── Order.cs
+│   ├── Data/
+│   │   └── ApplicationDbContext.cs
+│   ├── Services/
+│   │   ├── IOrderService.cs
+│   │   └── OrderService.cs
+│   ├── DTOs/
+│   │   └── CreateOrderDto.cs
+│   └── EventHandlers/
+│       └── SagaEventHandlers.cs
+│
+├── PaymentService/
+│   ├── PaymentService.csproj
+│   ├── Program.cs
+│   ├── appsettings.json
+│   ├── Dockerfile
+│   ├── Controllers/
+│   │   └── PaymentsController.cs
+│   ├── Models/
+│   │   └── Payment.cs
+│   ├── Data/
+│   │   └── ApplicationDbContext.cs
+│   ├── Services/
+│   │   ├── IPaymentService.cs
+│   │   └── PaymentService.cs
+│   └── EventHandlers/
+│       └── PaymentEventHandlers.cs
+│
+├── ShippingService/
+│   ├── ShippingService.csproj
+│   ├── Program.cs
+│   ├── appsettings.json
+│   ├── Dockerfile
+│   ├── Controllers/
+│   │   └── ShippingController.cs
+│   ├── Models/
+│   │   └── Shipment.cs
+│   ├── Data/
+│   │   └── ApplicationDbContext.cs
+│   ├── Services/
+│   │   ├── IShippingService.cs
+│   │   └── ShippingService.cs
+│   └── EventHandlers/
+│       └── ShippingEventHandlers.cs
+│
+└── ApiGateway/
+    ├── ApiGateway.csproj
+    ├── Program.cs
+    ├── ocelot.json
+    ├── appsettings.json
+    ├── Dockerfile
+    ├── Controllers/
+    │   └── AuthController.cs
+    ├── Middleware/
+    │   ├── CorrelationIdMiddleware.cs
+    │   └── RequestLoggingMiddleware.cs
+    └── Aggregators/
+        ├── OrderDetailsAggregator.cs
+        └── PaymentOrderAggregator.cs
