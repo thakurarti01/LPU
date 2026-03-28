@@ -8,6 +8,6 @@
     "\\ApiGateway\\Middleware",
     "\\PaymentService"
   ],
-  "SelectedNode": "\\ApiGateway\\Middleware",
+  "SelectedNode": "\\ApiGateway\\Controllers\\AuthController.cs",
   "PreviewInSolutionExplorer": false
 }

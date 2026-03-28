@@ -1,0 +1,15 @@
+E:\LPU\Asp.Net\SmartCommerce\SmartCommerce.Application\bin\Debug\net10.0\SmartCommerce.Application.deps.json
+E:\LPU\Asp.Net\SmartCommerce\SmartCommerce.Application\bin\Debug\net10.0\SmartCommerce.Application.runtimeconfig.json
+E:\LPU\Asp.Net\SmartCommerce\SmartCommerce.Application\bin\Debug\net10.0\SmartCommerce.Application.dll
+E:\LPU\Asp.Net\SmartCommerce\SmartCommerce.Application\bin\Debug\net10.0\SmartCommerce.Application.pdb
+E:\LPU\Asp.Net\SmartCommerce\SmartCommerce.Application\obj\Debug\net10.0\SmartCommerce.Application.csproj.AssemblyReference.cache
+E:\LPU\Asp.Net\SmartCommerce\SmartCommerce.Application\obj\Debug\net10.0\SmartCommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Asp.Net\SmartCommerce\SmartCommerce.Application\obj\Debug\net10.0\SmartCommerce.Application.AssemblyInfoInputs.cache
+E:\LPU\Asp.Net\SmartCommerce\SmartCommerce.Application\obj\Debug\net10.0\SmartCommerce.Application.AssemblyInfo.cs
+E:\LPU\Asp.Net\SmartCommerce\SmartCommerce.Application\obj\Debug\net10.0\SmartCommerce.Application.csproj.CoreCompileInputs.cache
+E:\LPU\Asp.Net\SmartCommerce\SmartCommerce.Application\obj\Debug\net10.0\SmartCommerce.Application.sourcelink.json
+E:\LPU\Asp.Net\SmartCommerce\SmartCommerce.Application\obj\Debug\net10.0\SmartCommerce.Application.dll
+E:\LPU\Asp.Net\SmartCommerce\SmartCommerce.Application\obj\Debug\net10.0\refint\SmartCommerce.Application.dll
+E:\LPU\Asp.Net\SmartCommerce\SmartCommerce.Application\obj\Debug\net10.0\SmartCommerce.Application.pdb
+E:\LPU\Asp.Net\SmartCommerce\SmartCommerce.Application\obj\Debug\net10.0\SmartCommerce.Application.genruntimeconfig.cache
+E:\LPU\Asp.Net\SmartCommerce\SmartCommerce.Application\obj\Debug\net10.0\ref\SmartCommerce.Application.dll
