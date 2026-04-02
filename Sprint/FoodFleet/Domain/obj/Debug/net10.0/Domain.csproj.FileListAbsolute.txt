@@ -1,0 +1,15 @@
+E:\LPU\Sprint\FoodFleet\Domain\bin\Debug\net10.0\Domain.deps.json
+E:\LPU\Sprint\FoodFleet\Domain\bin\Debug\net10.0\Domain.runtimeconfig.json
+E:\LPU\Sprint\FoodFleet\Domain\bin\Debug\net10.0\Domain.dll
+E:\LPU\Sprint\FoodFleet\Domain\bin\Debug\net10.0\Domain.pdb
+E:\LPU\Sprint\FoodFleet\Domain\obj\Debug\net10.0\Domain.csproj.AssemblyReference.cache
+E:\LPU\Sprint\FoodFleet\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\LPU\Sprint\FoodFleet\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+E:\LPU\Sprint\FoodFleet\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+E:\LPU\Sprint\FoodFleet\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+E:\LPU\Sprint\FoodFleet\Domain\obj\Debug\net10.0\Domain.sourcelink.json
+E:\LPU\Sprint\FoodFleet\Domain\obj\Debug\net10.0\Domain.dll
+E:\LPU\Sprint\FoodFleet\Domain\obj\Debug\net10.0\refint\Domain.dll
+E:\LPU\Sprint\FoodFleet\Domain\obj\Debug\net10.0\Domain.pdb
+E:\LPU\Sprint\FoodFleet\Domain\obj\Debug\net10.0\Domain.genruntimeconfig.cache
+E:\LPU\Sprint\FoodFleet\Domain\obj\Debug\net10.0\ref\Domain.dll
